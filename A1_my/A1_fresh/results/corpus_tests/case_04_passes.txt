@@ -1,0 +1,24 @@
+Input before greedy: hhi men rere acsoseg of gonspiring te bribi governmont ufvicials int degaud the social securidy adpenistratian
+Output after greedy: hhi man were acsoseg of conspiring to bribe government ufvicials inc defaud the social security adpenistratian
+Cost after greedy: 102.9121472370415
+
+Input before beam search: hhi man were acsoseg of conspiring to bribe government ufvicials inc defaud the social security adpenistratian
+Output after beam search: the men were acsoseg of conspiring to bribe government officials inc defaud the social security adpenistratian
+Cost after beam search: 60.656777112649905
+
+Input before beam search: the men were acsoseg of conspiring to bribe government officials inc defaud the social security adpenistratian
+Output after beam search: the men were acsoseg of conspiring to bribe government officials inc defaud the social security adpenistratian
+Cost after beam search: 60.656777112649905
+
+Input before beam search: the men were acsoseg of conspiring to bribe government officials inc defaud the social security adpenistratian
+Output after beam search: the men were accused of conspiring to bribe government officials inc defaud the social security adpenistratian
+Cost after beam search: 34.94600893479351
+
+Input before beam search: the men were accused of conspiring to bribe government officials inc defaud the social security adpenistratian
+Output after beam search: the men were accused of conspiring to bribe government officials inc defaud the social security adpenistratian
+Cost after beam search: 34.94600893479351
+
+Input before beam search: the men were accused of conspiring to bribe government officials inc defaud the social security adpenistratian
+Output after beam search: the men were accused of conspiring to bribe government officials inc defaud the social security adpenistratian
+Cost after beam search: 34.94600893479351
+

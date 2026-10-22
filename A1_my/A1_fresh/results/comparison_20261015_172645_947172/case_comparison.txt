@@ -1,0 +1,2609 @@
+CASE-BY-CASE SOLVER COMPARISON
+Run folder: /Users/aakritypandey/Documents/trying/ai/A1_my/A1_fresh/results/comparison_20261015_172645_947172
+Cases: 100
+Actual = correct reference text. Yours = solvers.py.
+Word accuracy compares words at the same positions; character accuracy compares character positions.
+Accuracy and cost reduction: higher is better. Cost_fn = saved language-model cost; lower is better.
+Fixed errors count corrupted characters restored to the reference; introduced errors count previously correct positions made wrong.
+Timeouts score the saved best_state. Missing results and other failures are shown explicitly.
+
+====================================================================================================
+CASE 001 | Easy | 15 words | 92 characters
+----------------------------------------------------------------------------------------------------
+Input:  grey marketeers may also be able so outfox any new resduictions some industry officiuls said
+Actual: grey marketeers may also be able to outfox any new restrictions some industry officials said
+Input metrics: word_accuracy=80.00% | character_accuracy=95.65% | character_errors=4 | cost_fn=64.649448
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.259167
+
+Spidy output: grey marketeers may also be able to outfox any new restrictions some industry officials said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.259167 | input_cost_reduction=52.390281 | cost_minus_actual=0.000000
+  Runtime: 2.0124s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: grey marketeers may also be able to outfox any new restrictions some industry officials said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.259167 | input_cost_reduction=52.390281 | cost_minus_actual=0.000000
+  Runtime: 2.0655s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: grey marketeers may also be able to outfox any new restrictions some industry officials said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.259167 | input_cost_reduction=52.390281 | cost_minus_actual=0.000000
+  Runtime: 2.0100s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 002 | Medium | 15 words | 92 characters
+----------------------------------------------------------------------------------------------------
+Input:  grey marketears may also be able to oosvox any new rustrictions time industry officiuls said
+Actual: grey marketeers may also be able to outfox any new restrictions some industry officials said
+Input metrics: word_accuracy=66.67% | character_accuracy=91.30% | character_errors=8 | cost_fn=105.796756
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.259167
+
+Spidy output: grey marketeers may also be able to outfox any new restrictions some industry officials said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.259167 | input_cost_reduction=93.537589 | cost_minus_actual=0.000000
+  Runtime: 2.0075s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: grey marketeers may also be able to oosvox any new restrictions some industry officials said
+  Accuracy: word=93.33% | character=96.74% | exact_match=False
+  Errors: remaining=3 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=35.137214 | input_cost_reduction=70.659542 | cost_minus_actual=22.878046
+  Runtime: 2.0040s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: grey marketeers may also be able to outfox any new restrictions time industry officials said
+  Accuracy: word=93.33% | character=97.83% | exact_match=False
+  Errors: remaining=2 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=19.415402 | input_cost_reduction=86.381354 | cost_minus_actual=7.156235
+  Runtime: 2.0044s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 003 | Hard | 15 words | 92 characters
+----------------------------------------------------------------------------------------------------
+Input:  griy nankeheert mao also bu able to outfox ene new restrictiors sone idduztry offycials soyd
+Actual: grey marketeers may also be able to outfox any new restrictions some industry officials said
+Input metrics: word_accuracy=33.33% | character_accuracy=82.61% | character_errors=16 | cost_fn=182.545751
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.259167
+
+Spidy output: grey nankeheert may also be able to outfox any new restrictions some industry officials said
+  Accuracy: word=93.33% | character=95.65% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=36.867273 | input_cost_reduction=145.678478 | cost_minus_actual=24.608106
+  Runtime: 2.0058s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: grey nankeheert may also be able to outfox any new restrictions some idduztry officials soyb
+  Accuracy: word=80.00% | character=90.22% | exact_match=False
+  Errors: remaining=9 | fixed=8 | introduced=1 | changed_positions=9
+  Cost: cost_fn=65.171206 | input_cost_reduction=117.374545 | cost_minus_actual=52.912039
+  Runtime: 2.0565s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: grey marketeers may also be able to outfox one new restrictions some industry officials soyb
+  Accuracy: word=86.67% | character=94.57% | exact_match=False
+  Errors: remaining=5 | fixed=12 | introduced=1 | changed_positions=14
+  Cost: cost_fn=25.158206 | input_cost_reduction=157.387545 | cost_minus_actual=12.899039
+  Runtime: 2.0028s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 004 | Easy | 17 words | 133 characters
+----------------------------------------------------------------------------------------------------
+Input:  ut saig the new btx procass units include aromatic extraction xylene fractionation xylene isomerization and thirmal hydradeaikylation
+Actual: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+Input metrics: word_accuracy=70.59% | character_accuracy=95.49% | character_errors=6 | cost_fn=97.785517
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=7.537415
+
+Spidy output: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=7.537415 | input_cost_reduction=90.248102 | cost_minus_actual=0.000000
+  Runtime: 2.0062s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydradeaikylation
+  Accuracy: word=94.12% | character=98.50% | exact_match=False
+  Errors: remaining=2 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=27.537415 | input_cost_reduction=70.248102 | cost_minus_actual=20.000000
+  Runtime: 2.0074s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=7.537415 | input_cost_reduction=90.248102 | cost_minus_actual=0.000000
+  Runtime: 2.0200s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 005 | Medium | 17 words | 133 characters
+----------------------------------------------------------------------------------------------------
+Input:  it said tie now btx process units includa oromitic extractyor xylene fractionition xylede izimerization and theemal hydrodealkylation
+Actual: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+Input metrics: word_accuracy=47.06% | character_accuracy=90.98% | character_errors=12 | cost_fn=169.964901
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=7.537415
+
+Spidy output: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=7.537415 | input_cost_reduction=162.427486 | cost_minus_actual=0.000000
+  Runtime: 2.0109s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the new btx process units include oromitic extractyor xylene fractionation xylene izimerization and thermal hydrodealkylation
+  Accuracy: word=82.35% | character=95.49% | exact_match=False
+  Errors: remaining=6 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=79.436073 | input_cost_reduction=90.528828 | cost_minus_actual=71.898658
+  Runtime: 2.0399s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the new btx process units include oromitic extractyor xylene fractionation xylene izimerization and thermal hydrodealkylation
+  Accuracy: word=82.35% | character=95.49% | exact_match=False
+  Errors: remaining=6 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=79.436073 | input_cost_reduction=90.528828 | cost_minus_actual=71.898658
+  Runtime: 2.0131s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 006 | Hard | 17 words | 133 characters
+----------------------------------------------------------------------------------------------------
+Input:  ic saud the ner btx prucass utits include arotitic extroction xylene guictiinasior cylene isomerigitior and tharmel hydrodealtylatuon
+Actual: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+Input metrics: word_accuracy=29.41% | character_accuracy=82.71% | character_errors=23 | cost_fn=227.436838
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=7.537415
+
+Spidy output: it said the new btx process units include aromatic extraction xylene guictiinasior xylene isomerigitior and thermal hydrodealtylatuon
+  Accuracy: word=82.35% | character=91.73% | exact_match=False
+  Errors: remaining=11 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=79.612164 | input_cost_reduction=147.824674 | cost_minus_actual=72.074749
+  Runtime: 2.0016s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the new btx process units include arotitic extraction xylene guictiinasior xylene isomerigitior and tharmel hydrodealtylatuon
+  Accuracy: word=70.59% | character=88.72% | exact_match=False
+  Errors: remaining=15 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=120.913879 | input_cost_reduction=106.522959 | cost_minus_actual=113.376464
+  Runtime: 2.9408s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the new btx process units include aromatic extraction xylene guictiinasior xylene isomerigitior and tharmel hydrodealtylatuon
+  Accuracy: word=76.47% | character=90.23% | exact_match=False
+  Errors: remaining=13 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=95.203110 | input_cost_reduction=132.233727 | cost_minus_actual=87.665695
+  Runtime: 2.0206s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 007 | Easy | 15 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  it said the increase eill affect the floor covering markets paper paporboard and specialty mirkits
+Actual: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+Input metrics: word_accuracy=80.00% | character_accuracy=95.92% | character_errors=4 | cost_fn=77.742743
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=10.792559
+
+Spidy output: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=10.792559 | input_cost_reduction=66.950184 | cost_minus_actual=0.000000
+  Runtime: 2.0060s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the increase will affect the floor covering markets paper paperboard and specialty mirkits
+  Accuracy: word=93.33% | character=97.96% | exact_match=False
+  Errors: remaining=2 | fixed=2 | introduced=0 | changed_positions=2
+  Cost: cost_fn=30.315438 | input_cost_reduction=47.427305 | cost_minus_actual=19.522879
+  Runtime: 2.0307s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=10.792559 | input_cost_reduction=66.950184 | cost_minus_actual=0.000000
+  Runtime: 2.0140s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 008 | Medium | 15 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  it said the increase wall afvect the frooe coverung markets paper paperpoard and smecialty markots
+Actual: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+Input metrics: word_accuracy=53.33% | character_accuracy=91.84% | character_errors=8 | cost_fn=138.011547
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=10.792559
+
+Spidy output: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=10.792559 | input_cost_reduction=127.218987 | cost_minus_actual=0.000000
+  Runtime: 2.0039s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=10.792559 | input_cost_reduction=127.218987 | cost_minus_actual=0.000000
+  Runtime: 2.0151s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=10.792559 | input_cost_reduction=127.218987 | cost_minus_actual=0.000000
+  Runtime: 2.3607s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 009 | Hard | 15 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  ih saud shu increase will affect tho floor covering merkets papur bupenboard and spesyarcy margecd
+Actual: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+Input metrics: word_accuracy=40.00% | character_accuracy=82.65% | character_errors=17 | cost_fn=180.342504
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=10.792559
+
+Spidy output: it said the increase will affect the floor covering markets paper bupenboard and spesyarcy margecd
+  Accuracy: word=80.00% | character=89.80% | exact_match=False
+  Errors: remaining=10 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=72.094274 | input_cost_reduction=108.248230 | cost_minus_actual=61.301715
+  Runtime: 2.0026s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the increase will affect the floor covering markets paper bupenboard and spesyarcy margecd
+  Accuracy: word=80.00% | character=89.80% | exact_match=False
+  Errors: remaining=10 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=72.094274 | input_cost_reduction=108.248230 | cost_minus_actual=61.301715
+  Runtime: 2.0539s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said shr increase will affect the floor covering markets paper bupenboard and spesyarcy margecd
+  Accuracy: word=73.33% | character=87.76% | exact_match=False
+  Errors: remaining=12 | fixed=5 | introduced=0 | changed_positions=6
+  Cost: cost_fn=75.703740 | input_cost_reduction=104.638764 | cost_minus_actual=64.911181
+  Runtime: 2.0095s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 010 | Easy | 18 words | 101 characters
+----------------------------------------------------------------------------------------------------
+Input:  noranda said wirk crews have begun sacuring the ramp leading into the zoni where the fire wad located
+Actual: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+Input metrics: word_accuracy=77.78% | character_accuracy=96.04% | character_errors=4 | cost_fn=108.042474
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.478740
+
+Spidy output: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.478740 | input_cost_reduction=95.563734 | cost_minus_actual=0.000000
+  Runtime: 2.0042s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.478740 | input_cost_reduction=95.563734 | cost_minus_actual=0.000000
+  Runtime: 2.0188s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.478740 | input_cost_reduction=95.563734 | cost_minus_actual=0.000000
+  Runtime: 2.0123s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 011 | Medium | 18 words | 101 characters
+----------------------------------------------------------------------------------------------------
+Input:  noranda said wonk crews have begun seciring tee ramp leadirg into the gone whele thi fira was located
+Actual: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+Input metrics: word_accuracy=55.56% | character_accuracy=92.08% | character_errors=8 | cost_fn=171.063416
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.478740
+
+Spidy output: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.478740 | input_cost_reduction=158.584676 | cost_minus_actual=0.000000
+  Runtime: 2.0037s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.478740 | input_cost_reduction=158.584676 | cost_minus_actual=0.000000
+  Runtime: 2.0055s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.478740 | input_cost_reduction=158.584676 | cost_minus_actual=0.000000
+  Runtime: 2.0056s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 012 | Hard | 18 words | 101 characters
+----------------------------------------------------------------------------------------------------
+Input:  naranda saed eork creus have begum securing hhe ranp leiditt into she zone ehera the lire eos locatad
+Actual: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+Input metrics: word_accuracy=27.78% | character_accuracy=83.17% | character_errors=17 | cost_fn=244.961488
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.478740
+
+Spidy output: noranda said work crews have begun securing the ramp leiditt into the zone where the fire out located
+  Accuracy: word=88.89% | character=94.06% | exact_match=False
+  Errors: remaining=6 | fixed=12 | introduced=1 | changed_positions=15
+  Cost: cost_fn=43.826491 | input_cost_reduction=201.134997 | cost_minus_actual=31.347751
+  Runtime: 2.0010s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: noranda said work crews have begun securing the ramp leiditt into the zone where the fund out located
+  Accuracy: word=83.33% | character=91.09% | exact_match=False
+  Errors: remaining=9 | fixed=12 | introduced=4 | changed_positions=18
+  Cost: cost_fn=44.864402 | input_cost_reduction=200.097086 | cost_minus_actual=32.385662
+  Runtime: 2.0030s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: noranda said work crews have begun securing the ramp leavitt into the zone where the fire lot located
+  Accuracy: word=88.89% | character=94.06% | exact_match=False
+  Errors: remaining=6 | fixed=13 | introduced=2 | changed_positions=16
+  Cost: cost_fn=30.654676 | input_cost_reduction=214.306812 | cost_minus_actual=18.175936
+  Runtime: 2.0069s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 013 | Easy | 16 words | 112 characters
+----------------------------------------------------------------------------------------------------
+Input:  boc turning that capital into more permanent productive invessment depends on governmens economic palicy he said
+Actual: but turning that capital into more permanent productive investment depends on government economic policy he said
+Input metrics: word_accuracy=75.00% | character_accuracy=95.54% | character_errors=5 | cost_fn=83.229021
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.416286
+
+Spidy output: but turning that capital into more permanent productive investment depends on government economic policy he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.416286 | input_cost_reduction=71.812735 | cost_minus_actual=0.000000
+  Runtime: 2.0490s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: but turning that capital into more permanent productive investment depends on government economic policy he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.416286 | input_cost_reduction=71.812735 | cost_minus_actual=0.000000
+  Runtime: 2.0050s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: boc turning that capital into more permanent productive investment depends on government economic policy he said
+  Accuracy: word=93.75% | character=98.21% | exact_match=False
+  Errors: remaining=2 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=17.604175 | input_cost_reduction=65.624846 | cost_minus_actual=6.187889
+  Runtime: 2.0085s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 014 | Medium | 16 words | 112 characters
+----------------------------------------------------------------------------------------------------
+Input:  but turnang thec capital ynto moru permanent productivo anvestment depetds on govornment economic bolicy he said
+Actual: but turning that capital into more permanent productive investment depends on government economic policy he said
+Input metrics: word_accuracy=43.75% | character_accuracy=91.07% | character_errors=10 | cost_fn=198.130829
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.416286
+
+Spidy output: but turning that capital into more permanent productive investment depends on government economic policy he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=11.416286 | input_cost_reduction=186.714543 | cost_minus_actual=0.000000
+  Runtime: 2.0063s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: but turning that capital into more permanent productive investment depends on government economic policy he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=11.416286 | input_cost_reduction=186.714543 | cost_minus_actual=0.000000
+  Runtime: 2.0107s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: but turning that capital into more permanent productive investment depends on government economic policy he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=11.416286 | input_cost_reduction=186.714543 | cost_minus_actual=0.000000
+  Runtime: 2.0051s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 015 | Hard | 16 words | 112 characters
+----------------------------------------------------------------------------------------------------
+Input:  vut turnidg ceat capital ytta mone permatert productive itvestdett dependz om tovernment econodic policy ho sait
+Actual: but turning that capital into more permanent productive investment depends on government economic policy he said
+Input metrics: word_accuracy=18.75% | character_accuracy=83.04% | character_errors=19 | cost_fn=229.098932
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.416286
+
+Spidy output: but turning that capital into more permanent productive itvestdett depends on government economic policy he said
+  Accuracy: word=93.75% | character=97.32% | exact_match=False
+  Errors: remaining=3 | fixed=16 | introduced=0 | changed_positions=16
+  Cost: cost_fn=35.888172 | input_cost_reduction=193.210760 | cost_minus_actual=24.471886
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: but turning that capital into more permanent productive itvestdett depends on government economic policy he said
+  Accuracy: word=93.75% | character=97.32% | exact_match=False
+  Errors: remaining=3 | fixed=16 | introduced=0 | changed_positions=16
+  Cost: cost_fn=35.888172 | input_cost_reduction=193.210760 | cost_minus_actual=24.471886
+  Runtime: 2.0078s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: but turning seat capital into more permanent productive itvestdett depends on government economic policy to said
+  Accuracy: word=81.25% | character=93.75% | exact_match=False
+  Errors: remaining=7 | fixed=13 | introduced=1 | changed_positions=15
+  Cost: cost_fn=47.030717 | input_cost_reduction=182.068215 | cost_minus_actual=35.614432
+  Runtime: 2.0044s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 016 | Easy | 15 words | 83 characters
+----------------------------------------------------------------------------------------------------
+Input:  he declined do say how many dollars tho bank bought or when precisaly it intervened
+Actual: he declined to say how many dollars the bank bought or when precisely it intervened
+Input metrics: word_accuracy=80.00% | character_accuracy=96.39% | character_errors=3 | cost_fn=66.299301
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.231705
+
+Spidy output: he declined to say how many dollars the bank bought or when precisely it intervened
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=12.231705 | input_cost_reduction=54.067595 | cost_minus_actual=0.000000
+  Runtime: 2.0059s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: he declined to say how many dollars the bank bought or when precisely it intervened
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=12.231705 | input_cost_reduction=54.067595 | cost_minus_actual=0.000000
+  Runtime: 2.0047s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: he declined to say how many dollars the bank bought or when precisely it intervened
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=12.231705 | input_cost_reduction=54.067595 | cost_minus_actual=0.000000
+  Runtime: 2.0017s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 017 | Medium | 15 words | 83 characters
+----------------------------------------------------------------------------------------------------
+Input:  he declinod to sai how many dollers tee bank vought or when peicisely it intervened
+Actual: he declined to say how many dollars the bank bought or when precisely it intervened
+Input metrics: word_accuracy=60.00% | character_accuracy=91.57% | character_errors=7 | cost_fn=142.670348
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.231705
+
+Spidy output: he declined to say how many dollars the bank bought or when precisely it intervened
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.231705 | input_cost_reduction=130.438643 | cost_minus_actual=0.000000
+  Runtime: 2.0048s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: he declined to say how many dollars the bank bought or when precisely it intervened
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.231705 | input_cost_reduction=130.438643 | cost_minus_actual=0.000000
+  Runtime: 2.0111s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: he declined to say how many dollars the bank bought or when precisely it intervened
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.231705 | input_cost_reduction=130.438643 | cost_minus_actual=0.000000
+  Runtime: 2.0077s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 018 | Hard | 15 words | 83 characters
+----------------------------------------------------------------------------------------------------
+Input:  eu deglineg to say how many dodlars dhe bank bought er wher puecisely it emselveneg
+Actual: he declined to say how many dollars the bank bought or when precisely it intervened
+Input metrics: word_accuracy=46.67% | character_accuracy=83.13% | character_errors=14 | cost_fn=173.057419
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.231705
+
+Spidy output: he declined to say how many dollars the bank bought or when precisely it emselveneg
+  Accuracy: word=93.33% | character=93.98% | exact_match=False
+  Errors: remaining=5 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=31.754584 | input_cost_reduction=141.302835 | cost_minus_actual=19.522879
+  Runtime: 2.0037s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: he declined to say how many dollars the bank bought or when precisely it emselveneg
+  Accuracy: word=93.33% | character=93.98% | exact_match=False
+  Errors: remaining=5 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=31.754584 | input_cost_reduction=141.302835 | cost_minus_actual=19.522879
+  Runtime: 2.0097s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: be declined to say how many dollars the bank bought or when precisely it emselveneg
+  Accuracy: word=86.67% | character=92.77% | exact_match=False
+  Errors: remaining=6 | fixed=8 | introduced=0 | changed_positions=9
+  Cost: cost_fn=34.755564 | input_cost_reduction=138.301855 | cost_minus_actual=22.523859
+  Runtime: 2.0013s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 019 | Easy | 15 words | 87 characters
+----------------------------------------------------------------------------------------------------
+Input:  the company also said it granted noranda an optuim to purchase two mln galvestot shares
+Actual: the company also said it granted noranda an option to purchase two mln galveston shares
+Input metrics: word_accuracy=86.67% | character_accuracy=95.40% | character_errors=4 | cost_fn=57.265905
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.421247
+
+Spidy output: the company also said it granted noranda an option to purchase two mln galveston shares
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.421247 | input_cost_reduction=44.844658 | cost_minus_actual=0.000000
+  Runtime: 2.0119s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the company also said it granted noranda an optuim to purchase two mln galveston shares
+  Accuracy: word=93.33% | character=96.55% | exact_match=False
+  Errors: remaining=3 | fixed=1 | introduced=0 | changed_positions=1
+  Cost: cost_fn=35.358457 | input_cost_reduction=21.907448 | cost_minus_actual=22.937210
+  Runtime: 2.0106s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the company also said it granted noranda an obtain to purchase two mln galveston shares
+  Accuracy: word=93.33% | character=96.55% | exact_match=False
+  Errors: remaining=3 | fixed=2 | introduced=1 | changed_positions=4
+  Cost: cost_fn=19.805984 | input_cost_reduction=37.459921 | cost_minus_actual=7.384737
+  Runtime: 2.0083s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 020 | Medium | 15 words | 87 characters
+----------------------------------------------------------------------------------------------------
+Input:  thi company also said it granted niranda on option to purkhase tuo mln galtaston shares
+Actual: the company also said it granted noranda an option to purchase two mln galveston shares
+Input metrics: word_accuracy=60.00% | character_accuracy=91.95% | character_errors=7 | cost_fn=119.885930
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.421247
+
+Spidy output: the company also said it granted noranda an option to purchase two mln galveston shares
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.421247 | input_cost_reduction=107.464683 | cost_minus_actual=0.000000
+  Runtime: 2.0068s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the company also said it granted noranda an option to purchase two mln galveston shares
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.421247 | input_cost_reduction=107.464683 | cost_minus_actual=0.000000
+  Runtime: 2.0095s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the company also said it granted noranda an option to purchase two mln galveston shares
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.421247 | input_cost_reduction=107.464683 | cost_minus_actual=0.000000
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 021 | Hard | 15 words | 87 characters
+----------------------------------------------------------------------------------------------------
+Input:  tte compuny alse said at grunted toranea an optuon to purchese twa dlm galbettun shares
+Actual: the company also said it granted noranda an option to purchase two mln galveston shares
+Input metrics: word_accuracy=26.67% | character_accuracy=82.76% | character_errors=15 | cost_fn=196.221741
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.421247
+
+Spidy output: the company also said it granted noranda an option to purchase two mln galbettun shares
+  Accuracy: word=93.33% | character=96.55% | exact_match=False
+  Errors: remaining=3 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.328694 | input_cost_reduction=161.893047 | cost_minus_actual=21.907448
+  Runtime: 2.0048s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the company also said it granted noranda an option to purchase two mln galbettun shares
+  Accuracy: word=93.33% | character=96.55% | exact_match=False
+  Errors: remaining=3 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.328694 | input_cost_reduction=161.893047 | cost_minus_actual=21.907448
+  Runtime: 2.0097s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the company also said it granted noranda an option to purchase two slb galveston shares
+  Accuracy: word=93.33% | character=97.70% | exact_match=False
+  Errors: remaining=2 | fixed=13 | introduced=0 | changed_positions=15
+  Cost: cost_fn=21.597270 | input_cost_reduction=174.624471 | cost_minus_actual=9.176024
+  Runtime: 2.0050s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 022 | Easy | 19 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  damage was modt severe en plamts above the ground where little or no snow cofer was present he added
+Actual: damage was most severe on plants above the ground where little or no snow cover was present he added
+Input metrics: word_accuracy=78.95% | character_accuracy=96.00% | character_errors=4 | cost_fn=89.361792
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.052237
+
+Spidy output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.052237 | input_cost_reduction=77.309555 | cost_minus_actual=0.000000
+  Runtime: 2.0062s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.052237 | input_cost_reduction=77.309555 | cost_minus_actual=0.000000
+  Runtime: 2.0269s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.052237 | input_cost_reduction=77.309555 | cost_minus_actual=0.000000
+  Runtime: 2.0021s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 023 | Medium | 19 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  datage was mast zevere on blantc above the cround wnere little ur no snow cover was present he added
+Actual: damage was most severe on plants above the ground where little or no snow cover was present he added
+Input metrics: word_accuracy=63.16% | character_accuracy=92.00% | character_errors=8 | cost_fn=160.031111
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.052237
+
+Spidy output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.052237 | input_cost_reduction=147.978873 | cost_minus_actual=0.000000
+  Runtime: 2.0061s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.052237 | input_cost_reduction=147.978873 | cost_minus_actual=0.000000
+  Runtime: 2.0182s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.052237 | input_cost_reduction=147.978873 | cost_minus_actual=0.000000
+  Runtime: 2.0049s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 024 | Hard | 19 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  damage haz mott severi ot fiants abova dhe ground uhere lithle or no snow cuber wad present te idded
+Actual: damage was most severe on plants above the ground where little or no snow cover was present he added
+Input metrics: word_accuracy=31.58% | character_accuracy=84.00% | character_errors=16 | cost_fn=250.878678
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.052237
+
+Spidy output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=16 | introduced=0 | changed_positions=16
+  Cost: cost_fn=12.052237 | input_cost_reduction=238.826440 | cost_minus_actual=0.000000
+  Runtime: 2.0081s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: damage was most severe on plants above the ground where little or no snow cover was present to added
+  Accuracy: word=94.74% | character=98.00% | exact_match=False
+  Errors: remaining=2 | fixed=15 | introduced=1 | changed_positions=16
+  Cost: cost_fn=16.935888 | input_cost_reduction=233.942790 | cost_minus_actual=4.883650
+  Runtime: 2.0102s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: damage was most severe on plants above the ground where little or no snow cover was present he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=16 | introduced=0 | changed_positions=16
+  Cost: cost_fn=12.052237 | input_cost_reduction=238.826440 | cost_minus_actual=0.000000
+  Runtime: 2.0016s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 025 | Easy | 16 words | 114 characters
+----------------------------------------------------------------------------------------------------
+Input:  thu units make and distribote varaous products incluting laen mowers small appliances and sheep shearing equipment
+Actual: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+Input metrics: word_accuracy=68.75% | character_accuracy=95.61% | character_errors=5 | cost_fn=102.667748
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=7.991413
+
+Spidy output: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=7.991413 | input_cost_reduction=94.676335 | cost_minus_actual=0.000000
+  Runtime: 2.0025s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=7.991413 | input_cost_reduction=94.676335 | cost_minus_actual=0.000000
+  Runtime: 2.0067s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=7.991413 | input_cost_reduction=94.676335 | cost_minus_actual=0.000000
+  Runtime: 2.0030s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 026 | Medium | 16 words | 114 characters
+----------------------------------------------------------------------------------------------------
+Input:  the units moke and dissrebuse various productt inclutyng lawn mowers small uppliances and sheep sieuring equipment
+Actual: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+Input metrics: word_accuracy=62.50% | character_accuracy=91.23% | character_errors=10 | cost_fn=147.218475
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=7.991413
+
+Spidy output: the units make and dissrebuse various products including lawn mowers small appliances and sheep shearing equipment
+  Accuracy: word=93.75% | character=97.37% | exact_match=False
+  Errors: remaining=3 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=33.577242 | input_cost_reduction=113.641233 | cost_minus_actual=25.585829
+  Runtime: 2.0086s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the units make and dissrebuse various products including lawn mowers small appliances and sheep shearing equipment
+  Accuracy: word=93.75% | character=97.37% | exact_match=False
+  Errors: remaining=3 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=33.577242 | input_cost_reduction=113.641233 | cost_minus_actual=25.585829
+  Runtime: 2.0079s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=7.991413 | input_cost_reduction=139.227063 | cost_minus_actual=0.000000
+  Runtime: 2.0037s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 027 | Hard | 16 words | 114 characters
+----------------------------------------------------------------------------------------------------
+Input:  the unets maki anb dissribete various peibicts incladang rawn mowers smell atpliancet and sheep dhuulitg equipment
+Actual: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+Input metrics: word_accuracy=37.50% | character_accuracy=82.46% | character_errors=20 | cost_fn=206.952851
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=7.991413
+
+Spidy output: the units make and distribute various peibicts including lawn mowers small appliances and sheep dhuulitg equipment
+  Accuracy: word=87.50% | character=92.11% | exact_match=False
+  Errors: remaining=9 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=58.057561 | input_cost_reduction=148.895290 | cost_minus_actual=50.066149
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the units make and distribute various peibicts including lawn mowers small appliances and steep dhuulitg equipment
+  Accuracy: word=81.25% | character=91.23% | exact_match=False
+  Errors: remaining=10 | fixed=11 | introduced=1 | changed_positions=12
+  Cost: cost_fn=61.320487 | input_cost_reduction=145.632365 | cost_minus_actual=53.329074
+  Runtime: 2.0083s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the units make and distribute various peibicts including lawn mowers small appliances and steep dhuulitg equipment
+  Accuracy: word=81.25% | character=91.23% | exact_match=False
+  Errors: remaining=10 | fixed=11 | introduced=1 | changed_positions=12
+  Cost: cost_fn=61.320487 | input_cost_reduction=145.632365 | cost_minus_actual=53.329074
+  Runtime: 2.0060s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 028 | Easy | 15 words | 83 characters
+----------------------------------------------------------------------------------------------------
+Input:  pliges had also been furced down because refineries were using up old stock he said
+Actual: prices had also been forced down because refineries were using up old stock he said
+Input metrics: word_accuracy=86.67% | character_accuracy=96.39% | character_errors=3 | cost_fn=52.616856
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.493741
+
+Spidy output: prices had also been forced down because refineries were using up old stock he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=9.493741 | input_cost_reduction=43.123115 | cost_minus_actual=0.000000
+  Runtime: 2.0048s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: prices has also been forced down because refineries were using up old stock he said
+  Accuracy: word=93.33% | character=98.80% | exact_match=False
+  Errors: remaining=1 | fixed=3 | introduced=1 | changed_positions=4
+  Cost: cost_fn=10.889174 | input_cost_reduction=41.727681 | cost_minus_actual=1.395434
+  Runtime: 2.0086s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: prices has also been forced down because refineries were using up old stock he said
+  Accuracy: word=93.33% | character=98.80% | exact_match=False
+  Errors: remaining=1 | fixed=3 | introduced=1 | changed_positions=4
+  Cost: cost_fn=10.889174 | input_cost_reduction=41.727681 | cost_minus_actual=1.395434
+  Runtime: 2.0067s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 029 | Medium | 15 words | 83 characters
+----------------------------------------------------------------------------------------------------
+Input:  priced hud alsa been forcad dowm because refineries wele using up old stosk he said
+Actual: prices had also been forced down because refineries were using up old stock he said
+Input metrics: word_accuracy=53.33% | character_accuracy=91.57% | character_errors=7 | cost_fn=141.981416
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.493741
+
+Spidy output: prices had also been forced down because refineries were using up old stock he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=9.493741 | input_cost_reduction=132.487675 | cost_minus_actual=0.000000
+  Runtime: 2.0041s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: prices had also been forced down because refineries were using up old stock he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=9.493741 | input_cost_reduction=132.487675 | cost_minus_actual=0.000000
+  Runtime: 2.0064s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: prices had also been forced down because refineries were using up old stock he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=9.493741 | input_cost_reduction=132.487675 | cost_minus_actual=0.000000
+  Runtime: 2.0022s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 030 | Hard | 15 words | 83 characters
+----------------------------------------------------------------------------------------------------
+Input:  pricas hab also maen forceg doun because nefinuriis wele using um old stoch hu saed
+Actual: prices had also been forced down because refineries were using up old stock he said
+Input metrics: word_accuracy=26.67% | character_accuracy=83.13% | character_errors=14 | cost_fn=206.256692
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.493741
+
+Spidy output: prices had also been forced down because nefinuriis were using up old stock he said
+  Accuracy: word=93.33% | character=96.39% | exact_match=False
+  Errors: remaining=3 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=34.806569 | input_cost_reduction=171.450123 | cost_minus_actual=25.312828
+  Runtime: 2.0157s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: prices has also been forced down because nefinuriis were using up old stock he said
+  Accuracy: word=86.67% | character=95.18% | exact_match=False
+  Errors: remaining=4 | fixed=10 | introduced=0 | changed_positions=11
+  Cost: cost_fn=36.202002 | input_cost_reduction=170.054689 | cost_minus_actual=26.708262
+  Runtime: 2.0089s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: prices had also main forced down because refineries were using up old stock he said
+  Accuracy: word=93.33% | character=96.39% | exact_match=False
+  Errors: remaining=3 | fixed=12 | introduced=1 | changed_positions=13
+  Cost: cost_fn=16.346424 | input_cost_reduction=189.910268 | cost_minus_actual=6.852683
+  Runtime: 2.0051s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 031 | Easy | 17 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  dhe recent stability woald last until murkets decided to hest the resolve of central banks he said
+Actual: the recent stability would last until markets decided to test the resolve of central banks he said
+Input metrics: word_accuracy=76.47% | character_accuracy=95.92% | character_errors=4 | cost_fn=103.944130
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.169154
+
+Spidy output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.169154 | input_cost_reduction=91.774976 | cost_minus_actual=0.000000
+  Runtime: 2.0028s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.169154 | input_cost_reduction=91.774976 | cost_minus_actual=0.000000
+  Runtime: 2.0102s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.169154 | input_cost_reduction=91.774976 | cost_minus_actual=0.000000
+  Runtime: 2.0027s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 032 | Medium | 17 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  the lecert stability wautd last unhil maekets decided to test the resolve of centnal bants he said
+Actual: the recent stability would last until markets decided to test the resolve of central banks he said
+Input metrics: word_accuracy=64.71% | character_accuracy=91.84% | character_errors=8 | cost_fn=137.363677
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.169154
+
+Spidy output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.169154 | input_cost_reduction=125.194523 | cost_minus_actual=0.000000
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.169154 | input_cost_reduction=125.194523 | cost_minus_actual=0.000000
+  Runtime: 2.0051s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.169154 | input_cost_reduction=125.194523 | cost_minus_actual=0.000000
+  Runtime: 2.0054s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 033 | Hard | 17 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  the uecent ssavilicy riuld last until markuts decided to test the eesoife of cumdral badks hi soid
+Actual: the recent stability would last until markets decided to test the resolve of central banks he said
+Input metrics: word_accuracy=47.06% | character_accuracy=83.67% | character_errors=16 | cost_fn=179.272824
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.169154
+
+Spidy output: the recent ssavilicy would last until markets decided to test the eesoife of cumdral banks he said
+  Accuracy: word=82.35% | character=90.82% | exact_match=False
+  Errors: remaining=9 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=80.089268 | input_cost_reduction=99.183556 | cost_minus_actual=67.920114
+  Runtime: 2.0027s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the recent ssavilicy fears last until markets decided to test the eesoife of cumdral banks he said
+  Accuracy: word=76.47% | character=85.71% | exact_match=False
+  Errors: remaining=14 | fixed=5 | introduced=3 | changed_positions=10
+  Cost: cost_fn=82.822064 | input_cost_reduction=96.450760 | cost_minus_actual=70.652910
+  Runtime: 2.0082s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the recent stability would last until markets decided to test the resolve of central banks he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=16 | introduced=0 | changed_positions=16
+  Cost: cost_fn=12.169154 | input_cost_reduction=167.103670 | cost_minus_actual=0.000000
+  Runtime: 2.0061s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 034 | Easy | 16 words | 104 characters
+----------------------------------------------------------------------------------------------------
+Input:  last month the bank endorsed economic changes aireody introduced by indonesio but emplied it wanted more
+Actual: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+Input metrics: word_accuracy=81.25% | character_accuracy=96.15% | character_errors=4 | cost_fn=83.350203
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.726630
+
+Spidy output: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.726630 | input_cost_reduction=70.623573 | cost_minus_actual=0.000000
+  Runtime: 2.0041s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.726630 | input_cost_reduction=70.623573 | cost_minus_actual=0.000000
+  Runtime: 2.0160s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.726630 | input_cost_reduction=70.623573 | cost_minus_actual=0.000000
+  Runtime: 2.0053s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 035 | Medium | 16 words | 104 characters
+----------------------------------------------------------------------------------------------------
+Input:  last mondh the domk eddorsed economic changus elready introduced bo indonesia but implied it wanted mare
+Actual: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+Input metrics: word_accuracy=56.25% | character_accuracy=91.35% | character_errors=9 | cost_fn=143.296895
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.726630
+
+Spidy output: last month the somc endorsed economic changes already introduced by indonesia but implied it wanted more
+  Accuracy: word=93.75% | character=96.15% | exact_match=False
+  Errors: remaining=4 | fixed=6 | introduced=1 | changed_positions=8
+  Cost: cost_fn=18.830829 | input_cost_reduction=124.466066 | cost_minus_actual=6.104199
+  Runtime: 2.0087s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: last month the somc endorsed economic changes already introduced by indonesia but implied it wanted more
+  Accuracy: word=93.75% | character=96.15% | exact_match=False
+  Errors: remaining=4 | fixed=6 | introduced=1 | changed_positions=8
+  Cost: cost_fn=18.830829 | input_cost_reduction=124.466066 | cost_minus_actual=6.104199
+  Runtime: 2.0136s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: last month the lomk endorsed economic changes already introduced by indonesia but implied it wanted more
+  Accuracy: word=93.75% | character=97.12% | exact_match=False
+  Errors: remaining=3 | fixed=6 | introduced=0 | changed_positions=7
+  Cost: cost_fn=20.576069 | input_cost_reduction=122.720825 | cost_minus_actual=7.849440
+  Runtime: 2.0028s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 036 | Hard | 16 words | 104 characters
+----------------------------------------------------------------------------------------------------
+Input:  last month the bank entorseg ecorumic changec elriedy intritucid by indonaziu but impried it wantod moni
+Actual: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+Input metrics: word_accuracy=43.75% | character_accuracy=82.69% | character_errors=18 | cost_fn=178.960013
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.726630
+
+Spidy output: last month the bank endorsed economic changes elriedy intritucid by indonaziu but implied it wanted many
+  Accuracy: word=75.00% | character=88.46% | exact_match=False
+  Errors: remaining=12 | fixed=7 | introduced=1 | changed_positions=9
+  Cost: cost_fn=81.290632 | input_cost_reduction=97.669381 | cost_minus_actual=68.564003
+  Runtime: 2.0026s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: last month the bank endorsed economic changes elriedy intritucid he endonaziu but implied it wanted more
+  Accuracy: word=75.00% | character=88.46% | exact_match=False
+  Errors: remaining=12 | fixed=9 | introduced=3 | changed_positions=12
+  Cost: cost_fn=79.101853 | input_cost_reduction=99.858160 | cost_minus_actual=66.375223
+  Runtime: 2.0120s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: last month the bank endorsed economic changes already introduces by indonesia but implied it wanted many
+  Accuracy: word=87.50% | character=96.15% | exact_match=False
+  Errors: remaining=4 | fixed=16 | introduced=2 | changed_positions=19
+  Cost: cost_fn=25.266891 | input_cost_reduction=153.693122 | cost_minus_actual=12.540261
+  Runtime: 2.0065s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 037 | Easy | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  to primote trade saudi arabia is anvititg dapanese industries to do business there he said
+Actual: to promote trade saudi arabia is inviting japanese industries to do business there he said
+Input metrics: word_accuracy=80.00% | character_accuracy=95.56% | character_errors=4 | cost_fn=79.003432
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.793166
+
+Spidy output: to promote trade saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.793166 | input_cost_reduction=66.210266 | cost_minus_actual=0.000000
+  Runtime: 2.0068s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: to promote trade saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.793166 | input_cost_reduction=66.210266 | cost_minus_actual=0.000000
+  Runtime: 2.0093s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: no promote trade saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=93.33% | character=98.89% | exact_match=False
+  Errors: remaining=1 | fixed=4 | introduced=1 | changed_positions=5
+  Cost: cost_fn=15.385119 | input_cost_reduction=63.618314 | cost_minus_actual=2.591953
+  Runtime: 2.0010s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 038 | Medium | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  to promote trade saedi arabei ic inveting japanese industries co do buziness ttere he said
+Actual: to promote trade saudi arabia is inviting japanese industries to do business there he said
+Input metrics: word_accuracy=53.33% | character_accuracy=91.11% | character_errors=8 | cost_fn=125.685500
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.793166
+
+Spidy output: to promote trade saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.793166 | input_cost_reduction=112.892334 | cost_minus_actual=0.000000
+  Runtime: 2.0102s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: to promote trade saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.793166 | input_cost_reduction=112.892334 | cost_minus_actual=0.000000
+  Runtime: 2.0138s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: to promote trade saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.793166 | input_cost_reduction=112.892334 | cost_minus_actual=0.000000
+  Runtime: 2.0040s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 039 | Hard | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  to propote cuadi saudi auabia az inteting japanesu indushries to da business there hu saae
+Actual: to promote trade saudi arabia is inviting japanese industries to do business there he said
+Input metrics: word_accuracy=33.33% | character_accuracy=83.33% | character_errors=15 | cost_fn=186.179848
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.793166
+
+Spidy output: he propose quota saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=80.00% | character=90.00% | exact_match=False
+  Errors: remaining=9 | fixed=11 | introduced=5 | changed_positions=18
+  Cost: cost_fn=18.426923 | input_cost_reduction=167.752925 | cost_minus_actual=5.633757
+  Runtime: 2.0028s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: to promote quasi saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=93.33% | character=95.56% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=1 | changed_positions=14
+  Cost: cost_fn=20.573757 | input_cost_reduction=165.606090 | cost_minus_actual=7.780591
+  Runtime: 2.0108s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: no propose saudi saudi arabia is inviting japanese industries to do business there he said
+  Accuracy: word=80.00% | character=92.22% | exact_match=False
+  Errors: remaining=7 | fixed=11 | introduced=3 | changed_positions=16
+  Cost: cost_fn=20.971196 | input_cost_reduction=165.208652 | cost_minus_actual=8.178030
+  Runtime: 2.0042s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 040 | Easy | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  the analysts agreed zuccess woutd depend largely on how sterlimg performs in the neor term
+Actual: the analysts agreed success would depend largely on how sterling performs in the near term
+Input metrics: word_accuracy=73.33% | character_accuracy=95.56% | character_errors=4 | cost_fn=102.140103
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.606298
+
+Spidy output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.606298 | input_cost_reduction=89.533805 | cost_minus_actual=0.000000
+  Runtime: 2.0077s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.606298 | input_cost_reduction=89.533805 | cost_minus_actual=0.000000
+  Runtime: 2.0102s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.606298 | input_cost_reduction=89.533805 | cost_minus_actual=0.000000
+  Runtime: 2.0049s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 041 | Medium | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  thu inalydts agreod success would depend larjaly on how sterling perfonms in the nean term
+Actual: the analysts agreed success would depend largely on how sterling performs in the near term
+Input metrics: word_accuracy=60.00% | character_accuracy=91.11% | character_errors=8 | cost_fn=125.565561
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.606298
+
+Spidy output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.606298 | input_cost_reduction=112.959263 | cost_minus_actual=0.000000
+  Runtime: 2.0081s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.606298 | input_cost_reduction=112.959263 | cost_minus_actual=0.000000
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.606298 | input_cost_reduction=112.959263 | cost_minus_actual=0.000000
+  Runtime: 2.0013s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 042 | Hard | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  hhe aralosts agreed saccuss would dubemd raegely on how stirling firfonms in the naar term
+Actual: the analysts agreed success would depend largely on how sterling performs in the near term
+Input metrics: word_accuracy=46.67% | character_accuracy=83.33% | character_errors=15 | cost_fn=163.415838
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.606298
+
+Spidy output: the analysts agreed success would depend largely on how sterling firfonms in the near term
+  Accuracy: word=93.33% | character=96.67% | exact_match=False
+  Errors: remaining=3 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.964369 | input_cost_reduction=128.451468 | cost_minus_actual=22.358071
+  Runtime: 2.0050s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the analysts agreed success world subemd largely on how sterling performs in the near term
+  Accuracy: word=86.67% | character=94.44% | exact_match=False
+  Errors: remaining=5 | fixed=12 | introduced=2 | changed_positions=14
+  Cost: cost_fn=39.789253 | input_cost_reduction=123.626584 | cost_minus_actual=27.182955
+  Runtime: 2.0086s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the analysts agreed success would depend largely on how sterling performs in the near term
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=15 | introduced=0 | changed_positions=15
+  Cost: cost_fn=12.606298 | input_cost_reduction=150.809539 | cost_minus_actual=0.000000
+  Runtime: 2.0034s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 043 | Easy | 16 words | 95 characters
+----------------------------------------------------------------------------------------------------
+Input:  thu magic group owns piljrim life insurance co of america and middle atlantic lefe insuramce co
+Actual: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+Input metrics: word_accuracy=75.00% | character_accuracy=95.79% | character_errors=4 | cost_fn=86.296270
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.743756
+
+Spidy output: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.743756 | input_cost_reduction=74.552513 | cost_minus_actual=0.000000
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.743756 | input_cost_reduction=74.552513 | cost_minus_actual=0.000000
+  Runtime: 2.0059s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.743756 | input_cost_reduction=74.552513 | cost_minus_actual=0.000000
+  Runtime: 2.0022s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 044 | Medium | 16 words | 95 characters
+----------------------------------------------------------------------------------------------------
+Input:  dhe magic group owns pilcrim dife insurancu co of america and midble atdantic life unsurance ci
+Actual: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+Input metrics: word_accuracy=50.00% | character_accuracy=91.58% | character_errors=8 | cost_fn=176.670307
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.743756
+
+Spidy output: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.743756 | input_cost_reduction=164.926550 | cost_minus_actual=0.000000
+  Runtime: 2.0013s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.743756 | input_cost_reduction=164.926550 | cost_minus_actual=0.000000
+  Runtime: 2.0022s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.743756 | input_cost_reduction=164.926550 | cost_minus_actual=0.000000
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 045 | Hard | 16 words | 95 characters
+----------------------------------------------------------------------------------------------------
+Input:  hhe maguc gnoup ouns filglim life unturance co of america atd midtlu atlantic lufe idzurutce co
+Actual: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+Input metrics: word_accuracy=37.50% | character_accuracy=83.16% | character_errors=16 | cost_fn=217.719604
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.743756
+
+Spidy output: the magic group owns pilgrim life insurance co of america and middle atlantic life idzurutce co
+  Accuracy: word=93.75% | character=95.79% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.773872 | input_cost_reduction=182.945732 | cost_minus_actual=23.030116
+  Runtime: 2.0077s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the magic group owns pilgrim life insurance co of america and middle atlantic life idzurutce co
+  Accuracy: word=93.75% | character=95.79% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.773872 | input_cost_reduction=182.945732 | cost_minus_actual=23.030116
+  Runtime: 2.0055s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the magic group owns pilgrim life insurance co of america and middle atlantic life idzurutce co
+  Accuracy: word=93.75% | character=95.79% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.773872 | input_cost_reduction=182.945732 | cost_minus_actual=23.030116
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 046 | Easy | 15 words | 88 characters
+----------------------------------------------------------------------------------------------------
+Input:  ctands in these fields were thin and chanced of recovery afpeared less favolable he said
+Actual: stands in these fields were thin and chances of recovery appeared less favorable he said
+Input metrics: word_accuracy=73.33% | character_accuracy=95.45% | character_errors=4 | cost_fn=98.800909
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=10.672808
+
+Spidy output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=10.672808 | input_cost_reduction=88.128101 | cost_minus_actual=0.000000
+  Runtime: 2.0040s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=10.672808 | input_cost_reduction=88.128101 | cost_minus_actual=0.000000
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=10.672808 | input_cost_reduction=88.128101 | cost_minus_actual=0.000000
+  Runtime: 2.0055s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 047 | Medium | 15 words | 88 characters
+----------------------------------------------------------------------------------------------------
+Input:  stands it thise fields were thin and chamces of recovery appeared lesc favoroble ee soid
+Actual: stands in these fields were thin and chances of recovery appeared less favorable he said
+Input metrics: word_accuracy=53.33% | character_accuracy=92.05% | character_errors=7 | cost_fn=125.444114
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=10.672808
+
+Spidy output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=10.672808 | input_cost_reduction=114.771306 | cost_minus_actual=0.000000
+  Runtime: 2.0054s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=10.672808 | input_cost_reduction=114.771306 | cost_minus_actual=0.000000
+  Runtime: 2.0101s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=10.672808 | input_cost_reduction=114.771306 | cost_minus_actual=0.000000
+  Runtime: 2.0025s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 048 | Hard | 15 words | 88 characters
+----------------------------------------------------------------------------------------------------
+Input:  stinds in theze rierdc wele thin ond ctanges of receneny appeared ress faborable ee said
+Actual: stands in these fields were thin and chances of recovery appeared less favorable he said
+Input metrics: word_accuracy=33.33% | character_accuracy=82.95% | character_errors=15 | cost_fn=201.266938
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=10.672808
+
+Spidy output: stands in these fields were thin and chances of receneny appeared less favorable he said
+  Accuracy: word=93.33% | character=96.59% | exact_match=False
+  Errors: remaining=3 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=34.693380 | input_cost_reduction=166.573558 | cost_minus_actual=24.020572
+  Runtime: 2.0031s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: stands in these rierdc were thin and chances of receneny appeared less favorable he said
+  Accuracy: word=86.67% | character=93.18% | exact_match=False
+  Errors: remaining=6 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=58.978180 | input_cost_reduction=142.288759 | cost_minus_actual=48.305372
+  Runtime: 2.1295s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: stands in these fields were thin and chances of recovery appeared less favorable he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=15 | introduced=0 | changed_positions=15
+  Cost: cost_fn=10.672808 | input_cost_reduction=190.594130 | cost_minus_actual=0.000000
+  Runtime: 2.0025s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 049 | Easy | 16 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  aumctrong tire co an armtek unit widl continue to sell replacement industrial tiees the company said
+Actual: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+Input metrics: word_accuracy=81.25% | character_accuracy=96.00% | character_errors=4 | cost_fn=78.791699
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.324492
+
+Spidy output: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.324492 | input_cost_reduction=66.467207 | cost_minus_actual=0.000000
+  Runtime: 2.0132s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.324492 | input_cost_reduction=66.467207 | cost_minus_actual=0.000000
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.324492 | input_cost_reduction=66.467207 | cost_minus_actual=0.000000
+  Runtime: 2.0011s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 050 | Medium | 16 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  armstrong tile co an almcek unit will continue ho sell raplatement ingustrial tires the compamy said
+Actual: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+Input metrics: word_accuracy=62.50% | character_accuracy=92.00% | character_errors=8 | cost_fn=118.759553
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.324492
+
+Spidy output: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.324492 | input_cost_reduction=106.435061 | cost_minus_actual=0.000000
+  Runtime: 2.0044s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.324492 | input_cost_reduction=106.435061 | cost_minus_actual=0.000000
+  Runtime: 2.0073s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.324492 | input_cost_reduction=106.435061 | cost_minus_actual=0.000000
+  Runtime: 2.0023s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 051 | Hard | 16 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  armdsrong tire cu an armtak onit will continui so soll neplacedent iddustleit tiret the company saed
+Actual: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+Input metrics: word_accuracy=31.25% | character_accuracy=83.00% | character_errors=17 | cost_fn=201.564246
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.324492
+
+Spidy output: armstrong tire co an armtek unit will continue to sell replacement iddustleit tires the company said
+  Accuracy: word=93.75% | character=95.00% | exact_match=False
+  Errors: remaining=5 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=38.512381 | input_cost_reduction=163.051864 | cost_minus_actual=26.187889
+  Runtime: 2.0069s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: armstrong tire co an armtek unit will continue to sell replacement iddustleit tires the company said
+  Accuracy: word=93.75% | character=95.00% | exact_match=False
+  Errors: remaining=5 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=38.512381 | input_cost_reduction=163.051864 | cost_minus_actual=26.187889
+  Runtime: 2.0073s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: armstrong tire co an armtek unit will continue to sell replacement iddustleit tires the company said
+  Accuracy: word=93.75% | character=95.00% | exact_match=False
+  Errors: remaining=5 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=38.512381 | input_cost_reduction=163.051864 | cost_minus_actual=26.187889
+  Runtime: 2.0036s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 052 | Easy | 15 words | 91 characters
+----------------------------------------------------------------------------------------------------
+Input:  it stressee she need to segeegate wheat cutegories at every stage from receival to shipping
+Actual: it stressed the need to segregate wheat categories at every stage from receival to shipping
+Input metrics: word_accuracy=73.33% | character_accuracy=95.60% | character_errors=4 | cost_fn=79.108709
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.316118
+
+Spidy output: it stressed the need to segregate wheat categories at every stage from receival to shipping
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=8.316118 | input_cost_reduction=70.792591 | cost_minus_actual=0.000000
+  Runtime: 2.0023s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it stressed the need to segregate wheat categories at every stage from receival to shipping
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=8.316118 | input_cost_reduction=70.792591 | cost_minus_actual=0.000000
+  Runtime: 2.0099s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it stressed the need to segregate wheat categories at every stage from receival to shipping
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=8.316118 | input_cost_reduction=70.792591 | cost_minus_actual=0.000000
+  Runtime: 2.0061s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 053 | Medium | 15 words | 91 characters
+----------------------------------------------------------------------------------------------------
+Input:  it stressed the need to segreguse wheat categories at evury ztage from recaival to stappinc
+Actual: it stressed the need to segregate wheat categories at every stage from receival to shipping
+Input metrics: word_accuracy=66.67% | character_accuracy=91.21% | character_errors=8 | cost_fn=115.619948
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.316118
+
+Spidy output: it stressed the need to segregate wheat categories at every stage from receival to shipping
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=8.316118 | input_cost_reduction=107.303831 | cost_minus_actual=0.000000
+  Runtime: 2.0617s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it stressed the need to segregate wheat categories at every stage from receival to shipping
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=8.316118 | input_cost_reduction=107.303831 | cost_minus_actual=0.000000
+  Runtime: 2.0062s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it stressed the need to segregate wheat categories at every stage from receival to shopping
+  Accuracy: word=93.33% | character=98.90% | exact_match=False
+  Errors: remaining=1 | fixed=7 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.454789 | input_cost_reduction=103.165159 | cost_minus_actual=4.138671
+  Runtime: 2.0045s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 054 | Hard | 15 words | 91 characters
+----------------------------------------------------------------------------------------------------
+Input:  it stradsed sie teed to seglegahe wneat categories it evaly stage lrem receival ho shipming
+Actual: it stressed the need to segregate wheat categories at every stage from receival to shipping
+Input metrics: word_accuracy=33.33% | character_accuracy=83.52% | character_errors=15 | cost_fn=171.877529
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.316118
+
+Spidy output: it stressed the need to segregate wheat categories at every stake lrem receival to shipping
+  Accuracy: word=86.67% | character=96.70% | exact_match=False
+  Errors: remaining=3 | fixed=13 | introduced=1 | changed_positions=14
+  Cost: cost_fn=37.727637 | input_cost_reduction=134.149892 | cost_minus_actual=29.411519
+  Runtime: 2.0068s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it stressed tea need to segregate wheat categories at ivory stake from receival to shipping
+  Accuracy: word=80.00% | character=94.51% | exact_match=False
+  Errors: remaining=5 | fixed=13 | introduced=3 | changed_positions=18
+  Cost: cost_fn=29.826854 | input_cost_reduction=142.050675 | cost_minus_actual=21.510736
+  Runtime: 2.0018s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it stressed the need to segregate wheat categories at every stake from receival to shipping
+  Accuracy: word=93.33% | character=98.90% | exact_match=False
+  Errors: remaining=1 | fixed=15 | introduced=1 | changed_positions=16
+  Cost: cost_fn=17.573622 | input_cost_reduction=154.303906 | cost_minus_actual=9.257505
+  Runtime: 2.0019s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 055 | Easy | 16 words | 127 characters
+----------------------------------------------------------------------------------------------------
+Input:  under such circumstamces the countries agreed their currencies wore widnin ranges broadly tonsistent with ecoromic fundamentals
+Actual: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+Input metrics: word_accuracy=68.75% | character_accuracy=95.28% | character_errors=6 | cost_fn=124.154646
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.042101
+
+Spidy output: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=11.042101 | input_cost_reduction=113.112545 | cost_minus_actual=0.000000
+  Runtime: 2.0090s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=11.042101 | input_cost_reduction=113.112545 | cost_minus_actual=0.000000
+  Runtime: 2.0098s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=11.042101 | input_cost_reduction=113.112545 | cost_minus_actual=0.000000
+  Runtime: 2.0016s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 056 | Medium | 16 words | 127 characters
+----------------------------------------------------------------------------------------------------
+Input:  utden such circunstances tie countlies agreed their curremcies were hithin ranges broadly gonsistont with economic fundumentels
+Actual: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+Input metrics: word_accuracy=50.00% | character_accuracy=91.34% | character_errors=11 | cost_fn=167.140228
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.042101
+
+Spidy output: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundumentels
+  Accuracy: word=93.75% | character=98.43% | exact_match=False
+  Errors: remaining=2 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=30.249855 | input_cost_reduction=136.890373 | cost_minus_actual=19.207754
+  Runtime: 2.0162s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=11.042101 | input_cost_reduction=156.098127 | cost_minus_actual=0.000000
+  Runtime: 2.0009s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=11.042101 | input_cost_reduction=156.098127 | cost_minus_actual=0.000000
+  Runtime: 2.0056s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 057 | Hard | 16 words | 127 characters
+----------------------------------------------------------------------------------------------------
+Input:  under such circunstanced teo coonteius agreeb their curremcees ware within randas broadry consestemt uitt iconomuc fundementald
+Actual: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+Input metrics: word_accuracy=25.00% | character_accuracy=82.68% | character_errors=22 | cost_fn=251.435554
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.042101
+
+Spidy output: under such circumstances the coonteius agreed their currencies were within ranges broadly consestemt uitt iconomuc fundementald
+  Accuracy: word=68.75% | character=91.34% | exact_match=False
+  Errors: remaining=11 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=112.983956 | input_cost_reduction=138.451598 | cost_minus_actual=101.941855
+  Runtime: 2.0032s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: under such circumstances the coonteius agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=93.75% | character=97.64% | exact_match=False
+  Errors: remaining=3 | fixed=19 | introduced=0 | changed_positions=19
+  Cost: cost_fn=34.402621 | input_cost_reduction=217.032933 | cost_minus_actual=23.360520
+  Runtime: 2.0030s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: under such circumstances two countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+  Accuracy: word=93.75% | character=98.43% | exact_match=False
+  Errors: remaining=2 | fixed=20 | introduced=0 | changed_positions=21
+  Cost: cost_fn=15.250948 | input_cost_reduction=236.184606 | cost_minus_actual=4.208847
+  Runtime: 2.0074s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 058 | Easy | 16 words | 99 characters
+----------------------------------------------------------------------------------------------------
+Input:  the measures cherefore iimed clearly at brunging monetary growtt back onto the desired path he said
+Actual: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+Input metrics: word_accuracy=75.00% | character_accuracy=95.96% | character_errors=4 | cost_fn=101.406343
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.018149
+
+Spidy output: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=9.018149 | input_cost_reduction=92.388194 | cost_minus_actual=0.000000
+  Runtime: 2.0048s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=9.018149 | input_cost_reduction=92.388194 | cost_minus_actual=0.000000
+  Runtime: 2.0102s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=9.018149 | input_cost_reduction=92.388194 | cost_minus_actual=0.000000
+  Runtime: 2.0080s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 059 | Medium | 16 words | 99 characters
+----------------------------------------------------------------------------------------------------
+Input:  tee maasures ceerefore aimed klearly at bringing motetary growth back onto the desired path he teid
+Actual: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+Input metrics: word_accuracy=62.50% | character_accuracy=91.92% | character_errors=8 | cost_fn=137.522276
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.018149
+
+Spidy output: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=9.018149 | input_cost_reduction=128.504127 | cost_minus_actual=0.000000
+  Runtime: 2.0044s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the measures therefore aimed clearly at bringing monetary growth back onto the desired both he said
+  Accuracy: word=93.75% | character=97.98% | exact_match=False
+  Errors: remaining=2 | fixed=8 | introduced=2 | changed_positions=10
+  Cost: cost_fn=15.047537 | input_cost_reduction=122.474738 | cost_minus_actual=6.029388
+  Runtime: 2.0051s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=9.018149 | input_cost_reduction=128.504127 | cost_minus_actual=0.000000
+  Runtime: 2.0065s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 060 | Hard | 16 words | 99 characters
+----------------------------------------------------------------------------------------------------
+Input:  the deasurat therefore aimed trearlu ah brimging monutari growti back onti hha desired fatn te said
+Actual: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+Input metrics: word_accuracy=37.50% | character_accuracy=82.83% | character_errors=17 | cost_fn=203.692543
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.018149
+
+Spidy output: the deasurat therefore aimed trearlu at bringing monetary growth back onto the desired path he said
+  Accuracy: word=87.50% | character=93.94% | exact_match=False
+  Errors: remaining=6 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=56.295712 | input_cost_reduction=147.396832 | cost_minus_actual=47.277563
+  Runtime: 2.0050s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the deasurat therefore aimed clearly at bringing monetary growth back only why desired path he said
+  Accuracy: word=81.25% | character=92.93% | exact_match=False
+  Errors: remaining=7 | fixed=11 | introduced=1 | changed_positions=15
+  Cost: cost_fn=42.855117 | input_cost_reduction=160.837427 | cost_minus_actual=33.836968
+  Runtime: 2.0071s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the measures therefore aimed clearly at bringing monetary growth back onto twa desired path he said
+  Accuracy: word=93.75% | character=97.98% | exact_match=False
+  Errors: remaining=2 | fixed=16 | introduced=1 | changed_positions=17
+  Cost: cost_fn=17.521830 | input_cost_reduction=186.170714 | cost_minus_actual=8.503681
+  Runtime: 2.0032s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 061 | Easy | 15 words | 82 characters
+----------------------------------------------------------------------------------------------------
+Input:  trading in hayes common will ceose at the close of businuss today hhe company said
+Actual: trading in hayes common will cease at the close of business today the company said
+Input metrics: word_accuracy=80.00% | character_accuracy=96.34% | character_errors=3 | cost_fn=77.458870
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.821508
+
+Spidy output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=12.821508 | input_cost_reduction=64.637362 | cost_minus_actual=0.000000
+  Runtime: 2.0020s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=12.821508 | input_cost_reduction=64.637362 | cost_minus_actual=0.000000
+  Runtime: 2.0025s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=12.821508 | input_cost_reduction=64.637362 | cost_minus_actual=0.000000
+  Runtime: 2.0034s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 062 | Medium | 15 words | 82 characters
+----------------------------------------------------------------------------------------------------
+Input:  traditg in hayes common will cease at the slose af businosz today the cimpani said
+Actual: trading in hayes common will cease at the close of business today the company said
+Input metrics: word_accuracy=66.67% | character_accuracy=91.46% | character_errors=7 | cost_fn=114.121424
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.821508
+
+Spidy output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.821508 | input_cost_reduction=101.299916 | cost_minus_actual=0.000000
+  Runtime: 2.0047s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.821508 | input_cost_reduction=101.299916 | cost_minus_actual=0.000000
+  Runtime: 2.0082s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=12.821508 | input_cost_reduction=101.299916 | cost_minus_actual=0.000000
+  Runtime: 2.0025s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 063 | Hard | 15 words | 82 characters
+----------------------------------------------------------------------------------------------------
+Input:  trading un iayas gonnor will caase at hne close ef butiness today chi company said
+Actual: trading in hayes common will cease at the close of business today the company said
+Input metrics: word_accuracy=46.67% | character_accuracy=82.93% | character_errors=14 | cost_fn=134.164847
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.821508
+
+Spidy output: trading in hayes common will cease at the close of business today the company said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=14 | introduced=0 | changed_positions=14
+  Cost: cost_fn=12.821508 | input_cost_reduction=121.343339 | cost_minus_actual=0.000000
+  Runtime: 2.0088s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: trading in hayes cannon will cease at the close of business today the company said
+  Accuracy: word=93.33% | character=96.34% | exact_match=False
+  Errors: remaining=3 | fixed=12 | introduced=1 | changed_positions=13
+  Cost: cost_fn=22.762718 | input_cost_reduction=111.402129 | cost_minus_actual=9.941210
+  Runtime: 2.0121s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: trading in hayes connor will cease at pre close of business today chi company said
+  Accuracy: word=80.00% | character=91.46% | exact_match=False
+  Errors: remaining=7 | fixed=7 | introduced=0 | changed_positions=9
+  Cost: cost_fn=36.534224 | input_cost_reduction=97.630624 | cost_minus_actual=23.712716
+  Runtime: 2.0049s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 064 | Easy | 18 words | 112 characters
+----------------------------------------------------------------------------------------------------
+Input:  rain patterns will move ocross indiana to ohio with thudershower actinyty yielbing so more general rains he said
+Actual: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+Input metrics: word_accuracy=77.78% | character_accuracy=95.54% | character_errors=5 | cost_fn=81.470675
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.559848
+
+Spidy output: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=8.559848 | input_cost_reduction=72.910827 | cost_minus_actual=0.000000
+  Runtime: 2.0063s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=8.559848 | input_cost_reduction=72.910827 | cost_minus_actual=0.000000
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=8.559848 | input_cost_reduction=72.910827 | cost_minus_actual=0.000000
+  Runtime: 2.0028s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 065 | Medium | 18 words | 112 characters
+----------------------------------------------------------------------------------------------------
+Input:  rain patherns will move across indiana to otio with ciuderzhower acdivity iiulding co more generel rains he said
+Actual: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+Input metrics: word_accuracy=61.11% | character_accuracy=91.07% | character_errors=10 | cost_fn=144.739081
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.559848
+
+Spidy output: rain patterns will move across indiana to ohio with ciuderzhower activity yielding to more general rains he said
+  Accuracy: word=94.44% | character=97.32% | exact_match=False
+  Errors: remaining=3 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=34.747738 | input_cost_reduction=109.991343 | cost_minus_actual=26.187889
+  Runtime: 2.0052s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: rain patterns will move across indiana to ohio with ciuderzhower activity yielding to more general rains he said
+  Accuracy: word=94.44% | character=97.32% | exact_match=False
+  Errors: remaining=3 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=34.747738 | input_cost_reduction=109.991343 | cost_minus_actual=26.187889
+  Runtime: 2.0066s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=8.559848 | input_cost_reduction=136.179233 | cost_minus_actual=0.000000
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 066 | Hard | 18 words | 112 characters
+----------------------------------------------------------------------------------------------------
+Input:  eain putterns wiil mone agrozc indyano ta uhio with tnudeustiwer activity yieldyng to more guneral rains he duid
+Actual: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+Input metrics: word_accuracy=33.33% | character_accuracy=83.04% | character_errors=19 | cost_fn=242.404330
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.559848
+
+Spidy output: rain patterns will move across indiana to ohio with tnudeustiwer activity yielding to more general rains he trim
+  Accuracy: word=88.89% | character=93.75% | exact_match=False
+  Errors: remaining=7 | fixed=13 | introduced=1 | changed_positions=16
+  Cost: cost_fn=39.451512 | input_cost_reduction=202.952817 | cost_minus_actual=30.891664
+  Runtime: 2.0049s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: rain patterns will more agrozc indiana to ohio with tnudeustiwer activity yielding to more general rains to trim
+  Accuracy: word=72.22% | character=88.39% | exact_match=False
+  Errors: remaining=13 | fixed=9 | introduced=3 | changed_positions=15
+  Cost: cost_fn=68.234421 | input_cost_reduction=174.169909 | cost_minus_actual=59.674573
+  Runtime: 2.0086s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: rain patterns will move across indiana to ohio with tnudeustiwer activity yielding to more general rains he duim
+  Accuracy: word=88.89% | character=93.75% | exact_match=False
+  Errors: remaining=7 | fixed=13 | introduced=1 | changed_positions=14
+  Cost: cost_fn=40.150482 | input_cost_reduction=202.253847 | cost_minus_actual=31.590634
+  Runtime: 2.0055s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 067 | Easy | 16 words | 107 characters
+----------------------------------------------------------------------------------------------------
+Input:  other factoriec ari continuing to plocess beet normally but harvesting remains bery difficilt in most areas
+Actual: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+Input metrics: word_accuracy=68.75% | character_accuracy=95.33% | character_errors=5 | cost_fn=119.951495
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.449251
+
+Spidy output: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.449251 | input_cost_reduction=108.502244 | cost_minus_actual=0.000000
+  Runtime: 2.0034s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.449251 | input_cost_reduction=108.502244 | cost_minus_actual=0.000000
+  Runtime: 2.0026s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.449251 | input_cost_reduction=108.502244 | cost_minus_actual=0.000000
+  Runtime: 2.0008s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 068 | Medium | 16 words | 107 characters
+----------------------------------------------------------------------------------------------------
+Input:  other fecholies are sontiduing to prosess beet normally but harvestidg remayns very difficult in most ireas
+Actual: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+Input metrics: word_accuracy=62.50% | character_accuracy=91.59% | character_errors=9 | cost_fn=139.659871
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.449251
+
+Spidy output: other fecholies and continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=87.50% | character=95.33% | exact_match=False
+  Errors: remaining=5 | fixed=6 | introduced=2 | changed_positions=8
+  Cost: cost_fn=34.764014 | input_cost_reduction=104.895857 | cost_minus_actual=23.314763
+  Runtime: 2.0090s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: other fecholies are continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=93.75% | character=97.20% | exact_match=False
+  Errors: remaining=3 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=34.286893 | input_cost_reduction=105.372978 | cost_minus_actual=22.837641
+  Runtime: 2.0031s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=11.449251 | input_cost_reduction=128.210620 | cost_minus_actual=0.000000
+  Runtime: 2.0052s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 069 | Hard | 16 words | 107 characters
+----------------------------------------------------------------------------------------------------
+Input:  otiee factorios are continuitj ta pratess deet nounarly vut harvestang remains viry difficudh in most areus
+Actual: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+Input metrics: word_accuracy=25.00% | character_accuracy=83.18% | character_errors=18 | cost_fn=236.640854
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.449251
+
+Spidy output: other factories are continuing to process beet nounarly but harvesting remains very difficult in most areas
+  Accuracy: word=93.75% | character=97.20% | exact_match=False
+  Errors: remaining=3 | fixed=15 | introduced=0 | changed_positions=15
+  Cost: cost_fn=37.637141 | input_cost_reduction=199.003713 | cost_minus_actual=26.187889
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: other factories are continuing to process beet nounarly but harvesting remains very difficult in most areas
+  Accuracy: word=93.75% | character=97.20% | exact_match=False
+  Errors: remaining=3 | fixed=15 | introduced=0 | changed_positions=15
+  Cost: cost_fn=37.637141 | input_cost_reduction=199.003713 | cost_minus_actual=26.187889
+  Runtime: 2.0123s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=18 | introduced=0 | changed_positions=18
+  Cost: cost_fn=11.449251 | input_cost_reduction=225.191603 | cost_minus_actual=0.000000
+  Runtime: 2.0048s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 070 | Easy | 15 words | 96 characters
+----------------------------------------------------------------------------------------------------
+Input:  futures trabers said tight cash supplies shoald hedp july soybeans ind soymeal gain on deferreds
+Actual: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+Input metrics: word_accuracy=73.33% | character_accuracy=95.83% | character_errors=4 | cost_fn=89.393852
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.927761
+
+Spidy output: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.927761 | input_cost_reduction=77.466090 | cost_minus_actual=0.000000
+  Runtime: 2.0048s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.927761 | input_cost_reduction=77.466090 | cost_minus_actual=0.000000
+  Runtime: 2.0089s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.927761 | input_cost_reduction=77.466090 | cost_minus_actual=0.000000
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 071 | Medium | 15 words | 96 characters
+----------------------------------------------------------------------------------------------------
+Input:  fatures traders said tigtt cudh supplies should help duly soybeans ant soemeal gain on deforreds
+Actual: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+Input metrics: word_accuracy=53.33% | character_accuracy=91.67% | character_errors=8 | cost_fn=144.355309
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.927761
+
+Spidy output: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.927761 | input_cost_reduction=132.427547 | cost_minus_actual=0.000000
+  Runtime: 2.0037s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.927761 | input_cost_reduction=132.427547 | cost_minus_actual=0.000000
+  Runtime: 2.0018s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.927761 | input_cost_reduction=132.427547 | cost_minus_actual=0.000000
+  Runtime: 2.0056s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 072 | Hard | 15 words | 96 characters
+----------------------------------------------------------------------------------------------------
+Input:  fuhures tredert seid tijht cash sumplios should halp july soybeans and toymeol coin on dorelredt
+Actual: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+Input metrics: word_accuracy=40.00% | character_accuracy=83.33% | character_errors=16 | cost_fn=179.570760
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.927761
+
+Spidy output: futures traders said tight cash supplies should help july soybeans and soymeal gain on dorelredt
+  Accuracy: word=93.33% | character=95.83% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=30.041271 | input_cost_reduction=149.529489 | cost_minus_actual=18.113509
+  Runtime: 2.0154s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: futures traders said tight cash supplies should help july soybeans and soymeal gain on dorelredt
+  Accuracy: word=93.33% | character=95.83% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=30.041271 | input_cost_reduction=149.529489 | cost_minus_actual=18.113509
+  Runtime: 2.0102s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: futures traders said tight cash supplies should help july soybeans and soymeal coin in dorelredt
+  Accuracy: word=80.00% | character=92.71% | exact_match=False
+  Errors: remaining=7 | fixed=10 | introduced=1 | changed_positions=11
+  Cost: cost_fn=35.928130 | input_cost_reduction=143.642630 | cost_minus_actual=24.000369
+  Runtime: 2.0064s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 073 | Easy | 15 words | 97 characters
+----------------------------------------------------------------------------------------------------
+Input:  light showers in eastern alterii and tunisia mainsained adequade moisture for crop growth it said
+Actual: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+Input metrics: word_accuracy=80.00% | character_accuracy=95.88% | character_errors=4 | cost_fn=77.900840
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.602308
+
+Spidy output: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=9.602308 | input_cost_reduction=68.298532 | cost_minus_actual=0.000000
+  Runtime: 2.0063s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=9.602308 | input_cost_reduction=68.298532 | cost_minus_actual=0.000000
+  Runtime: 2.0146s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=9.602308 | input_cost_reduction=68.298532 | cost_minus_actual=0.000000
+  Runtime: 2.0039s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 074 | Medium | 15 words | 97 characters
+----------------------------------------------------------------------------------------------------
+Input:  ligit showers in eotturn algaria and tunisia maintained adetuate moistune for crop grewth it said
+Actual: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+Input metrics: word_accuracy=60.00% | character_accuracy=91.75% | character_errors=8 | cost_fn=141.133300
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.602308
+
+Spidy output: light showers in outturn algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=93.33% | character=95.88% | exact_match=False
+  Errors: remaining=4 | fixed=5 | introduced=1 | changed_positions=7
+  Cost: cost_fn=18.782741 | input_cost_reduction=122.350560 | cost_minus_actual=9.180433
+  Runtime: 2.0424s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: light showers in outturn algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=93.33% | character=95.88% | exact_match=False
+  Errors: remaining=4 | fixed=5 | introduced=1 | changed_positions=7
+  Cost: cost_fn=18.782741 | input_cost_reduction=122.350560 | cost_minus_actual=9.180433
+  Runtime: 2.0063s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=9.602308 | input_cost_reduction=131.530992 | cost_minus_actual=0.000000
+  Runtime: 2.0011s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 075 | Hard | 15 words | 97 characters
+----------------------------------------------------------------------------------------------------
+Input:  ligit snowers yd oestenn algerea and tunisia maadtainee udiquate moisture far crop glowth is sayd
+Actual: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+Input metrics: word_accuracy=26.67% | character_accuracy=82.47% | character_errors=17 | cost_fn=199.624598
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=9.602308
+
+Spidy output: light showers in oestenn algeria and tunisia maadtainee udiquate moisture for crop growth it said
+  Accuracy: word=80.00% | character=91.75% | exact_match=False
+  Errors: remaining=8 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=77.724749 | input_cost_reduction=121.899849 | cost_minus_actual=68.122441
+  Runtime: 2.0525s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: light showers in eastern algeria end tunisia maadtainee adequacy moisture for crop growth it said
+  Accuracy: word=80.00% | character=93.81% | exact_match=False
+  Errors: remaining=6 | fixed=14 | introduced=3 | changed_positions=17
+  Cost: cost_fn=46.841850 | input_cost_reduction=152.782748 | cost_minus_actual=37.239543
+  Runtime: 2.0093s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: light showers in oestenn algeria and tunisia maintained adequate moisture for crop growth it said
+  Accuracy: word=93.33% | character=96.91% | exact_match=False
+  Errors: remaining=3 | fixed=14 | introduced=0 | changed_positions=14
+  Cost: cost_fn=33.439949 | input_cost_reduction=166.184649 | cost_minus_actual=23.837641
+  Runtime: 2.0050s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 076 | Easy | 17 words | 97 characters
+----------------------------------------------------------------------------------------------------
+Input:  he said rains somu six weeks ato helped the crop but more recent rains reduced prospects zlughtly
+Actual: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+Input metrics: word_accuracy=82.35% | character_accuracy=95.88% | character_errors=4 | cost_fn=78.936951
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.490591
+
+Spidy output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.490591 | input_cost_reduction=67.446360 | cost_minus_actual=0.000000
+  Runtime: 2.0094s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.490591 | input_cost_reduction=67.446360 | cost_minus_actual=0.000000
+  Runtime: 2.0049s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.490591 | input_cost_reduction=67.446360 | cost_minus_actual=0.000000
+  Runtime: 2.0010s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 077 | Medium | 17 words | 97 characters
+----------------------------------------------------------------------------------------------------
+Input:  he soid rains same six weeks ago helpad the crop but dore recent rains reducob prozpects sdightly
+Actual: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+Input metrics: word_accuracy=58.82% | character_accuracy=91.75% | character_errors=8 | cost_fn=146.825653
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.490591
+
+Spidy output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.490591 | input_cost_reduction=135.335062 | cost_minus_actual=0.000000
+  Runtime: 2.0339s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.490591 | input_cost_reduction=135.335062 | cost_minus_actual=0.000000
+  Runtime: 2.0085s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.490591 | input_cost_reduction=135.335062 | cost_minus_actual=0.000000
+  Runtime: 2.0030s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 078 | Hard | 17 words | 97 characters
+----------------------------------------------------------------------------------------------------
+Input:  he saig ruins somo six weeks agi eedped hhe crop vut mere recedd rains euteced prospetts slightly
+Actual: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+Input metrics: word_accuracy=35.29% | character_accuracy=83.51% | character_errors=16 | cost_fn=211.346461
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.490591
+
+Spidy output: he said rains some six weeks ago helped the crop but more recent rains euteced prospects slightly
+  Accuracy: word=94.12% | character=95.88% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=37.678481 | input_cost_reduction=173.667980 | cost_minus_actual=26.187889
+  Runtime: 2.0075s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: he said rains some six weeks ago helped the crop but more recent rains euteced prospects slightly
+  Accuracy: word=94.12% | character=95.88% | exact_match=False
+  Errors: remaining=4 | fixed=12 | introduced=0 | changed_positions=12
+  Cost: cost_fn=37.678481 | input_cost_reduction=173.667980 | cost_minus_actual=26.187889
+  Runtime: 2.0039s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=16 | introduced=0 | changed_positions=16
+  Cost: cost_fn=11.490591 | input_cost_reduction=199.855869 | cost_minus_actual=0.000000
+  Runtime: 2.0030s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 079 | Easy | 17 words | 101 characters
+----------------------------------------------------------------------------------------------------
+Input:  dudley teft rilinquished the tisle of president in july but contidues as vice chairman of the company
+Actual: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+Input metrics: word_accuracy=76.47% | character_accuracy=96.04% | character_errors=4 | cost_fn=103.529065
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.942072
+
+Spidy output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.942072 | input_cost_reduction=90.586993 | cost_minus_actual=0.000000
+  Runtime: 2.0074s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.942072 | input_cost_reduction=90.586993 | cost_minus_actual=0.000000
+  Runtime: 2.0082s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.942072 | input_cost_reduction=90.586993 | cost_minus_actual=0.000000
+  Runtime: 2.0039s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 080 | Medium | 17 words | 101 characters
+----------------------------------------------------------------------------------------------------
+Input:  dodley tafd relinquished the title of president in jily but continues az vece chairman or thu gompany
+Actual: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+Input metrics: word_accuracy=52.94% | character_accuracy=92.08% | character_errors=8 | cost_fn=145.530493
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.942072
+
+Spidy output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.942072 | input_cost_reduction=132.588421 | cost_minus_actual=0.000000
+  Runtime: 2.0081s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.942072 | input_cost_reduction=132.588421 | cost_minus_actual=0.000000
+  Runtime: 2.0067s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.942072 | input_cost_reduction=132.588421 | cost_minus_actual=0.000000
+  Runtime: 2.0075s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 081 | Hard | 17 words | 101 characters
+----------------------------------------------------------------------------------------------------
+Input:  dudley taft relitquisteb tho tutle or pnesedent it vuly vut continuas as vico chairmun if tee compiny
+Actual: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+Input metrics: word_accuracy=17.65% | character_accuracy=83.17% | character_errors=17 | cost_fn=234.177286
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.942072
+
+Spidy output: dudley taft relitquisteb the title of president in july but continues as vice chairman of the company
+  Accuracy: word=94.12% | character=97.03% | exact_match=False
+  Errors: remaining=3 | fixed=14 | introduced=0 | changed_positions=14
+  Cost: cost_fn=37.874689 | input_cost_reduction=196.302597 | cost_minus_actual=24.932617
+  Runtime: 2.0011s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: dudley taft relitquisteb tho tutle or pnesedent it vuly vut continuas as vico chairmun if tee compiny
+  Accuracy: word=17.65% | character=83.17% | exact_match=False
+  Errors: remaining=17 | fixed=0 | introduced=0 | changed_positions=0
+  Cost: cost_fn=234.177286 | input_cost_reduction=0.000000 | cost_minus_actual=221.235214
+  Runtime: 2.2360s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=17 | introduced=0 | changed_positions=17
+  Cost: cost_fn=12.942072 | input_cost_reduction=221.235214 | cost_minus_actual=0.000000
+  Runtime: 2.0019s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 082 | Easy | 15 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  it sayd the propoded settlemends would resolve disputes over possible violacions by the five parties
+Actual: it said the proposed settlements would resolve disputes over possible violations by the five parties
+Input metrics: word_accuracy=73.33% | character_accuracy=96.00% | character_errors=4 | cost_fn=97.129635
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.863532
+
+Spidy output: it said the proposed settlements would resolve disputes over possible violations by the five parties
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.863532 | input_cost_reduction=84.266103 | cost_minus_actual=0.000000
+  Runtime: 2.0036s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it sayd the propoded settlemends would resolve disputes over possible violacions by the five parties
+  Accuracy: word=73.33% | character=96.00% | exact_match=False
+  Errors: remaining=4 | fixed=0 | introduced=0 | changed_positions=0
+  Cost: cost_fn=97.129635 | input_cost_reduction=0.000000 | cost_minus_actual=84.266103
+  Runtime: 2.4019s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the proposed settlements would resolve disputes over possible violations by the five parties
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.863532 | input_cost_reduction=84.266103 | cost_minus_actual=0.000000
+  Runtime: 2.0016s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 083 | Medium | 15 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  it saud the proposed settlements would resolve disputes over possible violetians by the fave mursiat
+Actual: it said the proposed settlements would resolve disputes over possible violations by the five parties
+Input metrics: word_accuracy=73.33% | character_accuracy=91.00% | character_errors=9 | cost_fn=91.374519
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.863532
+
+Spidy output: it said the proposed settlements would resolve disputes over possible violations by the five mursiat
+  Accuracy: word=93.33% | character=95.00% | exact_match=False
+  Errors: remaining=5 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=31.043988 | input_cost_reduction=60.330531 | cost_minus_actual=18.180456
+  Runtime: 2.0051s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it saud the proposed settlements would resolve disputes over possible violetians by the fave mursiat
+  Accuracy: word=73.33% | character=91.00% | exact_match=False
+  Errors: remaining=9 | fixed=0 | introduced=0 | changed_positions=0
+  Cost: cost_fn=91.374519 | input_cost_reduction=0.000000 | cost_minus_actual=78.510987
+  Runtime: 2.0325s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the proposed settlements would resolve disputes over possible violations by the five persian
+  Accuracy: word=93.33% | character=96.00% | exact_match=False
+  Errors: remaining=4 | fixed=5 | introduced=0 | changed_positions=7
+  Cost: cost_fn=16.152696 | input_cost_reduction=75.221822 | cost_minus_actual=3.289164
+  Runtime: 2.0037s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 084 | Hard | 15 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  it said tte pruposed sittlemerts waudb rezolve dispahes aver posdible viototions by hhe feve partias
+Actual: it said the proposed settlements would resolve disputes over possible violations by the five parties
+Input metrics: word_accuracy=20.00% | character_accuracy=83.00% | character_errors=17 | cost_fn=230.308291
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.863532
+
+Spidy output: it said the proposed settlements waudb reserve dispahes over possible viototions by the five parties
+  Accuracy: word=73.33% | character=91.00% | exact_match=False
+  Errors: remaining=9 | fixed=10 | introduced=2 | changed_positions=12
+  Cost: cost_fn=84.060777 | input_cost_reduction=146.247514 | cost_minus_actual=71.197245
+  Runtime: 2.0110s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: it said the proposed sittlemerts waudb resolve dispahes over possible viototions by the five parties
+  Accuracy: word=73.33% | character=91.00% | exact_match=False
+  Errors: remaining=9 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=102.588343 | input_cost_reduction=127.719949 | cost_minus_actual=89.724811
+  Runtime: 2.0375s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: it said the proposed settlements would resolve disputes over possible violations by the five parties
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=17 | introduced=0 | changed_positions=17
+  Cost: cost_fn=12.863532 | input_cost_reduction=217.444760 | cost_minus_actual=0.000000
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 085 | Easy | 15 words | 114 characters
+----------------------------------------------------------------------------------------------------
+Input:  despite great potoncial developing economies are still confrorsed by grave difficulties pardicularly debt he added
+Actual: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+Input metrics: word_accuracy=80.00% | character_accuracy=95.61% | character_errors=5 | cost_fn=83.787297
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.001780
+
+Spidy output: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=8.001780 | input_cost_reduction=75.785517 | cost_minus_actual=0.000000
+  Runtime: 2.0083s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: despite great potential developing economies are still confrorsed by grave difficulties particularly debt he added
+  Accuracy: word=93.33% | character=98.25% | exact_match=False
+  Errors: remaining=2 | fixed=3 | introduced=0 | changed_positions=3
+  Cost: cost_fn=32.013578 | input_cost_reduction=51.773719 | cost_minus_actual=24.011798
+  Runtime: 2.0110s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=8.001780 | input_cost_reduction=75.785517 | cost_minus_actual=0.000000
+  Runtime: 2.0059s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 086 | Medium | 15 words | 114 characters
+----------------------------------------------------------------------------------------------------
+Input:  despice greet potential dateloping economies are stili confronted dy grave diflicultiis parhecularly debt he added
+Actual: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+Input metrics: word_accuracy=53.33% | character_accuracy=91.23% | character_errors=10 | cost_fn=153.449730
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.001780
+
+Spidy output: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=8.001780 | input_cost_reduction=145.447949 | cost_minus_actual=0.000000
+  Runtime: 2.0021s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: despite great potential developing economies are still confronted by grave diflicultiis parhecularly debt he added
+  Accuracy: word=86.67% | character=96.49% | exact_match=False
+  Errors: remaining=4 | fixed=6 | introduced=0 | changed_positions=6
+  Cost: cost_fn=53.888640 | input_cost_reduction=99.561090 | cost_minus_actual=45.886859
+  Runtime: 2.0249s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=8.001780 | input_cost_reduction=145.447949 | cost_minus_actual=0.000000
+  Runtime: 2.0056s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 087 | Hard | 15 words | 114 characters
+----------------------------------------------------------------------------------------------------
+Input:  desbide gueah potintial danelopanj etonomeus are still cunfronted by grave eifficultiet paucicularle eebt he edded
+Actual: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+Input metrics: word_accuracy=33.33% | character_accuracy=82.46% | character_errors=20 | cost_fn=212.971353
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=8.001780
+
+Spidy output: despite great potential danelopanj etonomeus are still confronted by grave difficulties paucicularle debt he added
+  Accuracy: word=80.00% | character=91.23% | exact_match=False
+  Errors: remaining=10 | fixed=10 | introduced=0 | changed_positions=10
+  Cost: cost_fn=77.599408 | input_cost_reduction=135.371945 | cost_minus_actual=69.597628
+  Runtime: 2.0025s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: desbide gueah potintial danelopanj etonomeus are still cunfronted by grave eifficultiet paucicularle eebt he edded
+  Accuracy: word=33.33% | character=82.46% | exact_match=False
+  Errors: remaining=20 | fixed=0 | introduced=0 | changed_positions=0
+  Cost: cost_fn=212.971353 | input_cost_reduction=0.000000 | cost_minus_actual=204.969572
+  Runtime: 2.0965s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: despite great potential danelopanj economies are still confronted by grave difficulties paucicularle debt he added
+  Accuracy: word=86.67% | character=93.86% | exact_match=False
+  Errors: remaining=7 | fixed=13 | introduced=0 | changed_positions=13
+  Cost: cost_fn=59.474469 | input_cost_reduction=153.496884 | cost_minus_actual=51.472689
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 088 | Easy | 18 words | 119 characters
+----------------------------------------------------------------------------------------------------
+Input:  the second cnsecutive eeek of dry weather stresced moroccan winter grains appriaching teh headint ssage the agency said
+Actual: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+Input metrics: word_accuracy=72.22% | character_accuracy=95.80% | character_errors=5 | cost_fn=129.691221
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.024883
+
+Spidy output: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=12.024883 | input_cost_reduction=117.666339 | cost_minus_actual=0.000000
+  Runtime: 2.0075s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=12.024883 | input_cost_reduction=117.666339 | cost_minus_actual=0.000000
+  Runtime: 2.0124s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=12.024883 | input_cost_reduction=117.666339 | cost_minus_actual=0.000000
+  Runtime: 2.0086s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 089 | Medium | 18 words | 119 characters
+----------------------------------------------------------------------------------------------------
+Input:  the cecond cnsecutive week of tre weathir stressed morokcan uinter grains apbroachynd teh hoading stage the agency said
+Actual: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+Input metrics: word_accuracy=61.11% | character_accuracy=91.60% | character_errors=10 | cost_fn=153.296901
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.024883
+
+Spidy output: the second cnsecutive week of dry weather stressed moroccan winter grains apbroachynd teh heading stage the agency said
+  Accuracy: word=94.44% | character=97.48% | exact_match=False
+  Errors: remaining=3 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=37.258530 | input_cost_reduction=116.038371 | cost_minus_actual=25.233647
+  Runtime: 2.0047s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the second cnsecutive week of dry weather stressed moroccan winter grains apbroachynd teh heading stage the agency said
+  Accuracy: word=94.44% | character=97.48% | exact_match=False
+  Errors: remaining=3 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=37.258530 | input_cost_reduction=116.038371 | cost_minus_actual=25.233647
+  Runtime: 2.0085s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the second cnsecutive week of pre weather stressed moroccan winter grains approaching teh heading stage the agency said
+  Accuracy: word=94.44% | character=98.32% | exact_match=False
+  Errors: remaining=2 | fixed=8 | introduced=0 | changed_positions=9
+  Cost: cost_fn=18.363411 | input_cost_reduction=134.933491 | cost_minus_actual=6.338528
+  Runtime: 2.0057s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 090 | Hard | 18 words | 119 characters
+----------------------------------------------------------------------------------------------------
+Input:  the secamd cnsetecive weok of eeu woateer ssrissed moruccun winter grains approashing tah heading stuge tee agency saad
+Actual: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+Input metrics: word_accuracy=33.33% | character_accuracy=83.19% | character_errors=20 | cost_fn=242.394677
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.024883
+
+Spidy output: the second cnsetecive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+  Accuracy: word=94.44% | character=97.48% | exact_match=False
+  Errors: remaining=3 | fixed=17 | introduced=0 | changed_positions=17
+  Cost: cost_fn=34.029503 | input_cost_reduction=208.365174 | cost_minus_actual=22.004620
+  Runtime: 2.0027s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the second cnsetecive week of rha weather stressed moruccun winter grains approaching teh heading stage the agency said
+  Accuracy: word=83.33% | character=93.28% | exact_match=False
+  Errors: remaining=8 | fixed=12 | introduced=0 | changed_positions=15
+  Cost: cost_fn=66.503796 | input_cost_reduction=175.890881 | cost_minus_actual=54.478913
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the second cnsetecive week of eia weather stressed moroccan winter grains approaching teh heading stage the agency said
+  Accuracy: word=88.89% | character=94.96% | exact_match=False
+  Errors: remaining=6 | fixed=14 | introduced=0 | changed_positions=16
+  Cost: cost_fn=40.990308 | input_cost_reduction=201.404369 | cost_minus_actual=28.965425
+  Runtime: 2.0020s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 091 | Easy | 16 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  the united states conducts no trade with nicaregua atd very little trade with ramania and paeaguay
+Actual: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+Input metrics: word_accuracy=75.00% | character_accuracy=95.92% | character_errors=4 | cost_fn=94.735297
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.211741
+
+Spidy output: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.211741 | input_cost_reduction=82.523556 | cost_minus_actual=0.000000
+  Runtime: 2.0053s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.211741 | input_cost_reduction=82.523556 | cost_minus_actual=0.000000
+  Runtime: 2.0152s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.211741 | input_cost_reduction=82.523556 | cost_minus_actual=0.000000
+  Runtime: 2.0042s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 092 | Medium | 16 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  the united states contukts no teade with nicuragua and veri little trage with romanie and paraguuy
+Actual: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+Input metrics: word_accuracy=56.25% | character_accuracy=91.84% | character_errors=8 | cost_fn=158.389617
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.211741
+
+Spidy output: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.211741 | input_cost_reduction=146.177876 | cost_minus_actual=0.000000
+  Runtime: 2.0056s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.211741 | input_cost_reduction=146.177876 | cost_minus_actual=0.000000
+  Runtime: 2.0169s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=12.211741 | input_cost_reduction=146.177876 | cost_minus_actual=0.000000
+  Runtime: 2.0020s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 093 | Hard | 16 words | 98 characters
+----------------------------------------------------------------------------------------------------
+Input:  chi unatid tdetes cotducts no trade with nycaratua and vory littlu trede uihh uodania and paraguay
+Actual: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+Input metrics: word_accuracy=37.50% | character_accuracy=82.65% | character_errors=17 | cost_fn=198.290629
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.211741
+
+Spidy output: the united tdetes conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=93.75% | character=96.94% | exact_match=False
+  Errors: remaining=3 | fixed=14 | introduced=0 | changed_positions=14
+  Cost: cost_fn=35.549589 | input_cost_reduction=162.741040 | cost_minus_actual=23.337848
+  Runtime: 2.0072s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: the united tdetes conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=93.75% | character=96.94% | exact_match=False
+  Errors: remaining=3 | fixed=14 | introduced=0 | changed_positions=14
+  Cost: cost_fn=35.549589 | input_cost_reduction=162.741040 | cost_minus_actual=23.337848
+  Runtime: 2.0247s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: chi united thames conducts no trade with nicaragua and very little trade with romania and paraguay
+  Accuracy: word=87.50% | character=94.90% | exact_match=False
+  Errors: remaining=5 | fixed=13 | introduced=1 | changed_positions=15
+  Cost: cost_fn=25.190544 | input_cost_reduction=173.100085 | cost_minus_actual=12.978803
+  Runtime: 2.0015s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 094 | Easy | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  btr nylex which manufactares rubber and prastyc products firct bid for bwa in late january
+Actual: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+Input metrics: word_accuracy=80.00% | character_accuracy=95.56% | character_errors=4 | cost_fn=80.945402
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.049045
+
+Spidy output: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.049045 | input_cost_reduction=69.896357 | cost_minus_actual=0.000000
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.049045 | input_cost_reduction=69.896357 | cost_minus_actual=0.000000
+  Runtime: 2.1145s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=11.049045 | input_cost_reduction=69.896357 | cost_minus_actual=0.000000
+  Runtime: 2.0062s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 095 | Medium | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  btr nelex which mamufactulos rabber and plastic priducts first bid for bwa id latu january
+Actual: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+Input metrics: word_accuracy=60.00% | character_accuracy=91.11% | character_errors=8 | cost_fn=144.537696
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.049045
+
+Spidy output: btr nylex which mamufactulos rubber and plastic products first bid for bwa in late january
+  Accuracy: word=93.33% | character=96.67% | exact_match=False
+  Errors: remaining=3 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=35.496572 | input_cost_reduction=109.041124 | cost_minus_actual=24.447527
+  Runtime: 2.0035s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: btr nylex which mamufactulos rubber and plastic products first bid for bwa in late january
+  Accuracy: word=93.33% | character=96.67% | exact_match=False
+  Errors: remaining=3 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=35.496572 | input_cost_reduction=109.041124 | cost_minus_actual=24.447527
+  Runtime: 2.0113s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=8 | introduced=0 | changed_positions=8
+  Cost: cost_fn=11.049045 | input_cost_reduction=133.488651 | cost_minus_actual=0.000000
+  Runtime: 2.0018s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 096 | Hard | 15 words | 90 characters
+----------------------------------------------------------------------------------------------------
+Input:  bdr nylex uhith manefactures uubbel and plustic products first bed for bwi im iate dinearu
+Actual: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+Input metrics: word_accuracy=33.33% | character_accuracy=83.33% | character_errors=15 | cost_fn=200.913960
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.049045
+
+Spidy output: btr nylex which manufactures rubber and plastic products first bid for bwa in late dinearu
+  Accuracy: word=93.33% | character=95.56% | exact_match=False
+  Errors: remaining=4 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=29.656935 | input_cost_reduction=171.257025 | cost_minus_actual=18.607890
+  Runtime: 2.0075s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: btr nylex which manufactures rubber and plastic products first bid for bwa in late dinearu
+  Accuracy: word=93.33% | character=95.56% | exact_match=False
+  Errors: remaining=4 | fixed=11 | introduced=0 | changed_positions=11
+  Cost: cost_fn=29.656935 | input_cost_reduction=171.257025 | cost_minus_actual=18.607890
+  Runtime: 2.0130s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=15 | introduced=0 | changed_positions=15
+  Cost: cost_fn=11.049045 | input_cost_reduction=189.864915 | cost_minus_actual=0.000000
+  Runtime: 2.0042s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 097 | Easy | 16 words | 108 characters
+----------------------------------------------------------------------------------------------------
+Input:  many dealers aru ezpeuimenting with owring several franchises some of which pight compete against each other
+Actual: many dealers are experimenting with owning several franchises some of which might compete against each other
+Input metrics: word_accuracy=75.00% | character_accuracy=95.37% | character_errors=5 | cost_fn=101.462162
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.872169
+
+Spidy output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.872169 | input_cost_reduction=89.589993 | cost_minus_actual=0.000000
+  Runtime: 2.0049s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.872169 | input_cost_reduction=89.589993 | cost_minus_actual=0.000000
+  Runtime: 2.0119s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=5 | introduced=0 | changed_positions=5
+  Cost: cost_fn=11.872169 | input_cost_reduction=89.589993 | cost_minus_actual=0.000000
+  Runtime: 2.0046s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 098 | Medium | 16 words | 108 characters
+----------------------------------------------------------------------------------------------------
+Input:  deny doalers are experipenting with oening several franchuses some of which micht compete ajainct each other
+Actual: many dealers are experimenting with owning several franchises some of which might compete against each other
+Input metrics: word_accuracy=56.25% | character_accuracy=91.67% | character_errors=9 | cost_fn=149.374399
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.872169
+
+Spidy output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=11.872169 | input_cost_reduction=137.502230 | cost_minus_actual=0.000000
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=9 | introduced=0 | changed_positions=9
+  Cost: cost_fn=11.872169 | input_cost_reduction=137.502230 | cost_minus_actual=0.000000
+  Runtime: 2.0098s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: deny dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=93.75% | character=98.15% | exact_match=False
+  Errors: remaining=2 | fixed=7 | introduced=0 | changed_positions=7
+  Cost: cost_fn=17.636747 | input_cost_reduction=131.737652 | cost_minus_actual=5.764577
+  Runtime: 2.0046s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 099 | Hard | 16 words | 108 characters
+----------------------------------------------------------------------------------------------------
+Input:  manu dialers oro experimentint eeth ownimt several lrancnises zemo of whych might cempete atainst aech other
+Actual: many dealers are experimenting with owning several franchises some of which might compete against each other
+Input metrics: word_accuracy=25.00% | character_accuracy=82.41% | character_errors=19 | cost_fn=254.150035
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=11.872169
+
+Spidy output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=19 | introduced=0 | changed_positions=19
+  Cost: cost_fn=11.872169 | input_cost_reduction=242.277866 | cost_minus_actual=0.000000
+  Runtime: 2.0043s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=19 | introduced=0 | changed_positions=19
+  Cost: cost_fn=11.872169 | input_cost_reduction=242.277866 | cost_minus_actual=0.000000
+  Runtime: 2.0045s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: many dealers are experimenting with owning several franchises some of which might compete against each other
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=19 | introduced=0 | changed_positions=19
+  Cost: cost_fn=11.872169 | input_cost_reduction=242.277866 | cost_minus_actual=0.000000
+  Runtime: 2.0022s | time_limit=2.0000s | timed_out=True | error=None
+
+====================================================================================================
+CASE 100 | Easy | 15 words | 100 characters
+----------------------------------------------------------------------------------------------------
+Input:  no fresh proposais other than the colombean initiitive had been tabled formalry today delegates said
+Actual: no fresh proposals other than the colombian initiative had been tabled formally today delegates said
+Input metrics: word_accuracy=73.33% | character_accuracy=96.00% | character_errors=4 | cost_fn=101.993693
+Actual metrics: word_accuracy=100.00% | character_accuracy=100.00% | character_errors=0 | cost_fn=12.553911
+
+Spidy output: no fresh proposals other than the colombian initiative had been tabled formally today delegates said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.553911 | input_cost_reduction=89.439781 | cost_minus_actual=0.000000
+  Runtime: 2.0191s | time_limit=2.0000s | timed_out=True | error=None
+
+Tanmay output: no fresh proposals other than the colombian initiative had been tabled formally today delegates said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.553911 | input_cost_reduction=89.439781 | cost_minus_actual=0.000000
+  Runtime: 2.0115s | time_limit=2.0000s | timed_out=True | error=None
+
+Yours output: no fresh proposals other than the colombian initiative had been tabled formally today delegates said
+  Accuracy: word=100.00% | character=100.00% | exact_match=True
+  Errors: remaining=0 | fixed=4 | introduced=0 | changed_positions=4
+  Cost: cost_fn=12.553911 | input_cost_reduction=89.439781 | cost_minus_actual=0.000000
+  Runtime: 2.0027s | time_limit=2.0000s | timed_out=True | error=None
+

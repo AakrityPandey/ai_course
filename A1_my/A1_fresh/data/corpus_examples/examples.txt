@@ -1,0 +1,1200 @@
+Corpus line 1
+Original: grey marketeers may also be able to outfox any new restrictions some industry officials said
+Light (4 substitutions): grey marketeers may also be able so outfox any new resduictions some industry officiuls said
+Medium (8 substitutions): grey marketears may also be able to oosvox any new rustrictions time industry officiuls said
+Heavy (16 substitutions): griy nankeheert mao also bu able to outfox ene new restrictiors sone idduztry offycials soyd
+
+Corpus line 2
+Original: it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation
+Light (6 substitutions): ut saig the new btx procass units include aromatic extraction xylene fractionation xylene isomerization and thirmal hydradeaikylation
+Medium (12 substitutions): it said tie now btx process units includa oromitic extractyor xylene fractionition xylede izimerization and theemal hydrodealkylation
+Heavy (23 substitutions): ic saud the ner btx prucass utits include arotitic extroction xylene guictiinasior cylene isomerigitior and tharmel hydrodealtylatuon
+
+Corpus line 3
+Original: it said the increase will affect the floor covering markets paper paperboard and specialty markets
+Light (4 substitutions): it said the increase eill affect the floor covering markets paper paporboard and specialty mirkits
+Medium (8 substitutions): it said the increase wall afvect the frooe coverung markets paper paperpoard and smecialty markots
+Heavy (17 substitutions): ih saud shu increase will affect tho floor covering merkets papur bupenboard and spesyarcy margecd
+
+Corpus line 4
+Original: noranda said work crews have begun securing the ramp leading into the zone where the fire was located
+Light (4 substitutions): noranda said wirk crews have begun sacuring the ramp leading into the zoni where the fire wad located
+Medium (8 substitutions): noranda said wonk crews have begun seciring tee ramp leadirg into the gone whele thi fira was located
+Heavy (17 substitutions): naranda saed eork creus have begum securing hhe ranp leiditt into she zone ehera the lire eos locatad
+
+Corpus line 5
+Original: but turning that capital into more permanent productive investment depends on government economic policy he said
+Light (5 substitutions): boc turning that capital into more permanent productive invessment depends on governmens economic palicy he said
+Medium (10 substitutions): but turnang thec capital ynto moru permanent productivo anvestment depetds on govornment economic bolicy he said
+Heavy (19 substitutions): vut turnidg ceat capital ytta mone permatert productive itvestdett dependz om tovernment econodic policy ho sait
+
+Corpus line 6
+Original: he declined to say how many dollars the bank bought or when precisely it intervened
+Light (3 substitutions): he declined do say how many dollars tho bank bought or when precisaly it intervened
+Medium (7 substitutions): he declinod to sai how many dollers tee bank vought or when peicisely it intervened
+Heavy (14 substitutions): eu deglineg to say how many dodlars dhe bank bought er wher puecisely it emselveneg
+
+Corpus line 7
+Original: the company also said it granted noranda an option to purchase two mln galveston shares
+Light (4 substitutions): the company also said it granted noranda an optuim to purchase two mln galvestot shares
+Medium (7 substitutions): thi company also said it granted niranda on option to purkhase tuo mln galtaston shares
+Heavy (15 substitutions): tte compuny alse said at grunted toranea an optuon to purchese twa dlm galbettun shares
+
+Corpus line 8
+Original: damage was most severe on plants above the ground where little or no snow cover was present he added
+Light (4 substitutions): damage was modt severe en plamts above the ground where little or no snow cofer was present he added
+Medium (8 substitutions): datage was mast zevere on blantc above the cround wnere little ur no snow cover was present he added
+Heavy (16 substitutions): damage haz mott severi ot fiants abova dhe ground uhere lithle or no snow cuber wad present te idded
+
+Corpus line 9
+Original: the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment
+Light (5 substitutions): thu units make and distribote varaous products incluting laen mowers small appliances and sheep shearing equipment
+Medium (10 substitutions): the units moke and dissrebuse various productt inclutyng lawn mowers small uppliances and sheep sieuring equipment
+Heavy (20 substitutions): the unets maki anb dissribete various peibicts incladang rawn mowers smell atpliancet and sheep dhuulitg equipment
+
+Corpus line 10
+Original: prices had also been forced down because refineries were using up old stock he said
+Light (3 substitutions): pliges had also been furced down because refineries were using up old stock he said
+Medium (7 substitutions): priced hud alsa been forcad dowm because refineries wele using up old stosk he said
+Heavy (14 substitutions): pricas hab also maen forceg doun because nefinuriis wele using um old stoch hu saed
+
+Corpus line 11
+Original: the recent stability would last until markets decided to test the resolve of central banks he said
+Light (4 substitutions): dhe recent stability woald last until murkets decided to hest the resolve of central banks he said
+Medium (8 substitutions): the lecert stability wautd last unhil maekets decided to test the resolve of centnal bants he said
+Heavy (16 substitutions): the uecent ssavilicy riuld last until markuts decided to test the eesoife of cumdral badks hi soid
+
+Corpus line 12
+Original: last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more
+Light (4 substitutions): last month the bank endorsed economic changes aireody introduced by indonesio but emplied it wanted more
+Medium (9 substitutions): last mondh the domk eddorsed economic changus elready introduced bo indonesia but implied it wanted mare
+Heavy (18 substitutions): last month the bank entorseg ecorumic changec elriedy intritucid by indonaziu but impried it wantod moni
+
+Corpus line 13
+Original: to promote trade saudi arabia is inviting japanese industries to do business there he said
+Light (4 substitutions): to primote trade saudi arabia is anvititg dapanese industries to do business there he said
+Medium (8 substitutions): to promote trade saedi arabei ic inveting japanese industries co do buziness ttere he said
+Heavy (15 substitutions): to propote cuadi saudi auabia az inteting japanesu indushries to da business there hu saae
+
+Corpus line 14
+Original: the analysts agreed success would depend largely on how sterling performs in the near term
+Light (4 substitutions): the analysts agreed zuccess woutd depend largely on how sterlimg performs in the neor term
+Medium (8 substitutions): thu inalydts agreod success would depend larjaly on how sterling perfonms in the nean term
+Heavy (15 substitutions): hhe aralosts agreed saccuss would dubemd raegely on how stirling firfonms in the naar term
+
+Corpus line 15
+Original: the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co
+Light (4 substitutions): thu magic group owns piljrim life insurance co of america and middle atlantic lefe insuramce co
+Medium (8 substitutions): dhe magic group owns pilcrim dife insurancu co of america and midble atdantic life unsurance ci
+Heavy (16 substitutions): hhe maguc gnoup ouns filglim life unturance co of america atd midtlu atlantic lufe idzurutce co
+
+Corpus line 16
+Original: stands in these fields were thin and chances of recovery appeared less favorable he said
+Light (4 substitutions): ctands in these fields were thin and chanced of recovery afpeared less favolable he said
+Medium (7 substitutions): stands it thise fields were thin and chamces of recovery appeared lesc favoroble ee soid
+Heavy (15 substitutions): stinds in theze rierdc wele thin ond ctanges of receneny appeared ress faborable ee said
+
+Corpus line 17
+Original: armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said
+Light (4 substitutions): aumctrong tire co an armtek unit widl continue to sell replacement industrial tiees the company said
+Medium (8 substitutions): armstrong tile co an almcek unit will continue ho sell raplatement ingustrial tires the compamy said
+Heavy (17 substitutions): armdsrong tire cu an armtak onit will continui so soll neplacedent iddustleit tiret the company saed
+
+Corpus line 18
+Original: it stressed the need to segregate wheat categories at every stage from receival to shipping
+Light (4 substitutions): it stressee she need to segeegate wheat cutegories at every stage from receival to shipping
+Medium (8 substitutions): it stressed the need to segreguse wheat categories at evury ztage from recaival to stappinc
+Heavy (15 substitutions): it stradsed sie teed to seglegahe wneat categories it evaly stage lrem receival ho shipming
+
+Corpus line 19
+Original: under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals
+Light (6 substitutions): under such circumstamces the countries agreed their currencies wore widnin ranges broadly tonsistent with ecoromic fundamentals
+Medium (11 substitutions): utden such circunstances tie countlies agreed their curremcies were hithin ranges broadly gonsistont with economic fundumentels
+Heavy (22 substitutions): under such circunstanced teo coonteius agreeb their curremcees ware within randas broadry consestemt uitt iconomuc fundementald
+
+Corpus line 20
+Original: the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said
+Light (4 substitutions): the measures cherefore iimed clearly at brunging monetary growtt back onto the desired path he said
+Medium (8 substitutions): tee maasures ceerefore aimed klearly at bringing motetary growth back onto the desired path he teid
+Heavy (17 substitutions): the deasurat therefore aimed trearlu ah brimging monutari growti back onti hha desired fatn te said
+
+Corpus line 21
+Original: trading in hayes common will cease at the close of business today the company said
+Light (3 substitutions): trading in hayes common will ceose at the close of businuss today hhe company said
+Medium (7 substitutions): traditg in hayes common will cease at the slose af businosz today the cimpani said
+Heavy (14 substitutions): trading un iayas gonnor will caase at hne close ef butiness today chi company said
+
+Corpus line 22
+Original: rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said
+Light (5 substitutions): rain patterns will move ocross indiana to ohio with thudershower actinyty yielbing so more general rains he said
+Medium (10 substitutions): rain patherns will move across indiana to otio with ciuderzhower acdivity iiulding co more generel rains he said
+Heavy (19 substitutions): eain putterns wiil mone agrozc indyano ta uhio with tnudeustiwer activity yieldyng to more guneral rains he duid
+
+Corpus line 23
+Original: other factories are continuing to process beet normally but harvesting remains very difficult in most areas
+Light (5 substitutions): other factoriec ari continuing to plocess beet normally but harvesting remains bery difficilt in most areas
+Medium (9 substitutions): other fecholies are sontiduing to prosess beet normally but harvestidg remayns very difficult in most ireas
+Heavy (18 substitutions): otiee factorios are continuitj ta pratess deet nounarly vut harvestang remains viry difficudh in most areus
+
+Corpus line 24
+Original: futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds
+Light (4 substitutions): futures trabers said tight cash supplies shoald hedp july soybeans ind soymeal gain on deferreds
+Medium (8 substitutions): fatures traders said tigtt cudh supplies should help duly soybeans ant soemeal gain on deforreds
+Heavy (16 substitutions): fuhures tredert seid tijht cash sumplios should halp july soybeans and toymeol coin on dorelredt
+
+Corpus line 25
+Original: light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said
+Light (4 substitutions): light showers in eastern alterii and tunisia mainsained adequade moisture for crop growth it said
+Medium (8 substitutions): ligit showers in eotturn algaria and tunisia maintained adetuate moistune for crop grewth it said
+Heavy (17 substitutions): ligit snowers yd oestenn algerea and tunisia maadtainee udiquate moisture far crop glowth is sayd
+
+Corpus line 26
+Original: he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly
+Light (4 substitutions): he said rains somu six weeks ato helped the crop but more recent rains reduced prospects zlughtly
+Medium (8 substitutions): he soid rains same six weeks ago helpad the crop but dore recent rains reducob prozpects sdightly
+Heavy (16 substitutions): he saig ruins somo six weeks agi eedped hhe crop vut mere recedd rains euteced prospetts slightly
+
+Corpus line 27
+Original: dudley taft relinquished the title of president in july but continues as vice chairman of the company
+Light (4 substitutions): dudley teft rilinquished the tisle of president in july but contidues as vice chairman of the company
+Medium (8 substitutions): dodley tafd relinquished the title of president in jily but continues az vece chairman or thu gompany
+Heavy (17 substitutions): dudley taft relitquisteb tho tutle or pnesedent it vuly vut continuas as vico chairmun if tee compiny
+
+Corpus line 28
+Original: it said the proposed settlements would resolve disputes over possible violations by the five parties
+Light (4 substitutions): it sayd the propoded settlemends would resolve disputes over possible violacions by the five parties
+Medium (9 substitutions): it saud the proposed settlements would resolve disputes over possible violetians by the fave mursiat
+Heavy (17 substitutions): it said tte pruposed sittlemerts waudb rezolve dispahes aver posdible viototions by hhe feve partias
+
+Corpus line 29
+Original: despite great potential developing economies are still confronted by grave difficulties particularly debt he added
+Light (5 substitutions): despite great potoncial developing economies are still confrorsed by grave difficulties pardicularly debt he added
+Medium (10 substitutions): despice greet potential dateloping economies are stili confronted dy grave diflicultiis parhecularly debt he added
+Heavy (20 substitutions): desbide gueah potintial danelopanj etonomeus are still cunfronted by grave eifficultiet paucicularle eebt he edded
+
+Corpus line 30
+Original: the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said
+Light (5 substitutions): the second cnsecutive eeek of dry weather stresced moroccan winter grains appriaching teh headint ssage the agency said
+Medium (10 substitutions): the cecond cnsecutive week of tre weathir stressed morokcan uinter grains apbroachynd teh hoading stage the agency said
+Heavy (20 substitutions): the secamd cnsetecive weok of eeu woateer ssrissed moruccun winter grains approashing tah heading stuge tee agency saad
+
+Corpus line 31
+Original: the united states conducts no trade with nicaragua and very little trade with romania and paraguay
+Light (4 substitutions): the united states conducts no trade with nicaregua atd very little trade with ramania and paeaguay
+Medium (8 substitutions): the united states contukts no teade with nicuragua and veri little trage with romanie and paraguuy
+Heavy (17 substitutions): chi unatid tdetes cotducts no trade with nycaratua and vory littlu trede uihh uodania and paraguay
+
+Corpus line 32
+Original: btr nylex which manufactures rubber and plastic products first bid for bwa in late january
+Light (4 substitutions): btr nylex which manufactares rubber and prastyc products firct bid for bwa in late january
+Medium (8 substitutions): btr nelex which mamufactulos rabber and plastic priducts first bid for bwa id latu january
+Heavy (15 substitutions): bdr nylex uhith manefactures uubbel and plustic products first bed for bwi im iate dinearu
+
+Corpus line 33
+Original: many dealers are experimenting with owning several franchises some of which might compete against each other
+Light (5 substitutions): many dealers aru ezpeuimenting with owring several franchises some of which pight compete against each other
+Medium (9 substitutions): deny doalers are experipenting with oening several franchuses some of which micht compete ajainct each other
+Heavy (19 substitutions): manu dialers oro experimentint eeth ownimt several lrancnises zemo of whych might cempete atainst aech other
+
+Corpus line 34
+Original: no fresh proposals other than the colombian initiative had been tabled formally today delegates said
+Light (4 substitutions): no fresh proposais other than the colombean initiitive had been tabled formalry today delegates said
+Medium (9 substitutions): no fresh proposals other then che colombian unitiative hae been tamded formolly taday delegates seid
+Heavy (17 substitutions): ro fresh broposals otnor then the colompian inisuative had veen tablig gormallu dotay delegotes caid
+
+Corpus line 35
+Original: becor western the amended davis mining offer is suject to confirmation of certain due diligence information
+Light (5 substitutions): becor western the amended davis minanc offer is suject to confirmation af certain due didigence informatiom
+Medium (9 substitutions): becor wescern tha amunded davis mining offar is suject to tonfirmetion if certain tue diligence informution
+Heavy (18 substitutions): becon redtarn the amerdod daves mining urvur is saject ti confirmasion of cirtain due diligenca enformatien
+
+Corpus line 36
+Original: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries
+Light (4 substitutions): gallo soid fcs will stop actively seeking potential merger partners but wild respond to seriois inquiriis
+Medium (9 substitutions): galdo said gcc will stop actively seeking potentiad merger partners but will eastond so seriois inquiries
+Heavy (18 substitutions): galli daid rct will stom accineii seekirg totential merger partrers but will resfand ta sorious inquiriod
+
+Corpus line 37
+Original: the company said the agreement is subject to approval by regulatory agencies both boards and walker shareholders
+Light (5 substitutions): tee company said the agreement is subject to approval by redulatory agencies bohh biards and walker shareholgers
+Medium (10 substitutions): thi company saud the agreenent ad sibject ta approval by regulatoey ugenciet both boards and walker shareholders
+Heavy (19 substitutions): hhe tompani soyd the ageeememt ys sibvect du approbal by reculacory agencies bote boards and watkel thareholders
+
+Corpus line 38
+Original: under the pact california micro devices will design the chips and tachonics will manufacture them
+Light (4 substitutions): under the pact carifornia tigro devices will design the chips and tachonics will panufacture them
+Medium (8 substitutions): undar the pact califonnia mitro devices will dasign the chips and tuchodics uill manufacture shem
+Heavy (17 substitutions): under she pact celifornia mikro devices uilt besign hhe chyps and tochenats will munafaccuee then
+
+Corpus line 39
+Original: they said ali ibrahim rubaishi head of organisation planning in petromin would take over as acting governor
+Light (5 substitutions): thoy said ali ibrahim rubaishi head of ortatisation planning in petromin would toke oveu as acting governor
+Medium (9 substitutions): thee said ala ebrahim rubaishi head of organisatiot planning in tetromin rould take obee as acting givernor
+Heavy (18 substitutions): ciey said ali ibrahim rubaishi head of erganisesion plandinc in pesnoman wourd take over es aktydd gofarnor
+
+Corpus line 40
+Original: the result includes profit and loss transfers from bankhaus centrale credit and the visa organisation
+Light (4 substitutions): the retult includes profit and loss transfers from panciaus centrale credit and the visa organisation
+Medium (9 substitutions): the result incrudes plofit and loss transrirc from pankhuus centlale credit and the visa organitation
+Heavy (17 substitutions): the risuih included profit and lost transfars fram bonkhaus tertrale kuudih and the visa irganusatian
+
+Corpus line 41
+Original: colombia opened export registrations and good business developed with both the fnc and private shippers
+Light (4 substitutions): colombia opened export registrateons amd good vuziness developed with both the fnc and private shippers
+Medium (9 substitutions): colombia epened expors uegistratiens and good business bevelopet widh both the frc and private shitpers
+Heavy (18 substitutions): gelombii opened export registritions ard goot dusiness doveloped wach poth tte vnc und privati ttipmers
+
+Corpus line 42
+Original: she said usda has notified australia which assured it that stricter controls would be implemented
+Light (4 substitutions): she said usda ias notified aushralia which assured it thas strister controls would be implemented
+Medium (8 substitutions): she saad usda has notified austnalia whuch assored ic dhat stricter tontrold would be implemented
+Heavy (17 substitutions): sie saud usda has notyried iustralia which aszeeet it thet stricter contrulz woerd bu emplementet
+
+Corpus line 43
+Original: the transaction is subject to fulfilment of certain unspecified conditions and regulatory and board approvals
+Light (5 substitutions): the transactiin is subject tu fulfylment of certain unspecifued conditions and regulatory and board approvais
+Medium (10 substitutions): tne transactyon is subject te fulfirmont of certiin unspecified conditions und regulatory and veird approvals
+Heavy (19 substitutions): tne tradsastion id subject tu fulfilment of ciutain ensmacifieb cinditions atb reguratory and veird approvars
+
+Corpus line 44
+Original: two iranian boats wer destroyed and sunk with their occupants and the others fled it said
+Light (4 substitutions): two iranian boatt wer deshrayed and sunk with their occupadts and the others fled it said
+Medium (7 substitutions): two iranian boats wer destroyid and sunk with tneuu occupants ane the otnens fled it said
+Heavy (15 substitutions): two aranuad poats wer destroyed anb sunk weth theiu ocgipants ard hte odhees fled it suid
+
+Corpus line 45
+Original: he suggested that some independents may instead turn to exploration in shallow federal offshore leases
+Light (4 substitutions): he saggested that some independents may enstead turn to exploridion in shallow federal offshore leases
+Medium (9 substitutions): he suggested that some indepemdedts pay anscead turn to exploration in sholtow federal affshore leades
+Heavy (18 substitutions): he suggestid thah somu yrdeparbonts mai idsseeg turn to axploration in shallow fedeeai offshore leoses
+
+Corpus line 46
+Original: wish said refineries will stockpile production before the shutdowns to maintain normal supply while maintenance is carried out
+Light (5 substitutions): wise said rofineries will stockpale production before the shutdowns to maintain normad supply while maintenanse is carried out
+Medium (11 substitutions): wish said rifineryes will stocktile produktion before the shotdowns to maintain normal sipply wiile daedtenanca is carried out
+Heavy (22 substitutions): rish said rofineeies witl stostpile broduction befere the thutdowms to mointeyn nornil sepply whele meintenenko as carried out
+
+Corpus line 47
+Original: the fire destroyed five giant tanks and threatened four others the she will spokesman said
+Light (4 substitutions): the fire deztroyed five giant tanks and threutened four otherd the she will spekesman said
+Medium (8 substitutions): thu gire destroued five geant tanks and tnreatened foul others che she will spokesnan said
+Heavy (15 substitutions): the fire destroyed fife giant tunkd and threatunid feir othees tho sie eidl tpicesman said
+
+Corpus line 48
+Original: it said it has also filed for proposed service agreements for interruptible and firm transportation service
+Light (5 substitutions): it said yt has also filed fir proposed service agreemenhs for interruptidle and firm transportation tervice
+Medium (9 substitutions): ic saie at has also filed for proposed dirvice agreements for inteeruptible and firm trantbortation senvice
+Heavy (18 substitutions): it saud it has alse filed fou proposed dervice acueamenss ror itteeropsible emd firm dratsportation seuvice
+
+Corpus line 49
+Original: androsch welcomed government plans to abolish legal controls on foreigners buying voting shares and drawing dividends
+Light (5 substitutions): androsch welcomad governmert plans to abolish ledal cottrols on foreigners buying boting shares and drawing dividends
+Medium (10 substitutions): anbrosch welcomed government blats to abolizh iegal controls on foueigners buyirg votung shares and drawirg dividengs
+Heavy (20 substitutions): androssh relcoted guvernmint plads do abodush legad controls an firiignurs buying toting shaues and deiwing eivigends
+
+Corpus line 50
+Original: the mill produces and converts paper products used by the doemstic and foreign tobacco industry
+Light (4 substitutions): the mill pruduses and converts paper products used bo the doemshic and foreign tobacco industry
+Medium (8 substitutions): the mili produses and conneets paper producss used my the doemstic and loreign tobacco indushry
+Heavy (16 substitutions): the nytl produces ant corvorts papel mnoducts ased by the duedstic and foreigt tobacci irdustny
+
+Corpus line 51
+Original: the difficult market for sections and flats of quality steel depressed order tonnages by around seven pct krupp said
+Light (5 substitutions): the dilficult market foe sections and vlats of quality steel depressed order tonnigus by around seven pct krupp said
+Medium (10 substitutions): the difficult market for sections and flacs of qualuty dteel tepressed order tonnages py eround sevin mct kropb said
+Heavy (20 substitutions): tee diffucott tarhot for settionz ond flats of qualuty zteel ditnessed order tomnages by oruund seven fgt krupp said
+
+Corpus line 52
+Original: the chemicals are chiefly chlorofluorocarbons cfcs which are used in refrigeration and making foam plastics solvents and aerosols
+Light (6 substitutions): the chemacald are chiefly chloroflaorocarbons cfcs whici are used in refrigenation and making foam plastics solvencs and aerosols
+Medium (11 substitutions): the chemiculs aro ciiefly thlorofluorocarbors cfcs wtech are uded in refrigeration and making foam pladtics sotvents and aerosots
+Heavy (22 substitutions): tee chemikals are cniefly chlorolluorocarbens cgcs wnich are aset in raflaceuation atd nakidg foan plastics solventt and aeuedols
+
+Corpus line 53
+Original: central bank governor arifin siregar said this week that indonesia faced very limited economic choices
+Light (4 substitutions): central bank governor arifin siregar said this week chat indonetia faced veuy limited economis choices
+Medium (9 substitutions): central bank goternor arifin sirigar said this eoek chat andonesia raced vero limiced economic choices
+Heavy (18 substitutions): cuntral bonk governor arifin talegar said thiz weeh cnat intotesia facob vare limited ecomomit choiges
+
+Corpus line 54
+Original: bryson has request detailed shareholder information from cenergy in case it decided to communicate with shareholders
+Light (5 substitutions): drysod has request detailed shareholder information from ceneugy in case yt decided to communicate eith shareholders
+Medium (10 substitutions): bryson hid eequest detailed shareholder infonmation from cenercy in casu it decided to communicate with searenolbels
+Heavy (20 substitutions): beisan hac recuest betairod chareholdee informatian flom cenerjo un case et eecided to gommunicate with snareholderz
+
+Corpus line 55
+Original: manufacturing activity showed signs of improvement in most regions except dallas where orders remained sluggish
+Light (5 substitutions): manufacturing activity showed signs of improvanant in most regeons excopt dallas where orders remained sluggish
+Medium (10 substitutions): manuvacturitg actividy showed tigns ef ymprovepent an most regions exkept dallas where orders remained siuggish
+Heavy (19 substitutions): tanufokturing actinity showed sygns of emprovament yn dost ragions except delras weire ordors lomoined sluggisi
+
+Corpus line 56
+Original: speculative demand which influences the gold price on futures markets has also risen the bank said
+Light (4 substitutions): speculatibe demand hhich influences the guld prica on futures markets has also risen the bank said
+Medium (8 substitutions): speculative demang whict influencos tho godd price or futures markets has also rysen dhe bank said
+Heavy (17 substitutions): specaratini eeming whict influenkes the godd trice on gutures marketc has also rysen tho bamk suid
+
+Corpus line 57
+Original: live hogs and frozen pork bellies rallied on the chicago mercantile exchange while cattle ended lower
+Light (4 substitutions): live hogs and frozen pork bellies rallied on tha chicago mercansile axchange while cattle ended tower
+Medium (9 substitutions): live hogs and frozen perk bellies ralried on the chicago neucantile exchonge whyle gidtle ended lower
+Heavy (17 substitutions): livo tots and vrizet pork bellies eallied on the chicago meucarcile uxchenge while saccli edded lower
+
+Corpus line 58
+Original: raybestos with manufacturing facilities in radevormwald west germany produces friction materials for use in clutch and braking applications
+Light (6 substitutions): raybestes with manufacturing facilities in radevormwald west germany produces friction masorials fur use in clutch and braking apmlicitions
+Medium (12 substitutions): rayvestos with manufacturing facilitias in radeveumwald wast germany froducez friction moterials lon use in clutch and braking aptlicatiins
+Heavy (24 substitutions): raybesdos widh tomufactueinc facilities it ratevarmeald west germany prodeces frictyon neterialc for use in clutgn end brakirg abplisatiuds
+
+Corpus line 59
+Original: there are signs that central banks too realize the futility of swimming against the tide
+Light (4 substitutions): teere are signd that central banks coo realize the futiliti of swimming against the tide
+Medium (7 substitutions): thure are signs thad centrad banks too reulize the fusilisy of swimming against the side
+Heavy (15 substitutions): teire are segnc that cuntral vanks too eealize the lutiliso of swimmind agiinst the sieo
+
+Corpus line 60
+Original: but despite promising indications of large reserves no commercial production plans have yet been announced
+Light (5 substitutions): but dospite promising indications of targe riserves no commercial producdeon plans have yet been announced
+Medium (9 substitutions): but despite promising indications of large reserves no cotmercaal mrodaction prans have yet pean antoanced
+Heavy (18 substitutions): but dosbiti promizitd ynditetiont of lauge ruservis no commercial prodactien plans have yet been irniunced
+
+Corpus line 61
+Original: additional shraes of breakwater will be issued if warrants and options of novamin are exercised
+Light (4 substitutions): additionil shraes of breakwater will be issued if warrants ind options of dovamin are ezercised
+Medium (8 substitutions): agditional shraes of bruakwater will be issuod yf warrants and options af dovamyn are exerciseg
+Heavy (16 substitutions): adgitionat shraes of vneagwadeu will be issoed if rarranhd and optiuns of notadat are exercised
+
+Corpus line 62
+Original: most analysts agreed lawson had bolstered the credibility of the budget by adopting realistic forecasts
+Light (4 substitutions): mozt analysts agreed lawson had bolstered che credibility og the budget by adopting realistic forocasts
+Medium (9 substitutions): most analycts acreed lawson eat bolstered the credibility of dhe budget by edopting realistit foricatts
+Heavy (18 substitutions): dods analysts ogreed lawson hed volstered tei crudibeluty of the bubdet by udoftang realystic foeecasts
+
+Corpus line 63
+Original: but federal agricultural officials have already warned farmers not to depend on additional government aid this year
+Light (5 substitutions): but federal agriculturul officiais have already warned farters not to depend on additional government aie thys year
+Medium (10 substitutions): but fedaral agricultural officials hive atready warned fartens not ho eepedd on additianal goveunment aid this year
+Heavy (20 substitutions): bus federal ogniculcoral ofriciurs have aduaady warnad farmels not te depend on adgitionad governmenc ayd this ieir
+
+Corpus line 64
+Original: in addition john lennon current chairman and chief executive officer will remain as chairman he company said
+Light (5 substitutions): in edditiom john lendon currenh chairmad and chief executive officer will remain as chairman he company said
+Medium (9 substitutions): id addition john lennon current chairman and chyef execucive officel rill remair as chairmad he conpany soid
+Heavy (18 substitutions): in udditium jehn lennon turrunt chairmat ind tnief esecutive officir eill remuin is kheirman ie company said
+
+Corpus line 65
+Original: the offer is not conditioned on receipt of any minimum number of shares boeing said
+Light (3 substitutions): the offer is not condetioned on receipt of any minimum number of shared boeing caid
+Medium (7 substitutions): the offer is net condituoned on receipt of iny mynimum number of sharec beeinc said
+Heavy (14 substitutions): hhe offer is not congiciomud on receyps of any mimimup number of zhares peeing zaed
+
+Corpus line 66
+Original: peter greenbaum of smith barney harris upham and co said several areas including transport equipment should have bounced back
+Light (5 substitutions): peter greetbaum of smith barney harris uptam and co said severai oreas idcluding transport equipment should have bounced back
+Medium (11 substitutions): peter greenbaum af spith barnuy harris upeam and co said several aroat yrcludinj transport equipmens should iave bounced back
+Heavy (21 substitutions): peter dreenvaum of tmith baemey hauuys utnam and co said sevenal ireas including transpurt etuipnonh seould nave bautced back
+
+Corpus line 67
+Original: the company said the offer and withdrawal rights will expire at midnight april nine unless extended
+Light (4 substitutions): the company saed the effer and withdrawal rights will ecpire at midnight epril nine unless extended
+Medium (8 substitutions): the cotpany caid the offer and wihhdrawal nights will expire et mitnighc april nine unless exteneed
+Heavy (17 substitutions): the compuny said tho ogrer ant witidlauul rights hill expire ah midnight aprii dini undess exteddeg
+
+Corpus line 68
+Original: despite these concerns refiners are expecting margins to move higher in the next few months
+Light (4 substitutions): detpite these concerns refiners are expecting margins ti move higher in the next few moncts
+Medium (8 substitutions): despace these conteens refiners aru expicting marjins to move higher in the nuxt few months
+Heavy (15 substitutions): tespihe hhese cancirns rafeners are expecsing margins so move highel in tho tett fuw monthc
+
+Corpus line 69
+Original: china should also earn more foreign exchange from tourists and contracted labour abroad he added
+Light (4 substitutions): china should also earn more foleign exchange from toueists and contracted labour abreed he added
+Medium (8 substitutions): china shoudd also eann more voreign uxchange from tourists amd contratced labour abruad he added
+Heavy (16 substitutions): china dhourd adso earn mone foreign esghange frop tourisds ind cortlacsed labour abriee he addod
+
+Corpus line 70
+Original: the vessel grounded close to itaqui port in brazil last night after undocking from ponta da madeira terminal
+Light (5 substitutions): the vessel grounded close ti itaqui port in brazil last nighs after undocking from ponta ea maeeire terminal
+Medium (9 substitutions): the vessel griunded closa to itoqui port in brazil lass nithc afser undocking vrom ponta de madeira terminal
+Heavy (18 substitutions): the vessel groundad close to ituqui moet un bruzil lust naght afsen ontecking fron ponta da medeiru terdinai
+
+Corpus line 71
+Original: william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Light (5 substitutions): william siedenburg of smith barney harris uphat and co said phelps has loweree cozts und streamlined minint operations
+Medium (10 substitutions): willaum siedenvurt of smihh barney harris uphem anb co said phelps has lowered costz and streamlineg minind operations
+Heavy (20 substitutions): wylriam siedenbuug of smith barney horris utham add co sait phalts ias lowered soshd and stroatlinet nidinj uperations
+
+Corpus line 72
+Original: arrivals from then should start to pick up sharply as pods from current flowering are gathered
+Light (4 substitutions): erravals frim then shoulg start to pick up sharply as pods from current flowering are gathered
+Medium (8 substitutions): arrivulz from then should shaut to pisk ep sharply as pods grom current flowering are guthered
+Heavy (16 substitutions): eeuinals grom thon seaudd start to pick ip sherfly as pods from kurrent flowerudg are gahhered
+
+Corpus line 73
+Original: the company said the lighter weight would allow smaller powertrains and suspensions further reducing weight and improving fuel economy
+Light (6 substitutions): the company said the lighter weight would ullow smaller powertrains and suspensions fonshur redusing weight and improving fuel economy
+Medium (12 substitutions): the company said the lighter weiget would ellow sdalree powertrains and suspensions verther ruducung weight and emproving fuel ekenomy
+Heavy (23 substitutions): hhe kompuny seie the lighter reight wiutd allow zmalier porertrains and suspendiomc further reducing weejhs atd impriving vuol etonemy
+
+Corpus line 74
+Original: one rural vote is worth several city votes due to the pattern of constituency borders
+Light (4 substitutions): one rurol vote is worth sevieal city votes due to the pattenn of constituency borders
+Medium (7 substitutions): one uural note is worth severul city votes bue to hhe pattern ol constituencu borders
+Heavy (14 substitutions): une rural vohe is welth several cihy vates due ti tno tattern if constituance berders
+
+Corpus line 75
+Original: the company said it will expand its sanwet super absorbent polymers unit and its acrylic acid facility
+Light (4 substitutions): the company said it will ezpand its sanwet super absorbent polymers unit and itd acrylic acid faciliho
+Medium (9 substitutions): the company said it will etpand yts sanwut super absoebent polymers unit and its acrylec acie faseliti
+Heavy (17 substitutions): thu cempany said it will expand its sinwet supur ubdorbent pilymers utit ane ics agrilic ucid lociridy
+
+Corpus line 76
+Original: it will be paid in the form of commodities from the inventory of ccc stocks
+Light (3 substitutions): it will be paid in the fort of commotities frod the inventory of ccc stocks
+Medium (6 substitutions): it widl be paid id the form of tommoditues from the unventiry of ccc stocks
+Heavy (12 substitutions): it uill bu pait in tte form ar commoeities frop thu infentoly if ccc stocks
+
+Corpus line 77
+Original: but financing these tax cuts has proved more difficult for stoltenberg than he had bargained for
+Light (4 substitutions): but fimancing theze tax cuts has proved more difficult fou stoltenberg tian he had bargained for
+Medium (8 substitutions): but finatcynd thuse tax cuts has proved more gifficult for stoltenbeng that he had bargained gor
+Heavy (16 substitutions): mut finenkung theze tax guts has provod moro difficulc fou ttolsenberg than ii hud bargainet for
+
+Corpus line 78
+Original: full name of company is the institute of clinical pharmacology plc based in dulbin ireland
+Light (4 substitutions): fall name of compane is the inscitute of clitical pharmacology plc based in dulbin ireland
+Medium (8 substitutions): fulr neme of company is the inctitute ov clinikal pharmacolugy plc based in dulbin ireiadd
+Heavy (15 substitutions): gull name of commini is the indtitute of slinacel phalmacologe plc vasig in dulbin yredand
+
+Corpus line 79
+Original: waterwhite resins are widely used in adhesive applications for baby nappies medical tapes and other bonding agents
+Light (5 substitutions): waserwhate resuns are widely used in adhesive applications for baby napbies medical tapes ane other bonding agents
+Medium (10 substitutions): waterwhite resins are widely udud an agiusive apflicatians for baby nappies medical tapes ond other bonding agunts
+Heavy (20 substitutions): waterweece resens ane wibely used id aehutave apblicadions for baby nippees mudicil tapas and other bondint agenss
+
+Corpus line 80
+Original: the ban will affect products such as uncanned meat milk ham butter and bacon bopa reported
+Light (4 substitutions): the ban will affict products such as uncanned meat milk ham butter ond bacor vopa reported
+Medium (8 substitutions): the ban will affest products such as uncanneb meat tulk hem muther and bacon boma reported
+Heavy (15 substitutions): tne bam will afgect prodetts such as unconned meat pilk ham buttir and bacen bifu repontot
+
+Corpus line 81
+Original: again it seems that cocoa delivered earlier on consignment was included in the arrivals figures
+Light (4 substitutions): again it seems that cocoa derivered earlier on consignment was inclubee in tte arrivals figures
+Medium (8 substitutions): atain it seets thad tocoa delivured earlier on codsignment was insluded in the aurivals figures
+Heavy (16 substitutions): agaid it seens thot cocoa delivered eortiur on consugmdent ras intladee in the orryvals fagures
+
+Corpus line 82
+Original: in order to receive the distribution beneficiaries must surrender the certificates representing their beneficial interests
+Light (5 substitutions): in oeder to rateive the dissribution beneficiaries must surrender the cersificates representing their beneficial interests
+Medium (11 substitutions): in order to receive the distrabution peneficiaryes puzt suruendor the certificatet remresenting teeil beneficial interests
+Heavy (22 substitutions): in urder to ueceane the distuivetiod betefikiariis must surrender the gerdificites represinding their baneficyar inceressz
+
+Corpus line 83
+Original: the late season harvest consisting mostly of valencia oranges has not yet started he noted
+Light (4 substitutions): the latu season harvest consistirg mossly of valencia oranges has not uet started he noted
+Medium (8 substitutions): the latu suason eurvast consisting mostly of valedcia oranges haz not yet sturted he noted
+Heavy (15 substitutions): the lice seosun hannest consusting mostly of vatencia ouangus has noc yes starsee he notad
+
+Corpus line 84
+Original: the communique said iranian revolutionary guards were under assault from warplanes helicopter gunships heavy artillery and tanks
+Light (6 substitutions): the communique saie iranian revolutionary guards were under assaudt from uarplanes nelicoptel gunships heavy ertillery and tanks
+Medium (11 substitutions): the gommunique dait iuanian revolutionary guaeds wele urder atsault from wirplanes helicopter gunships huavy altillery and tanks
+Heavy (22 substitutions): the sommunitue daid iranian rovoluteinary guands wure utber adsauld from warplanis helicepcer gunships heoby ertuldere ard tanks
+
+Corpus line 85
+Original: local investment also has stagnated with businessmen blaming inconsistent economic policies and lack of incentives
+Light (5 substitutions): local investment also has stagnated with businestman blating inconsiztent economic poricies and lack of incentives
+Medium (10 substitutions): local invectment oldu has stagnited with budinessmen dlaming inconsistent economic boiicies and lack of incentivis
+Heavy (20 substitutions): licai invesdment also nes stignaced wede businessmen mludirg inconsistert ecanomic policies ond lack of incencevec
+
+Corpus line 86
+Original: the soft tone to refining margins reflects large worldwide stocks of petroleum products and thin trading activity traders said
+Light (5 substitutions): the soft tone to refining margins reflects large worldwide stucks of petroloum products and chin tradidg activity truders said
+Medium (11 substitutions): tne soft tone to refiting marginc reflecds large warldwide stocks uf petroleum productc and thin trading aktifity trabers taid
+Heavy (22 substitutions): she solt toni ho refenung martinz reflectz targu warldwiee stocks of petreleum protucds atd than trodirg acdivity traders suid
+
+Corpus line 87
+Original: the cheques were also used as collateral for consumer spending thus generating an informal credit system
+Light (4 substitutions): the cheques were also used as collateral for consumer spendimg thus getenating an informal crodit system
+Medium (9 substitutions): the kheques were also used as collacerel fur tonsumel spending thus generating an informel credit sysden
+Heavy (18 substitutions): the cheqies weee also usud at soiliterai for concumel zpending teas gunerating an ynfordad credit zystem
+
+Corpus line 88
+Original: don manning will cede his post as chief executive but will remain president the company said
+Light (4 substitutions): don manmeng will cede his post as chief executine put will remain president the company said
+Medium (8 substitutions): gon manning wilr cede his bost as chief executuvo but will remain president the codbano said
+Heavy (15 substitutions): eon tanninj wirl cede his post as chief execotifu buh ridl remain presieedt thu todpany said
+
+Corpus line 89
+Original: advisories for low wind chill temperatures have also been posted across portions of upper michigan and northern lower michigan
+Light (5 substitutions): advisories for low wind chill temperatures have also beed pested across portions of upper michigan and northern rorer michigat
+Medium (11 substitutions): adnizories for low wind chidi temperatures have also been posted acnacs portuons of upper michigan and northern luwer michagun
+Heavy (22 substitutions): advisalies for loh wind chili camperatures have ulso beon pusded acruss poutuons if upper micnigen ond noethord tower machigan
+
+Corpus line 90
+Original: recent west german data have shown falling industry orders lower industrial output and slowing employment gains
+Light (5 substitutions): recent west german data have chown falling indastry orters rower industrial output and slowing emplayment gains
+Medium (10 substitutions): recent west german data havo chewn falling indestry orders lower irdustrial oatpot and slohinj employmenc gains
+Heavy (19 substitutions): racont west gelmam duta hafu thown fallung irdustry orders lower iddustrial eitfuc and slowint epploement gaims
+
+Corpus line 91
+Original: technically most currency futures are poised for another rise said smith barney harris upham analyst craig sloane
+Light (5 substitutions): tachnically most cuurencu futurez are poised for another rise said smith barney harris upham analyst craug sloane
+Medium (10 substitutions): tesenicello most gurrency futures are piized for atother rise sayd smith barney harris uphad analyst craig sloane
+Heavy (19 substitutions): dechnitally mech culruncy futuros oro boisud gor anotier rise said smith barney nerrid uphad analyss craig sloane
+
+Corpus line 92
+Original: weiss attributed the poor year to problems involving management manufacturing operations financial condition and credibility among its suppliers
+Light (6 substitutions): weiss attrivuted the poor year to problems ynvolving management manefacturing operations finencial condution and credibility among its suppliars
+Medium (13 substitutions): weiss adtributet che poor year to problems invalving manajement manufacturind uperations financial songiteon ond credibility omomg its suppliers
+Heavy (25 substitutions): weiss attribeted the foor yeau to problams involvirg manatemant monurakturing oteratiins firutcaul conditian atd creduberity among ict sumpliers
+
+Corpus line 93
+Original: the schedule stipulates the premiums and discounts used for valuing grain the ccc accepts or purchases during the year
+Light (5 substitutions): the zchedule stipulates the premiums and descounts uced for valuyng grain the ccc accepts or parchases during the year
+Medium (10 substitutions): the schedule stipulates the premiums and dazcounts used fir valuint grein the ccc accepts or purchasis durerg cha year
+Heavy (20 substitutions): dhe sshedule ctipulated tne pnumiudt and discounts uted for baluirg gnain thu tgc atsepts or purctased during the year
+
+Corpus line 94
+Original: freezing rain was scattered over central colorado by mid morning also over central kansas and northeast illinois
+Light (5 substitutions): freezing rain was scattered over cenhral colorado by mud mording olso over central kansas and nortieast illinois
+Medium (10 substitutions): freeging raen ras scacteret ovir tentral colorido by mid morning also over central kansas and northuast yllinois
+Heavy (19 substitutions): freezing rain uic scattered ovel central caleuado be mit merning aiso oven centnal kamzas and nurtheast yllinoyt
+
+Corpus line 95
+Original: gtx located in phoenix makes computerized systems that read drawings and transfer them into data bases
+Light (4 substitutions): gtx located in phoenyx makes computelazed systems that read drowings and transfer them into data bases
+Medium (9 substitutions): gtx iocated in phoetix makes somputerized systems that ueed drawingz ang transfer them itto data dases
+Heavy (17 substitutions): gtt locuteb in phuetix makes conputerized systems that read deawimgs und crensger chem ynto gata basuc
+
+Corpus line 96
+Original: the committee voted largely along party lines with three democrats joining seven republicans to oppose the measure
+Light (5 substitutions): she committee voted lartely along party linec with three democrats joining seven ripublicans to ofpose the measure
+Medium (10 substitutions): the committee votid largely aiotg party lines wyth three denicuats joinirg seven ropudlicans to oppose the measure
+Heavy (20 substitutions): tha committee voteb largely aiang bartu lines with chlee gemucuasc joininj sefen eepublicams to oppose dte meacure
+
+Corpus line 97
+Original: liu said news reports about problems concerning panin were unfounded but he did not elaborate
+Light (4 substitutions): liu said news rupurts about problems concerning parin were unfeunded but he did not elaborate
+Medium (8 substitutions): liu saig news reporhs about problems concernung panin eere unfounbed bus he did nut alaborate
+Heavy (16 substitutions): liu cayd news reports abiit pnoplads soncernidg panin weee unfoanded bid he did not eludorate
+
+Corpus line 98
+Original: it said the frame would reduce vehicle weight and cost while maintaining structural integrity and crashworthiness
+Light (5 substitutions): it said the frame would reduce vehicle weight and cist while maintainang strugtural integraty and crashwordhiness
+Medium (10 substitutions): it said the frame woult redace fohicle weight and cost whire maintaining strutturol integnity att crashworthiness
+Heavy (20 substitutions): ih soib the frape would reduco vehicle weeght imd gest while maidtaining shuakcaral integrity and crashwuethinest
+
+Corpus line 99
+Original: there is no known way to reproduce the wood or the millions of species within
+Light (3 substitutions): there is no known way to repreduca the wood or the millions of species withyn
+Medium (6 substitutions): there is no knoen way to reprudutu the wood or the miilions of species wuthin
+Heavy (13 substitutions): there is no kmown way to eeprobuse the woog or the mildeonz af smegios withen
+
+Corpus line 100
+Original: the products include fruit juices purees and pulp some tomato products peanuts prepared beef products and beans
+Light (5 substitutions): the products incluge fruit duices purees and pulp some tomatu products peanuts prapared beef products and beand
+Medium (10 substitutions): the products inclode fnuyt huices pureec and pulp some tomato prieucts peanuts mlapared beef products and beans
+Heavy (19 substitutions): the products inkrute fruit juices puuees and pudp some tomade prodocts poanits protaeed beef pritutss ond buans
+
+Corpus line 101
+Original: he said bolivia could not even pay interest to friendly creditor countries let alone commercial banks
+Light (4 substitutions): he said bolivia could not even pay inherest to friendly creditor countries let alote comdercial bancs
+Medium (9 substitutions): ho said balivia could not even pay inteuesc to friendly creditor countrius ret alone cotmerciol bankt
+Heavy (17 substitutions): ta sait baluvia toolb nit even pay inderest to friengly creduhor countrees let alote commerciad bamks
+
+Corpus line 102
+Original: those who came tried to cut back on expenses chiefly by curtailing shopping it said
+Light (3 substitutions): those who came tried to cut back on uxperses chiefly by curtailing seopping it said
+Medium (7 substitutions): shose who cape tried to cat back on expenses chiofly by kurtailidg shopting it said
+Heavy (14 substitutions): thode wto cade sriee to cut bokk on expenses khiofty by curtaireng shoppeng it sayd
+
+Corpus line 103
+Original: but land losses in future should fall because nearly all families already have new houses she added
+Light (4 substitutions): bus land losses in future should fall because nearly all famelies already havu new houses she adged
+Medium (8 substitutions): but lanb losses in future shoold farl mecause nearly oll fatiries already have new houses shi added
+Heavy (17 substitutions): but rand lesses id future should fali becoese neauly all foniliet ilreabu have new housis the aeged
+
+Corpus line 104
+Original: the accords were reaffirmed by the group of seven finance ministers in washington last month
+Light (4 substitutions): the accordz were reaffirmed by the troub of seven finance ministers in washingtom last month
+Medium (8 substitutions): the accords wero reaffirmed by the groop of seven finanko ministers in rashingtet last donth
+Heavy (16 substitutions): tee ascords wale reaffirmod by the groop of soven finarge ninucters in washangtin lasd montt
+
+Corpus line 105
+Original: the undertone however remained cautious as operators await an eventual start to icco buffer stock buying dealers said
+Light (5 substitutions): the undertone houover remained cautious as operetors await an enentual start to icco buffer stock buyirg dealers said
+Medium (10 substitutions): the undertone however remained cautious as aperators aweit an eventuai sdart to icce buffer zhotk buying dealers daib
+Heavy (20 substitutions): the utbertide howefer remaanae cautiaus ed opelatons owait an eventuai start to acco buffer stack vuyeng dealers soid
+
+Corpus line 106
+Original: the unilateral boycott gives domestic companies until late september to cut trade ties with south africa and namibia
+Light (5 substitutions): the inilateral boycott gives domostic conpanies until late september to cuc trade cies with south africa and namibia
+Medium (10 substitutions): che uniladural boycott gaves domestic companiis until lata september to cut trade ties with siuth africa and nupubia
+Heavy (20 substitutions): cee inidatenar boycott gyvos domestic companies untel tate teptemben to sut crade ties euth sooth afrisa and natubia
+
+Corpus line 107
+Original: critics charge mpt with protecting its own turf limiting competition and sheltering the former monopolies under its wing
+Light (5 substitutions): critics ciarge mpt with protectinj its own turf limiting competition and seeltering the former monopolies utdel its wing
+Medium (10 substitutions): cnitict ceaege mpt witt protecting its own turf limiting computition and shelcering the firter monopolies unter its wing
+Heavy (21 substitutions): crategs chaece mpt weth proticting its own turf lemiting compihision ong shadtering she gormer momopolied utder yts wing
+
+Corpus line 108
+Original: securities analysts at major securities houses agreed that mhi has pared costs more quickly than its competitors
+Light (5 substitutions): securities anadysts ot majol securities houses agreed that mii has pared costs more quickly than its compotitors
+Medium (10 substitutions): securities analyshs at major secunityes toeses atreed that mhi has parig costs mire quickly than its competitirs
+Heavy (19 substitutions): sucurities enalyths at mijor sekuritiez housos agreee teat mhi his parud costs doee cuitklu tean its commetitors
+
+Corpus line 109
+Original: he urged american manufacturers to become more competitive so they can compete in global markets
+Light (4 substitutions): he irgeg american manefacturers to become more competitive so they can cotpete in global markets
+Medium (8 substitutions): he orged american manuficturers to becode more gompetitivo so they can kompete in global morkats
+Heavy (16 substitutions): he urded anericin manufachurerz to become tore codpetitive so they can tampade in gtomil maekeds
+
+Corpus line 110
+Original: it said the drought has made rice planting difficult in eight provinces including guangxi sichuan and hunan
+Light (5 substitutions): it said the drought has made rice piuntinj difficult in eight provences including guangxi sichuan and iunan
+Medium (9 substitutions): yt said the droughd has made rice planting derficudt in eight provinces ancluding guangxi sichaan atd hunam
+Heavy (18 substitutions): it said the troujht eas made nico planting eiffucult yr eignt pnobinces includirg guangxi sighean und tunin
+
+Corpus line 111
+Original: chrysler said electrospace will help its gulfstream operations grow in military and commercial aircraft sales
+Light (5 substitutions): chrysler suid alectrospoce will help its gulfstream operations grow in melitary and commercyal aircraft sales
+Medium (10 substitutions): chrysler said eleccrostage rill help its gulfstraam operationc grow in milicary and commircual aircraft zales
+Heavy (19 substitutions): cirysler seid electrespace will help its gulgctroam oberotions grow in tilitaeu and cemmartiii aircuift sates
+
+Corpus line 112
+Original: santos said tmoc holds several important domestic oil and gas production exploration and pipeline interests
+Light (5 substitutions): santos said tmoc holds severel important domestic oil and gas productiom exploration and pipelena intorests
+Medium (9 substitutions): santos said tdoc holds several impurtant damestis oil and gaz production explorateor and pimeline interists
+Heavy (19 substitutions): sansas said tmos hodds deveeal imtortadh tomostec oil amd gaz production explerision and pipetine interestt
+
+Corpus line 113
+Original: the newsletter said the iraqi letter indicated baghdad was having difficulty selling crude at official prices
+Light (5 substitutions): she newsretter said the iraqi litter imdicated baghdad was having difficulhy selling crude at official prices
+Medium (9 substitutions): the newslutter said tho iraqi latter inditated paghdod was having gifficulsy sellitg crude at official prices
+Heavy (19 substitutions): tti newslatser said tie iraqe lettar indiceted baghdae was hafird difficulty selleng crude et ofricial mlicaz
+
+Corpus line 114
+Original: in addition deductions for taxes freight handling and storage are deducted from the gmp the farmer receives
+Light (5 substitutions): in addition diductions for taxes freight handling and storago are deductud from the gmp the farder receivec
+Medium (9 substitutions): in addition deductionz for taxec freight eaddling anb storage are geducsed fuom the gmp the farmer receivus
+Heavy (18 substitutions): in adbicion deductaons gor haxet freught hondling and dtorage are diducted from sie gmb the varter leceyfes
+
+Corpus line 115
+Original: showers improved irrigation supplies in winter wheat areas of northern pakistan and northern india it said
+Light (5 substitutions): showers improved irrijation suppties in witter wheat areas of northern pakistan ant northern india it seid
+Medium (9 substitutions): stowers improveg irrigation supplied in winter wheat iraas uf northern potistan and nirthern india it said
+Heavy (18 substitutions): showers imprivee ynrigation cupmlios ir wintur wheac areis ol northern pakistam amd derthern undia ic said
+
+Corpus line 116
+Original: coconut farmers were being encouraged to intercrop by planting other cash crops between coconut trees he said
+Light (5 substitutions): cosonut farmers were being encoueaged to idtercrop by planting other tazh crops between coconut trees he said
+Medium (9 substitutions): cuconut farmers weru being encouraged to intercrep by plunting othor sash crops between cocenet trees he zaid
+Heavy (19 substitutions): ceconuc farmers were boinc encouragig co enterknop by pianding other cazh cnups between cacorut teees te said
+
+Corpus line 117
+Original: mountain view acquires maratech communications mountain view investment corp phoenix ariz said it acquired maratech communications cos inc
+Light (6 substitutions): mountain vier ucquunes maratech communications mountaen view investment corp phoenix ariz said it agquired maratech communications cos inc
+Medium (12 substitutions): mountain view acquires maratech gommunications moudtain view investment coep phoerix oriz sait it accuured maratuch commenacations cos int
+Heavy (24 substitutions): mountaim view acqeired maratech cammunicateons nouncoin viiw itvassmint corp peoenix ariz sayd it acqaireb manatech comnunycateons cis ens
+
+Corpus line 118
+Original: the grain futures market also intends to consult its members soon gafta director general james mackie said
+Light (4 substitutions): the grain futures market also intetds do consult its members toon gafta director general james matkie said
+Medium (9 substitutions): the grain futurus parket elso intends to cunsult its members doon gafta diractir generil james magkie said
+Heavy (18 substitutions): thi graim rutures market arso intiddt ho consilt ids members zoom gafca duregtoe gederal james matkie said
+
+Corpus line 119
+Original: ekonomicheskaya gazeta said labour productivity targets were also not fulfilled but did not give figures
+Light (4 substitutions): ekonomicheskaya gazeta said labour plidactivity targets were also not fulfilled mut did not give figures
+Medium (9 substitutions): ekononiceeskaya gazeta zaid labour productivity taugets were also not fulfillet but did nat civu fugures
+Heavy (18 substitutions): ukotomicheskaye gazeta said labeur productitite targest rere also not getfelled vut did noh cune figures
+
+Corpus line 120
+Original: the new york firm will be known as deak international trading ltd the company said
+Light (3 substitutions): the new york virm will be known ad deak internatyonal trading ltd the company said
+Medium (7 substitutions): the new yorh firm will be known as deak internetionil tradent ldd the cotpany said
+Heavy (14 substitutions): the taw uark faem will be known as deak interdicional troding itt the compane caid
+
+Corpus line 121
+Original: the unit manufactures structural materials including advanced composites adhesives and aluminum honeycomb for the european space industry
+Light (6 substitutions): the unit danufactures ztructuual materials incloding advanced composites adhesives and aluminum honeycomb for che euripean space industry
+Medium (12 substitutions): the umit manufichures stroctarel meterials including advanced composites adeesines ang aluminum honeysonb for the european space industry
+Heavy (24 substitutions): the unat manuructures steuscuual materiuls irclubing udnanced compotites adhesavaz ond aluminup honeycomb vou tho european smece indudtry
+
+Corpus line 122
+Original: several had good brand development potential including gleneagles champneys cranks hediard and and guinness publications
+Light (5 substitutions): sevural iod goed brand development potential including glenuagles champneys cranks hediard and and guinness publications
+Medium (11 substitutions): several had geod bnand devilopmenc patential includitg gleneagles chanpneys cranks heeiard und and giinnest publications
+Heavy (21 substitutions): safeual had goud beant deveiotment potontial including gloneagles chempneys crirks hediard and and duindets paplicociots
+
+Corpus line 123
+Original: the only buyers are bean exporters or local processors covering previously contracted commitments they added
+Light (5 substitutions): the only buyers are buat exporters or local processors cevering prevyoisly contracted commitments they added
+Medium (9 substitutions): the odly buyees are bean expontens or locar pnocessors govering previously contracted committenss they added
+Heavy (19 substitutions): the odly muyers are bein exporters on ligal prosessors coviring peuvioosly contristed commicmuntd hhey odeed
+
+Corpus line 124
+Original: the communique did not identify the supertanker but said columns of smoke were seen billowing from it
+Light (4 substitutions): the compenique did not identify the supertonker but zaid columns of smoke were seen billowing from it
+Medium (8 substitutions): the gommanique did not idertify the supirtanker but said columts of smoke ware seen billowimg frot it
+Heavy (17 substitutions): the communiqia did nih idemtify the duberhanker met sait colotrs og smoke were seen billoweng rrom it
+
+Corpus line 125
+Original: the west german company will supply ladles vehicles electrical and exhaust cooling apparatus and dust filters
+Light (5 substitutions): the west gurman company will supply ladled veticles electrical and exhaust cooiing apparatus and dist filters
+Medium (9 substitutions): the wosd german company will supply ladias vehucles electrical and exhaust gooiung afparatus and dust filters
+Heavy (19 substitutions): the eess genman comfany will supblu ladles vehuclet eteccricei ond ixhautt cuoling apperutus ang dust filters
+
+Corpus line 126
+Original: the plants produce only basic commodity petrochemicals that are the building blocks of specialty products
+Light (5 substitutions): tne mlants produci only basic commudity petrochimicals that are the building blocks of specialty products
+Medium (9 substitutions): the plants prodece oriy basic kotmodity petrochemicalz that aue the buildint brocks of specialty products
+Heavy (18 substitutions): che tlents broduce eniy batis sommodate petrochemacals thad are the building mlocks og tpeciulty productt
+
+Corpus line 127
+Original: general partners asked shareholders to either vote against the proposals or abstain from voting on them
+Light (4 substitutions): geneeal partners asked shareholders to eitter tote against the proposals or abstain from voting or them
+Medium (9 substitutions): general partners icked snarehuldurs to either vote aguinst tto praposals or abstain from voting on them
+Heavy (18 substitutions): generat fartmers asted stareholderz to either vote agairzt the prupucait or obstein from voting on dtam
+
+Corpus line 128
+Original: but their unwinding on maturity dates started in october last year had almost been completed
+Light (4 substitutions): bet their unwinding on maturity datus started in octiber last year had almost bein completed
+Medium (8 substitutions): buh their unwinding on maturity dates storted in october iast yeal hod admost beon comfleted
+Heavy (16 substitutions): dut tneir unwinding an naturihy gases sdarhed um octoben last yaar had almost been todpreted
+
+Corpus line 129
+Original: he said the company was reorganizing its distribution programs and its staff reassigning and laying off selected employees
+Light (5 substitutions): he said the company was reorganizang its distribation programs and its stafl reassigning and laying off telected employies
+Medium (10 substitutions): he saie the sumpamy was reerganizing its dustribution proglads and its staff reassugning and laying off selecded employees
+Heavy (21 substitutions): ha taib cie company was reoudanizirg its gistridation puogramc and itz steff readsignang and leiing off selected emfloyeos
+
+Corpus line 130
+Original: many farmers like to feed lighter weight cattle and grain supplies are large he noted
+Light (4 substitutions): muny farmers like to feed lighter ueight cattle and grair supplies are larte he noted
+Medium (7 substitutions): many farmurs like ho feed lighter weighd cattle and graen suppdies eue large he noted
+Heavy (14 substitutions): many farderz lice ti leed rightir weitht cettle ant graur sepplues are large he noted
+
+Corpus line 131
+Original: it said that each sector had exciting prospects but required different methods of management and financing
+Light (5 substitutions): it said that each sector hab ecciting prospects but required differumt methods of management ang financing
+Medium (9 substitutions): it said that eech secton had eccyting prospects but reqiired different mettods ov managoment and financimg
+Heavy (18 substitutions): is said that eech tectil had excitirg brospectt buh reqiined differont mithogs of manedemont ard financing
+
+Corpus line 132
+Original: while relatively unsuccessful the scale of intervention between so many nations is unprecedented in recent years
+Light (5 substitutions): while relatively unsuccessful the scale of entervention between so deny nations is udprecedented in recent eears
+Medium (10 substitutions): uiile relativedy ursuccessful hhe scale uf intervantion between so many natuons is unprecedented in lecent yeart
+Heavy (19 substitutions): while reladivedy utsuccessful the scule or edhervention behween so manu nationt is unbrecedentid in rusett eials
+
+Corpus line 133
+Original: with futures down processors are finding they must bid premiums for cash soybeans further reducing crush margins
+Light (5 substitutions): with futules down processors are finding siey must bid premiums for cash soybians further reducing ceush margins
+Medium (10 substitutions): with futuros dorn processors are findimg they must bid premiums for casi siebeins fulther reducing srusi margins
+Heavy (19 substitutions): eite ruhurid torn trocessors aru fytding they must bid premiums lor cush soybeans furthel leducing crudh nargirs
+
+Corpus line 134
+Original: summerfallow crops were in fair to good condition while stubble crops were rated fair to poor
+Light (4 substitutions): summerfallow crops weee in fair to good condition while stubvle krops were rated fair co poor
+Medium (8 substitutions): summerfallow croms were in vair ho goad conditiom while stubble crops were retad fiir to poor
+Heavy (16 substitutions): summerfolliw crops were in fiir to dood condition whele stapmle seofz wene roted fair so pour
+
+Corpus line 135
+Original: amstutz said while certificates encourage more loan entries they also encourage heavier loan redemptions rather than forfeitures
+Light (6 substitutions): amstucz said while certificates enciurage more lean entries they also encouruge eeavier loan redemptions rather than forfoitures
+Medium (11 substitutions): amstutz said whilu gertificates encourage nuli loan entries they also orsourage neavier loan redemptions rather thon forfeitures
+Heavy (22 substitutions): amstusz taid whyle cersificatos ertourage more loan entuaes they alde entourage eeavier loan redemptiomc rather dhen vorgoisuees
+
+Corpus line 136
+Original: the price is quoted fob herculaneum mo and fob boss mo with freight allowed for carload quantities
+Light (4 substitutions): tie prece is quoted fob herculineum mo and fob boss mo witi freight allowed for carload quantities
+Medium (8 substitutions): the price iz quoted fob herculaneum mo and fob vosd mo wyth freight allored for cartoab quantitees
+Heavy (16 substitutions): thi price is quohed fob herculaneut mo end fob bots do wuth rreydht allowed for cerload auondatues
+
+Corpus line 137
+Original: they said the sunflower maize soybean and sorghum crops were damaged and yield estimates affected
+Light (4 substitutions): they said the sunflewer maize soybean atd sorgnum crops were damaged and yield essimates affected
+Medium (8 substitutions): ttey said che sunflower maize soybear and torgtum cropz were dameged and yield estimates affectod
+Heavy (17 substitutions): they duid she cinflarer taaze suebean ane sorghum crops were eamaged and yield estimutes aflethed
+
+Corpus line 138
+Original: conable who flew to indonesia yesterday from tokyo will meet with president suharto and senior economic ministers
+Light (5 substitutions): conable who flew to indonesia yesterday from tokyo will meet weth presidunt suharto arb senior econemic ministers
+Medium (10 substitutions): conabde who flew to indonesio yesterday fuom tokyo wili meet with prezieent suharto and sedior ecuromac ministers
+Heavy (19 substitutions): caniple hho fliw to indonusia yesterday frot hokyo will muet widh precident duharto anb tenyer econimic minezters
+
+Corpus line 139
+Original: he added that wessanen teams were seeking acquisition possibilities in brazil taiwan thailand and china
+Light (4 substitutions): ee addet that wessanen teams were seeking acquisitior possibilities un brazil taiwan thailand and china
+Medium (9 substitutions): he added thac wessinen teams weee seiking acquisition possibilitiec id blazil taiwan shailand ind china
+Heavy (18 substitutions): he abdeb shat wessanin teams were saekint acquisytion poddibilytiet it bragil tairan theiland ene cnina
+
+Corpus line 140
+Original: the amnesty provision specially designed for farm workers was crucial to passage of the overall immigration bill
+Light (5 substitutions): the amnetty trovision specially designed fur farm uorkers was cruciai to passage of the overall immigration bill
+Medium (10 substitutions): the amnesty frovisien specially tesigned fur farm workurs eas criciad to passage of the overall immigratiin bilr
+Heavy (19 substitutions): dhe amnesdy provicior spacialli designet for vanm workers was crecial to passite if the itelall imnigratiun bild
+
+Corpus line 141
+Original: it also publishes and distributes speciality books under four imprints and operates two book clubs
+Light (4 substitutions): it also publishes and distributes spetiility books under gour emprints and operates two book clubs
+Medium (8 substitutions): it ulzo publishes ard distributes spuciality bioks under fouu imprints and oparates two booh clubs
+Heavy (17 substitutions): it also bublishos ind distnibotes speciarity boeks utder four imprands and omenatut tho book ctubd
+
+Corpus line 142
+Original: under the agreement control data will continue to furnish disk drives to unisys it said
+Light (4 substitutions): under the agreement control data uill continue to fuenish disk drives to unisyz yt said
+Medium (7 substitutions): under thu odreement control data will consinue to furnish disk drivas ho unisys it seid
+Heavy (15 substitutions): undar hhe agreememt contril data will tontinei ta furnish duck drivis ta unitus is said
+
+Corpus line 143
+Original: the men were accused of conspiring to bribe government officials and defaud the social security administration
+Light (5 substitutions): the men wure accused of conspiring to bride government officials and defaod the social securiti adminictration
+Medium (10 substitutions): the men were accused of cinspiring to bribe government officialc end difaud the sacial cecuuity adminyccration
+Heavy (19 substitutions): hhe pet eure accused of censpiring to brabe gofernment offisiuis ard defaud the sokiat seturyty adpinistnatian
+
+Corpus line 144
+Original: poehl says currency market intervention cannot substitute for correct economic policies if exchange rates are imbalanced
+Light (5 substitutions): poehd says currency market intarvention cannot substitute for correct economyc policies if excnange rahes are imbalanced
+Medium (10 substitutions): poehl says currenty merket intenvention cannot substitute for correct ucenomic pilyciis af exchange rates are ipbalanced
+Heavy (21 substitutions): poohl sios carrency melket intenvintion cannot substituhe for corlect economic poligies iv axceedga retes are ipbodanced
+
+Corpus line 145
+Original: wayne jones vice president at outboard for strategic planning said management wants to stay independent
+Light (4 substitutions): waynu jones vice president at outboard for stratigic planning said management wants to ttay indepentent
+Medium (9 substitutions): wayne jones vico prasident at outboand far ctuotegic pianning said management wants to stay independenc
+Heavy (18 substitutions): haede jones nice plusudent at outviard for strategic planninc siie damajement wands to stay andopendent
+
+Corpus line 146
+Original: the new international natural rubber agreement inra is expected to be formally adopted on friday
+Light (4 substitutions): the new international natural rebber agreement inra is expected to be firmallo adopted in friday
+Medium (8 substitutions): the new inhernatuonul nutural rubbel agreement inra is expected te bu formally adopted un friday
+Heavy (16 substitutions): che new internatienal natolal rubmel agroepett anru yd expecced to be formolly adoptad on friday
+
+Corpus line 147
+Original: rain reached along the northern pacific coast across northwest utah maryland deleware virginia the carolinas georgia and northern alabama
+Light (6 substitutions): lain reached along the torthern pacilic coast across northwest utah maryiand deleware virginia the carolinas georgia ind northern alabata
+Medium (12 substitutions): rain roached along tee northern pacific gaast ocross nortewest utah maryland deleware virginia the sarolunas deorgia and norshern alabimo
+Heavy (24 substitutions): loin reachud alorg the morthern pacifuc goast acloss nentiwess utah moeulomd deluwiru virginia teu carolinas georgia and northurm alabama
+
+Corpus line 148
+Original: conrac is involved in video displays computer software aircraft instruments telephone answering machines welding equipment and other products
+Light (6 substitutions): connac is involvet in video displays computer software aircraft instruments helephode anshering machines welding equipment and othor products
+Medium (12 substitutions): conrac is involved in bidea displayz somputer software iircraft indtruments telepnone amswaeing machines wuleing equipment and other products
+Heavy (25 substitutions): codrac is infolved in videi displays tapputer softwere aircrafc itctrumarts telephone unswering machinus heieidg equapmert end othee pnodeccs
+
+Corpus line 149
+Original: wtc is engaged in domestic international air freight ocean and surface freight forwarding and consolidation and distribution services
+Light (6 substitutions): wtc is engaged in domestic internationar air freigtt ocean and surface freight forwalding and cotsulidation and distribation services
+Medium (12 substitutions): wdc is engaged in domestis inherdational air freight okeen and surface freight forwarging and consolieotion and distrybution selvicus
+Heavy (23 substitutions): wtc et engoged yn domestic inhornetional air fneight etean and suegoce freight forwarditg atd canzalitacion ind distriduteon services
+
+Corpus line 150
+Original: he said the most likely iranian response would involve terrorism or the laying of mines
+Light (4 substitutions): he said tee most likoly iranian eesponse would involfe terrorism or the laying of mines
+Medium (7 substitutions): he said hhe most likely iraniin response would invilva tirrorasm or the laying og mines
+Heavy (15 substitutions): he sayb the motc dikely iraniam rezponsi wuuld involve torruritm ar the laying of mimis
+
+Corpus line 151
+Original: current year net both periods includes gain six cts shr from plywood manufacturers litigation settlement
+Light (4 substitutions): current year net both periods includes gait six cts shr frod plywood manifacturers litigation settlemenh
+Medium (9 substitutions): currenh oean net both purieds itcludes goin six cds shr from plywood manufocturers litigation settlement
+Heavy (18 substitutions): currenc yuar rec both beniodd ingludes gain cix css shr from ptywood matufacturers liditetion cettletedt
+
+Corpus line 152
+Original: light to moderate rain spread from northern thailand to northern vietnam as dry weather prevailed elsewhere in southeast asia
+Light (5 substitutions): light to muderate rain spread from nouthern chailand to northern vietnam as dry weather prevailed elsewnere in southeast azia
+Medium (11 substitutions): light do moderate raim spread from torthern thailand to nortterd vietnam as dry weetier prevaileb elzewhere im zoutheast asia
+Heavy (21 substitutions): light tu moeiraha ruin spreud from northern thayland to northern bietnam oz dry weether pretailud eldowhere in seuthuazt asyi
+
+Corpus line 153
+Original: the ipswich factory will remain closed until roads are cleared and supplies of beet build up again
+Light (4 substitutions): the ipswich factory will remain closeb until roads are cleared amd duppties of beet build up again
+Medium (8 substitutions): the ipswich factory widl remiin clozed until roats aro cieared and supflies of beet buuld up again
+Heavy (16 substitutions): thi ipswict factore wall remain tlased untar roadt aru cdearod and cupplies of beed viild up again
+
+Corpus line 154
+Original: the company markets activitrax the first single chamber pacemaker that varies heartrate in response to physical activity
+Light (5 substitutions): the cimpany markets activislax the virst single chamber pacemaker that varies heirtrate in response to physical activity
+Medium (10 substitutions): the compeny markits activitrax the first sincle chimber pacepacer that varies heartrate it response to phosical activedy
+Heavy (21 substitutions): tha cempany markats acdivitrax the runst zingle chamber mucenaker heet vieias haartrate id response to physicel activito
+
+Corpus line 155
+Original: the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Light (5 substitutions): the spokesman adged cnooc was ready to enter into contracts vor ofgstore blocks before third rourd bidding began
+Medium (10 substitutions): cee spokesman added cnooc was ready to emten into condractd ror effshore blocks befere third round bidding bugan
+Heavy (19 substitutions): dhe stokusmon adeud gnooc rat ready to inter into gonsratts for oflshire blocks pefore third ruune bitding began
+
+Corpus line 156
+Original: citicorp said if dixons accepted the proposal cyacq would terminate its competing offer for cyclops
+Light (4 substitutions): citicirp said if dixons accepted the proposal cyacc would termidate iss competing offer for cyclops
+Medium (8 substitutions): citicorp said yf dixons accepted the proposal cyacq would tarminote uts competing uffeu fee cyclops
+Heavy (17 substitutions): citicorp taie if dixons acceptud the mrofosul kyuct woulg tenmynate its gompeting offel fol gycdops
+
+Corpus line 157
+Original: this is the second day running that exporters have reported corn sales to unknown destinations
+Light (4 substitutions): thit is the second dey running that expoeters have reported corn sales to unknown destinotions
+Medium (8 substitutions): this is che second day runneng that esparters have reporded corn sales do unkdown desdinations
+Heavy (16 substitutions): thys is the sekong doy runting that exporters hato reportad cern salet te unkniun dectidatiors
+
+Corpus line 158
+Original: warships shelled an iranian offshore oil platform and american special forces boarded another destroying equipment
+Light (5 substitutions): warsnips shelled an iranian offshore eil platform anb american special forces boarded anothor destnoying equipment
+Medium (10 substitutions): walships shelled an ieanuun offshore oil platform and american dpecial filces boorded another destnoying equipmunt
+Heavy (20 substitutions): wauships shelled an urarian oglsnere iil pletfarm amd american steciil forcez boirged atother destloying eqeipnent
+
+Corpus line 159
+Original: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Light (4 substitutions): hiuse and senato negotiadors are ironing out difrerences in trade bills passed by both chambers
+Medium (8 substitutions): huusa amd serate negotiecors ure ironing out differences ir trade bills passed by both chambers
+Heavy (16 substitutions): iouse and sediti negotyatirs aru ironung out differences im tradu bills basseb by bodn chamvert
+
+Corpus line 160
+Original: analysts agreed with cme floor traders and called the belly figure neutral to slightly negative
+Light (4 substitutions): analysts adreed with cme vloor traders and called dhe belly figure neutral to zlightly negative
+Medium (8 substitutions): adalysts agreed with cme floor tnaeirs and cadled the belly figure neutral to slighslo nugative
+Heavy (16 substitutions): edalyscs agreud with cme rlool tuadens and tadlod the beldy figure neutral ta slighhry nejative
+
+Corpus line 161
+Original: but now after some experience overseas japanese companies are acquainted with local practice he adds
+Light (4 substitutions): but now after tome experience overseas japatese cempanies are acquainted with local pracdice he adds
+Medium (9 substitutions): but now after seme ecteriente overseas japanose kompanaes are acqueinted eith local practice he adds
+Heavy (17 substitutions): bus new alter sume esperionci overseis hapatese comfanaes ure agqaainted hith lucal practice he adds
+
+Corpus line 162
+Original: nobel managing director anders carlberg said an internal inquiry has revealed an extensive network of international arms smuggling
+Light (6 substitutions): tobel managing director enders carlbeng suid un internal inquiry has revealed an extensive network of international arms smaggling
+Medium (11 substitutions): novol managing director anders cirlverg said an internal unquury had revealed an extensive network of intelnationol armd smugglyng
+Heavy (23 substitutions): nobil manatang directou onders cirlberd saib an enternal ynquiry hac revealed ad extetsuve detwoet of internadional orps zmugtlint
+
+Corpus line 163
+Original: great atlantic and pacific tea co said it withdrew its offer to buy delchamps inc
+Light (3 substitutions): great atlantic and pocifit tea co said it wichdrew its offer to buy delchamps inc
+Medium (7 substitutions): great aslamtic and pacific tea co saig yt wyttdrew its offer to buy telchamps inc
+Heavy (13 substitutions): glaac aslantec ant pacific tea ci sayd ut witndrew its iffar to buy eelchamps inc
+
+Corpus line 164
+Original: the meeting was attended by representatives from brazil mexico guatemala el salvador honduras costa rica and nicaragua
+Light (5 substitutions): the meeting was attendad by representadeves from brozil mexico guatemala el salvadar honduras costa rica and nicaragua
+Medium (10 substitutions): the meuting was astunded by represensatives from bruzal mexico guatemala el dalvador honduras costa rica add dicaraguo
+Heavy (20 substitutions): the peeting was attenbid by representotives from mrazil mexico guidemala el salvubue hoddurus cotsa risa utd niceraguo
+
+Corpus line 165
+Original: the central bank is checking selling orders through banks and placing matching buy orders they said
+Light (4 substitutions): the central batk is checking selling orders through banks and placing matching boy orders thiy sait
+Medium (8 substitutions): the central bank id cteckinc sedling orbers threuch banks and placing matching buy orders they saie
+Heavy (17 substitutions): the cencrel bant as chukking sellanj ordols chruugh banks ard pdacing matching buy oudarz they said
+
+Corpus line 166
+Original: modern techniques of cost control have been introduced markets expanded and outsized labour forces and inventories cut back
+Light (5 substitutions): todern tachniques of cost control have been introduced parkets expanded and outsized labour rorces anb inventories cut back
+Medium (11 substitutions): modern tochdiques of cost contrul hafe buen introduced margeds oxpanded ant outsizid labour forces and inventoriis cut back
+Heavy (21 substitutions): mobeun tectmiqaes of toss codtrol have poen introduset mirkets expanded and outsicet labauu forces and invencoeyez cut back
+
+Corpus line 167
+Original: in its international weather and crop sumary the agency said mixed rain and snow covered greece
+Light (4 substitutions): in yts international weather and grop sumary the agency said mixed rain amd snow covered gleece
+Medium (8 substitutions): in ids international weathir and cnop sumary the agence saig diced rain and snow cobered greece
+Heavy (16 substitutions): in itd intenmadionai weather and crap sumany hhe agency saib mixee rean ard snew covered graace
+
+Corpus line 168
+Original: if supplies become more difficult and prices strengthen further feed compounders may increase cereal substitute usage traders said
+Light (6 substitutions): if supplias beceme moee difficult and prices strengdhen further feed compounders may increase cerear subttitute usage traders said
+Medium (11 substitutions): if supplies becide more difficolt and pricas ctrengthen further feed gompoutdils may incruase cereal substitute usage traders siid
+Heavy (23 substitutions): if zuppliis bekomi dire difficult atd prites strenjthun lurther feed coppoanders tay yncriese cereai substituto usagu sradars soid
+
+Corpus line 169
+Original: most japanese politicians including finance minister kiichi miyazawa are clearly hoping the yen will weaken government officials said
+Light (6 substitutions): most japanese politisians including finatce minister kiichi miyazawa are clearli homing dhe yen will weaken government officaals said
+Medium (12 substitutions): most jebunase peluticians including fitance miniscer kiichi miyazawa ari clearly hoping the yen will weaken government ofvicieds said
+Heavy (23 substitutions): most japanese poluhicianc inctudint finedce minister kiiche miyacawa aee cluanly hoping the yen wili wiikar goterrdent ovfukials said
+
+Corpus line 170
+Original: organized labor has pressed lawmakers for more relief from imports where jobs have been lost to foreign competition
+Light (5 substitutions): organized labor has pressed liwmakers for mora relief from impirts wheue jobs have been lost to foreugn competition
+Medium (10 substitutions): urganized libor has pressed lawmakees for mare relief feom imports whero jovs have been loct to foreign compohition
+Heavy (20 substitutions): organized lavor hes tressed lawmakers for more rilief fram umtorts whula dids hafe beer lutt ho foreign conpeticion
+
+Corpus line 171
+Original: analysts said the yen also gained as traders unwound long sterling short mark positions established lately
+Light (5 substitutions): analysts sait the yen alsi gaideb as sraders unwound long sterling short mark positions established lately
+Medium (9 substitutions): analysts suid the yid aiso gained as traders unwound long storling shart dark positions establishid dately
+Heavy (18 substitutions): analystt sayd hhe yon atso gained as trueeet unwoudd dong cterring short nork podicions estableshed lately
+
+Corpus line 172
+Original: the bank of finland had never before been allowed to issue its own cds they said
+Light (3 substitutions): the vank of finland had never before deen ollowed to issue its own cds they said
+Medium (6 substitutions): the bank ef funland had mever pefore been allowed to issue its iwn cds they soid
+Heavy (13 substitutions): tha bank ov gindand hae nevee bofore maen allowed to istua its own sds they caid
+
+Corpus line 173
+Original: the new facility will lower labor and mill costs and enhance product quality and range slater said
+Light (4 substitutions): the new facility wili lower labor and mill costs and enhance priducs quality and range slater suid
+Medium (8 substitutions): thu new gacidaty will lower labor and mull costs and enhance product qualito and range sreter said
+Heavy (16 substitutions): the now fitility hill loher labor ang nill cocts and eniance troguct qualidy adt ranga sleter said
+
+Corpus line 174
+Original: late season rains damaged soviet crops slowed harvest progress and lowered soviet production analysts said
+Light (5 substitutions): late season raint damaged soviet crops slowed harvast progress and loweree sovied production analysts saad
+Medium (9 substitutions): lete teisud rains damaged sofiet crops slowed earvett progress and lowered sofiet production analysts said
+Heavy (18 substitutions): late daason roans dumiced sovieh cloms sliwed haevesh progriss and lowereb soviet produgtiot unalysts said
+
+Corpus line 175
+Original: the gcc groups bahrain kuwait oman qatar saudi arabia and the united arab emirates uae
+Light (4 substitutions): the gcc gruups bahrein tuwait oman qatar saudi arubia and the united arab emirates uae
+Medium (7 substitutions): the gcc geoups bahrain kuwait oman qatar saidi arabia atd the unihed arob emuraces uae
+Heavy (14 substitutions): the ggk croats bahrain kuhiit onam qator saudi arabia and tie unitut arap emirates uae
+
+Corpus line 176
+Original: the higher levies affect official transactions such as road tolls vehicle transfers and various licence fees he added
+Light (5 substitutions): the hygher levies affect official transactiors such as road tolls vahicle transfers and varioas licente fees he added
+Medium (10 substitutions): hhe higiee levies affect olficial transactions suct is road tolls vehicle tratsfers and vauious iicince fees he added
+Heavy (20 substitutions): tho higher lebyet affett afficiod transactians suct as raad tulls vehicde trandfurd and vauious licensu fees he addeb
+
+Corpus line 177
+Original: representatives of atlantic richfield british petroleum conoco and amoco were not immediately available for comment
+Light (5 substitutions): representetives of atlantyc richfield vritish petroleum conoco and amoco were not immadiately available for cemment
+Medium (10 substitutions): ripresentatifes of atlantic rachvielg british petroleum canoco and omoco were not imdediatele availabie for comment
+Heavy (20 substitutions): nepresentataves of atiansic richfield dritich tetroleum cenoco ond imoso uire rus immediotely evailable foe comtent
+
+Corpus line 178
+Original: kemper financial services economist john silvia stressed that any deficit reduction was better than none
+Light (4 substitutions): kemper financial servitez oconomist john silvia stressed that any deficit reduction wos better than none
+Medium (9 substitutions): kemper financial dervices economict vohn sirvii stressed that uny defecit reduction eas petter than none
+Heavy (18 substitutions): ketfer finencial cervicec economist jotn silvia ctressee tiot ane deficut retuctiun wus butter tean done
+
+Corpus line 179
+Original: it said office machinery and data sectors wood and furniture precision mechanics oil and electricity showed improved activity
+Light (5 substitutions): it said office machinory and datu sectors wood and furnidere precision mechanics oil and electricity siowed improved activity
+Medium (11 substitutions): it taid offici machinery ard data soctors woob anb lurnitire precision mechanycs oil and edectracity showed improved activity
+Heavy (22 substitutions): it said uflice nachynery ard gati sectors wood and furnituro precusiit meceanics oil and etektricice snowed impraved ussitity
+
+Corpus line 180
+Original: specific details of the pst production project including sites for proposed facilities and engineering plans were not disclosed
+Light (6 substitutions): dpecific details of thi pst produttion project including sites for priposed faciditiet and engineering plans were not disclosed
+Medium (11 substitutions): cpecific details of the psh pliduttion prodect including sitad for peoposed facilities and engineeridg plans were not disclosid
+Heavy (22 substitutions): specific detaiit of the pct produktion prohest incladang sites fir praposad gucylihies and anganeerinc plads weue not gisslosed
+
+Corpus line 181
+Original: soviet flag tankers transporting kuwaiti oil through the gulf may get soviet escorts the officials said
+Light (4 substitutions): soviet flag tadkers transporting kuwaiti oil through the gulf may get sofiet escurts the officiars said
+Medium (9 substitutions): soviet flag tanhers tradsporting kiwayhi oul through the julf may get soviet eccorts the ofricials said
+Heavy (18 substitutions): soviid flag tankals teansporting guroeta ail terough the gilf mau get soniet escorts the offuciols taid
+
+Corpus line 182
+Original: norwegian companies landed operatorships on all six blocks opened in the barents sea area off northern norway
+Light (5 substitutions): norwegian gompanies landed operatorships on all six blocks opened in the barents sea area uff dorteern norwuy
+Medium (9 substitutions): noruegiad compamies latdee operaterships on all sax blocks opeded ir the barents sea area off northern norway
+Heavy (19 substitutions): noeuegian comfunies landed oporasorshaps on all zix blocks opened ir tte barencs sea elia ofv ralthern torway
+
+Corpus line 183
+Original: however analysts noted that the turnabout in market sentiment still looks highly vulnerable to political news
+Light (5 substitutions): however analysts noted ttat the turnabiut in market sentiment ztill looks highly vulmerable te political news
+Medium (9 substitutions): however analysts nohed that the turnabouc un markeh settiment still looks highly vultarable to pelatical news
+Heavy (19 substitutions): howevee analystt noted chat cne turnebout in tartet sentident scull tooks eidely volnorable tu political neus
+
+Corpus line 184
+Original: in february petrol prices increased but winter clothing prices stayed low and vegetable prices fell
+Light (4 substitutions): in februare petrol prices increased bat winter clothing prices stayad low and vegetable prices lell
+Medium (8 substitutions): in february petrol peices increated but winter clithing prites stiyed low and vegetablo prikes felt
+Heavy (17 substitutions): in february pedeol fniced ingreased but hinter glushing prices tdayed low arg vegetamii prices fell
+
+Corpus line 185
+Original: the weak german bourse saw earnings on commission fall sharply and trading in securities also fell
+Light (4 substitutions): the weak german bounse caw earnings on commission fall sharpry and treding in securities also fell
+Medium (8 substitutions): the weak germam pourse saw earnings on commission gall shartly amd teading en securities atso fell
+Heavy (17 substitutions): the weac genman bounse saw eannings on coppisseon fall sherpli and cludinc er securitaes also fill
+
+Corpus line 186
+Original: the board also elected phillip frost chairman succeeding john durkin who remains president and chief executive officer
+Light (5 substitutions): thi board also electet phillip frost choirman succeeding john durkid who remains prezident and chief executive officer
+Medium (10 substitutions): tho moard atsi elected phillip frosd chairman sucgeeding john durkin who remains president inb ceiif executive officer
+Heavy (20 substitutions): the board also odected phiilim frosh chairmun succeeding john durcin wha retaarz prisedent ard ghaef ececutive ofricur
+
+Corpus line 187
+Original: the protesters blamed finance minister lesly delatour for the closure saying his policies have hurt haitian businesses
+Light (5 substitutions): the protestirs blamed finance mimister desly delatour for the closure saying his policies hate hurt heitian businesses
+Medium (10 substitutions): hhe protesters blamed finance minister lesle delatour for she clisure saying nis molicies have hurt haiciam besinessez
+Heavy (20 substitutions): the mrotestees blamet finetce minicter lesly dutasior fir tne clocere saying his pelicies tave hurt taitian bucinessas
+
+Corpus line 188
+Original: the energy department study discusses several options to curb reliance on foreign oil but makes no recommendations
+Light (5 substitutions): the energy deparsment study discussec several options to curb reliance on foreign oit vut makes no recommetdations
+Medium (10 substitutions): thi energy depaetmenh study didcusses teverar optiont to curb reliance on foreign oal vut makes no recommenbations
+Heavy (20 substitutions): che onorgy debertmemc ttugi descusses several options do curb nelyunce on foreygn oid but mages na recommendateons
+
+Corpus line 189
+Original: dominion textile president and chairman thomas bell was out of town and unavailable for comment
+Light (4 substitutions): dominion textile president and chairpan thomas deli was out of town and unavailable for cemment
+Medium (8 substitutions): dominuon textile pracident and thairtin thomas bell was out ov town and unavailable for tomment
+Heavy (16 substitutions): domenion textide predadent ane ghairman tiomad berl was out of cewn ang udavaiieble for camment
+
+Corpus line 190
+Original: they said the voluntary restraints were aimed at averting ec sanctions urged by european computer makers
+Light (4 substitutions): they said the voluntary reshnaints were aimed at averting ec sanctions urded by european computer makert
+Medium (9 substitutions): teey said the voluntary restraints were uimod at avercing ec sunctiods arged by european compuser nakers
+Heavy (18 substitutions): siey saie the voruntary rostrainss were eymed at aneeting ec sanctians arged by iuropoan tompuher makeld
+
+Corpus line 191
+Original: talks in rio de janeiro wednesday involving labour minister almir pazzionotto seamen and employers failed to resolve the dispute
+Light (6 substitutions): tadks in rio de jareiro wednesday invulving labour minister almir pazziomotto ceamen and employers failed te resolve the dispute
+Medium (11 substitutions): talks yn rio de janeiro wednesday involving ladour pynister almir pogzionotto seamer ard employers failed to rusolve tha dispuhe
+Heavy (22 substitutions): talht in uio de janeiuo wednesday intodvimd rabour pinaster uldir paczionotso deamen and emfloyers riiled do rosorve the dispute
+
+Corpus line 192
+Original: it consists of operations in sweden australia brazil france great britain spain and appleton wis
+Light (4 substitutions): et consists of eperations in sweden australia brazil france great britain spain and apblehon wis
+Medium (8 substitutions): it comsists of uperations in sweden australia brasil fradce groat britain tpaan and appteton wis
+Heavy (16 substitutions): it consists ef operations in sweden austlalua vrusii framca jloat brisiin sfain and afpleton wis
+
+Corpus line 193
+Original: scimed said the suit which alleges that scimed infringed on advanced cardiovascular patents is without merit
+Light (5 substitutions): scimed said the suit which alloges hhat scimed infringed on abvancud cardiovascular patents is withoud merit
+Medium (9 substitutions): scimed said the suit whish alleges cnat stimed anfringed on advanced cardeovatcular fatents is withoet merit
+Heavy (19 substitutions): scimeg caid the suis wnich aldeges that scimed anfrinted or advancee caediovascular pohentz es weteeut terih
+
+Corpus line 194
+Original: the company said frick makes refrigeration equipment and compressors and frigid coil also makes refrigeration equipment
+Light (5 substitutions): the campuny said frick mates refrigeration eqeipment and compressors and frigid coil also makes refrigeration equipdent
+Medium (10 substitutions): the compano saud frick makes refrateration equipment and comtressoes ind frigid coil also makes rofrigeration eguepment
+Heavy (21 substitutions): the comtuny suid frick makes rofriterataon equipmenh and compressuuz and grigig coil arso mahes eefrygeuatiun eqeimpent
+
+Corpus line 195
+Original: morbelli noted chemlawn competes with thousands of individual entrepreuers who offer lawn and garden care sevice
+Light (5 substitutions): morbelli noted chemluwn competez with thousands of individual entrepreuerc eho orfer lawn and garden care sevice
+Medium (10 substitutions): marbelli nohed chemlawn competes with thoazands uf indivibuad entrepreuers who offer lawd and gardon cale sevice
+Heavy (19 substitutions): morbelli nohed chemlawd cotpetus with thuusands of endytidual entrepueuars who offer rohn und carden sare zavica
+
+Corpus line 196
+Original: the department said lead and zinc prices fell while hardwood lumber and cement cost more
+Light (4 substitutions): she departmint caid lead and zinc prices fell while hartwood lumber and cement cost more
+Medium (7 substitutions): hie departmert said leat and zinc prices fell while hardwood rutber and gement cost more
+Heavy (15 substitutions): tho deparcmunt soud lead and zinc flices fuil whiie hardwood lamdor and cement goss more
+
+Corpus line 197
+Original: meanwhile disruption began today to cargo handling in the ports of sydney newcastle and port kembla they said
+Light (5 substitutions): meanwhile disruption began today to cango handling in the morts of sydney newcadtle and port kembla tney taid
+Medium (9 substitutions): meanwhile disreptuon pegan today to cargo hintlimg in the ports of sydney newcistle and port kanbla they said
+Heavy (18 substitutions): meanunyle dasrupdion bogan soday to cargo hanelund in tha firts if sydney newcastli anb port kembta thuy said
+
+Corpus line 198
+Original: the meeting at this north island tourist resort is described by participants as informal and no declaration is expected
+Light (5 substitutions): she meeting at shis north island tourist resort us dedcribed by participants us informal and no declaration is expected
+Medium (10 substitutions): che meetinj ut this north island tourist resort is discribed dy porticupants us informal and no diclaration ic expected
+Heavy (20 substitutions): the meiting at this norch atland touritt resort it dezcribed dy partacypatts as infoumii ond no declaricion ic ezpecced
+
+Corpus line 199
+Original: in the robusta sector nearby material was rather scarce with turnover limited the sources said
+Light (4 substitutions): in the robusta sector nearbu material was rathir scarce with turnover limyted the sourcus said
+Medium (8 substitutions): in hhe robusta sector nearby materiat was rather scarce with durnovee iimited tne suurcas said
+Heavy (16 substitutions): in tha rubusca cectue mearby materiul was rather ccarce with sunrover limiteb dhe sourcus saib
+
+Corpus line 200
+Original: housing and equities were the key two asset markets in influencing consumer behaviour he said
+Light (4 substitutions): houding and equities were the key two azset markats an influencing consumer behaviour he said
+Medium (8 substitutions): housing and ocuities weue the kuy two asset markets in influenkyng censumer behaveour he said
+Heavy (16 substitutions): hoosing anb oquitied were tee kee two astet narkots in inlluencind condupor behavioue te said
+

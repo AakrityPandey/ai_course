@@ -1,0 +1,808 @@
+Input before greedy: house and senate negatiatorz are ironing oat tyfferences in trade pillc passed by bosh chambers
+Output after greedy: house and senate negatiatorz are ironing out tyfferences in trade pills passed by both chambers
+Cost after greedy: 68.49071947876921
+
+Input before beam search: house and senate negatiatorz are ironing out tyfferences in trade pills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+
+Input before beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negotiators are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 11.488455197952838
+

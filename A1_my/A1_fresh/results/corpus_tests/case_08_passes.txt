@@ -1,0 +1,12 @@
+Input before greedy: house and tenate negeteasors ore irining ous difgerentas in traee bidrd paszed by bith chambers
+Output after greedy: house and senate negeteasors are ironing out difgerentas in trade bidrd passed by both chambers
+Cost after greedy: 82.77995130091281
+
+Input before beam search: house and senate negeteasors are ironing out difgerentas in trade bidrd passed by both chambers
+Output after beam search: house and senate negeteasors are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 36.773254643536944
+
+Input before beam search: house and senate negeteasors are ironing out differences in trade bills passed by both chambers
+Output after beam search: house and senate negeteasors are ironing out differences in trade bills passed by both chambers
+Cost after beam search: 36.773254643536944
+

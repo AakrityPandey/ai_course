@@ -1,0 +1,4 @@
+Input before greedy: galdo saud rcs will stop attively ceeking tatentiet murgeu pantrers mut will respand to zerious inqainios meni deulers aee experimanding with ownimg sevelal flanshises somi og which might compete agairst each otheu the tpahezmat atdud cnooc was ready ho entor into cortracts for offdhoro blocgs vafoeo shand round midbing begun
+Output after greedy: gallo said fcs will stop actively seeking tatentiet murgeu pantrers but will respond to serious inqainios mini dealers are experimanding with owning several flanshises some of which might compete against each other the tpahezmat atdud cnooc was ready to enter into contracts for offdhoro blocks vafoeo stand round midbing begin
+Cost after greedy: 288.4034840622538
+

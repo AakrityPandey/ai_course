@@ -1,0 +1,176 @@
+Input before greedy: in addition john lennon current thairman and cheef executive officer well remain as ceairtam he company said the pnite is quoted vob nelculaneum mo ind fod buss mo with freignt allored for carluad quantitues william ciedenburg of smith biuney harrit upham add co seid phelps has lowenid costs ane streumlined mining operations
+Output after greedy: in addition john lennon current chairman and chief executive officer will remain at ceairtam we company said the pnite it quoted fob nelculaneum no and fed boss mo with freight allowed for carload quantities william siedenburg of smith birney harris upham and co said phelps has lowenid costs and streamlined mining operations
+Cost after greedy: 146.92494523074683
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain at ceairtam we company said the pnite it quoted fob nelculaneum no and fed boss mo with freight allowed for carload quantities william siedenburg of smith birney harris upham and co said phelps has lowenid costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain at chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 51.894508257068374
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain at chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+
+Input before beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Output after beam search: in addition john lennon current chairman and chief executive officer will remain as chairman we company said the price it quoted fob herculaneum mo and fed boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations
+Cost after beam search: 49.92410276870622
+

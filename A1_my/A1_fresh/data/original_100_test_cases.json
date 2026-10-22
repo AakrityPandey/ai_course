@@ -1,0 +1,702 @@
+[
+  {
+    "corpus_line": 1,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "grey marketeers may also be able to outfox any new restrictions some industry officials said",
+    "input": "grey marketeers may also be able so outfox any new resduictions some industry officiuls said"
+  },
+  {
+    "corpus_line": 1,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "grey marketeers may also be able to outfox any new restrictions some industry officials said",
+    "input": "grey marketears may also be able to oosvox any new rustrictions time industry officiuls said"
+  },
+  {
+    "corpus_line": 1,
+    "difficulty": "heavy",
+    "substitutions": 16,
+    "original": "grey marketeers may also be able to outfox any new restrictions some industry officials said",
+    "input": "griy nankeheert mao also bu able to outfox ene new restrictiors sone idduztry offycials soyd"
+  },
+  {
+    "corpus_line": 2,
+    "difficulty": "light",
+    "substitutions": 6,
+    "original": "it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation",
+    "input": "ut saig the new btx procass units include aromatic extraction xylene fractionation xylene isomerization and thirmal hydradeaikylation"
+  },
+  {
+    "corpus_line": 2,
+    "difficulty": "medium",
+    "substitutions": 12,
+    "original": "it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation",
+    "input": "it said tie now btx process units includa oromitic extractyor xylene fractionition xylede izimerization and theemal hydrodealkylation"
+  },
+  {
+    "corpus_line": 2,
+    "difficulty": "heavy",
+    "substitutions": 23,
+    "original": "it said the new btx process units include aromatic extraction xylene fractionation xylene isomerization and thermal hydrodealkylation",
+    "input": "ic saud the ner btx prucass utits include arotitic extroction xylene guictiinasior cylene isomerigitior and tharmel hydrodealtylatuon"
+  },
+  {
+    "corpus_line": 3,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "it said the increase will affect the floor covering markets paper paperboard and specialty markets",
+    "input": "it said the increase eill affect the floor covering markets paper paporboard and specialty mirkits"
+  },
+  {
+    "corpus_line": 3,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "it said the increase will affect the floor covering markets paper paperboard and specialty markets",
+    "input": "it said the increase wall afvect the frooe coverung markets paper paperpoard and smecialty markots"
+  },
+  {
+    "corpus_line": 3,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "it said the increase will affect the floor covering markets paper paperboard and specialty markets",
+    "input": "ih saud shu increase will affect tho floor covering merkets papur bupenboard and spesyarcy margecd"
+  },
+  {
+    "corpus_line": 4,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "noranda said work crews have begun securing the ramp leading into the zone where the fire was located",
+    "input": "noranda said wirk crews have begun sacuring the ramp leading into the zoni where the fire wad located"
+  },
+  {
+    "corpus_line": 4,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "noranda said work crews have begun securing the ramp leading into the zone where the fire was located",
+    "input": "noranda said wonk crews have begun seciring tee ramp leadirg into the gone whele thi fira was located"
+  },
+  {
+    "corpus_line": 4,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "noranda said work crews have begun securing the ramp leading into the zone where the fire was located",
+    "input": "naranda saed eork creus have begum securing hhe ranp leiditt into she zone ehera the lire eos locatad"
+  },
+  {
+    "corpus_line": 5,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "but turning that capital into more permanent productive investment depends on government economic policy he said",
+    "input": "boc turning that capital into more permanent productive invessment depends on governmens economic palicy he said"
+  },
+  {
+    "corpus_line": 5,
+    "difficulty": "medium",
+    "substitutions": 10,
+    "original": "but turning that capital into more permanent productive investment depends on government economic policy he said",
+    "input": "but turnang thec capital ynto moru permanent productivo anvestment depetds on govornment economic bolicy he said"
+  },
+  {
+    "corpus_line": 5,
+    "difficulty": "heavy",
+    "substitutions": 19,
+    "original": "but turning that capital into more permanent productive investment depends on government economic policy he said",
+    "input": "vut turnidg ceat capital ytta mone permatert productive itvestdett dependz om tovernment econodic policy ho sait"
+  },
+  {
+    "corpus_line": 6,
+    "difficulty": "light",
+    "substitutions": 3,
+    "original": "he declined to say how many dollars the bank bought or when precisely it intervened",
+    "input": "he declined do say how many dollars tho bank bought or when precisaly it intervened"
+  },
+  {
+    "corpus_line": 6,
+    "difficulty": "medium",
+    "substitutions": 7,
+    "original": "he declined to say how many dollars the bank bought or when precisely it intervened",
+    "input": "he declinod to sai how many dollers tee bank vought or when peicisely it intervened"
+  },
+  {
+    "corpus_line": 6,
+    "difficulty": "heavy",
+    "substitutions": 14,
+    "original": "he declined to say how many dollars the bank bought or when precisely it intervened",
+    "input": "eu deglineg to say how many dodlars dhe bank bought er wher puecisely it emselveneg"
+  },
+  {
+    "corpus_line": 7,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "the company also said it granted noranda an option to purchase two mln galveston shares",
+    "input": "the company also said it granted noranda an optuim to purchase two mln galvestot shares"
+  },
+  {
+    "corpus_line": 7,
+    "difficulty": "medium",
+    "substitutions": 7,
+    "original": "the company also said it granted noranda an option to purchase two mln galveston shares",
+    "input": "thi company also said it granted niranda on option to purkhase tuo mln galtaston shares"
+  },
+  {
+    "corpus_line": 7,
+    "difficulty": "heavy",
+    "substitutions": 15,
+    "original": "the company also said it granted noranda an option to purchase two mln galveston shares",
+    "input": "tte compuny alse said at grunted toranea an optuon to purchese twa dlm galbettun shares"
+  },
+  {
+    "corpus_line": 8,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "damage was most severe on plants above the ground where little or no snow cover was present he added",
+    "input": "damage was modt severe en plamts above the ground where little or no snow cofer was present he added"
+  },
+  {
+    "corpus_line": 8,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "damage was most severe on plants above the ground where little or no snow cover was present he added",
+    "input": "datage was mast zevere on blantc above the cround wnere little ur no snow cover was present he added"
+  },
+  {
+    "corpus_line": 8,
+    "difficulty": "heavy",
+    "substitutions": 16,
+    "original": "damage was most severe on plants above the ground where little or no snow cover was present he added",
+    "input": "damage haz mott severi ot fiants abova dhe ground uhere lithle or no snow cuber wad present te idded"
+  },
+  {
+    "corpus_line": 9,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment",
+    "input": "thu units make and distribote varaous products incluting laen mowers small appliances and sheep shearing equipment"
+  },
+  {
+    "corpus_line": 9,
+    "difficulty": "medium",
+    "substitutions": 10,
+    "original": "the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment",
+    "input": "the units moke and dissrebuse various productt inclutyng lawn mowers small uppliances and sheep sieuring equipment"
+  },
+  {
+    "corpus_line": 9,
+    "difficulty": "heavy",
+    "substitutions": 20,
+    "original": "the units make and distribute various products including lawn mowers small appliances and sheep shearing equipment",
+    "input": "the unets maki anb dissribete various peibicts incladang rawn mowers smell atpliancet and sheep dhuulitg equipment"
+  },
+  {
+    "corpus_line": 10,
+    "difficulty": "light",
+    "substitutions": 3,
+    "original": "prices had also been forced down because refineries were using up old stock he said",
+    "input": "pliges had also been furced down because refineries were using up old stock he said"
+  },
+  {
+    "corpus_line": 10,
+    "difficulty": "medium",
+    "substitutions": 7,
+    "original": "prices had also been forced down because refineries were using up old stock he said",
+    "input": "priced hud alsa been forcad dowm because refineries wele using up old stosk he said"
+  },
+  {
+    "corpus_line": 10,
+    "difficulty": "heavy",
+    "substitutions": 14,
+    "original": "prices had also been forced down because refineries were using up old stock he said",
+    "input": "pricas hab also maen forceg doun because nefinuriis wele using um old stoch hu saed"
+  },
+  {
+    "corpus_line": 11,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "the recent stability would last until markets decided to test the resolve of central banks he said",
+    "input": "dhe recent stability woald last until murkets decided to hest the resolve of central banks he said"
+  },
+  {
+    "corpus_line": 11,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "the recent stability would last until markets decided to test the resolve of central banks he said",
+    "input": "the lecert stability wautd last unhil maekets decided to test the resolve of centnal bants he said"
+  },
+  {
+    "corpus_line": 11,
+    "difficulty": "heavy",
+    "substitutions": 16,
+    "original": "the recent stability would last until markets decided to test the resolve of central banks he said",
+    "input": "the uecent ssavilicy riuld last until markuts decided to test the eesoife of cumdral badks hi soid"
+  },
+  {
+    "corpus_line": 12,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more",
+    "input": "last month the bank endorsed economic changes aireody introduced by indonesio but emplied it wanted more"
+  },
+  {
+    "corpus_line": 12,
+    "difficulty": "medium",
+    "substitutions": 9,
+    "original": "last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more",
+    "input": "last mondh the domk eddorsed economic changus elready introduced bo indonesia but implied it wanted mare"
+  },
+  {
+    "corpus_line": 12,
+    "difficulty": "heavy",
+    "substitutions": 18,
+    "original": "last month the bank endorsed economic changes already introduced by indonesia but implied it wanted more",
+    "input": "last month the bank entorseg ecorumic changec elriedy intritucid by indonaziu but impried it wantod moni"
+  },
+  {
+    "corpus_line": 13,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "to promote trade saudi arabia is inviting japanese industries to do business there he said",
+    "input": "to primote trade saudi arabia is anvititg dapanese industries to do business there he said"
+  },
+  {
+    "corpus_line": 13,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "to promote trade saudi arabia is inviting japanese industries to do business there he said",
+    "input": "to promote trade saedi arabei ic inveting japanese industries co do buziness ttere he said"
+  },
+  {
+    "corpus_line": 13,
+    "difficulty": "heavy",
+    "substitutions": 15,
+    "original": "to promote trade saudi arabia is inviting japanese industries to do business there he said",
+    "input": "to propote cuadi saudi auabia az inteting japanesu indushries to da business there hu saae"
+  },
+  {
+    "corpus_line": 14,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "the analysts agreed success would depend largely on how sterling performs in the near term",
+    "input": "the analysts agreed zuccess woutd depend largely on how sterlimg performs in the neor term"
+  },
+  {
+    "corpus_line": 14,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "the analysts agreed success would depend largely on how sterling performs in the near term",
+    "input": "thu inalydts agreod success would depend larjaly on how sterling perfonms in the nean term"
+  },
+  {
+    "corpus_line": 14,
+    "difficulty": "heavy",
+    "substitutions": 15,
+    "original": "the analysts agreed success would depend largely on how sterling performs in the near term",
+    "input": "hhe aralosts agreed saccuss would dubemd raegely on how stirling firfonms in the naar term"
+  },
+  {
+    "corpus_line": 15,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co",
+    "input": "thu magic group owns piljrim life insurance co of america and middle atlantic lefe insuramce co"
+  },
+  {
+    "corpus_line": 15,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co",
+    "input": "dhe magic group owns pilcrim dife insurancu co of america and midble atdantic life unsurance ci"
+  },
+  {
+    "corpus_line": 15,
+    "difficulty": "heavy",
+    "substitutions": 16,
+    "original": "the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co",
+    "input": "hhe maguc gnoup ouns filglim life unturance co of america atd midtlu atlantic lufe idzurutce co"
+  },
+  {
+    "corpus_line": 16,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "stands in these fields were thin and chances of recovery appeared less favorable he said",
+    "input": "ctands in these fields were thin and chanced of recovery afpeared less favolable he said"
+  },
+  {
+    "corpus_line": 16,
+    "difficulty": "medium",
+    "substitutions": 7,
+    "original": "stands in these fields were thin and chances of recovery appeared less favorable he said",
+    "input": "stands it thise fields were thin and chamces of recovery appeared lesc favoroble ee soid"
+  },
+  {
+    "corpus_line": 16,
+    "difficulty": "heavy",
+    "substitutions": 15,
+    "original": "stands in these fields were thin and chances of recovery appeared less favorable he said",
+    "input": "stinds in theze rierdc wele thin ond ctanges of receneny appeared ress faborable ee said"
+  },
+  {
+    "corpus_line": 17,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said",
+    "input": "aumctrong tire co an armtek unit widl continue to sell replacement industrial tiees the company said"
+  },
+  {
+    "corpus_line": 17,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said",
+    "input": "armstrong tile co an almcek unit will continue ho sell raplatement ingustrial tires the compamy said"
+  },
+  {
+    "corpus_line": 17,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "armstrong tire co an armtek unit will continue to sell replacement industrial tires the company said",
+    "input": "armdsrong tire cu an armtak onit will continui so soll neplacedent iddustleit tiret the company saed"
+  },
+  {
+    "corpus_line": 18,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "it stressed the need to segregate wheat categories at every stage from receival to shipping",
+    "input": "it stressee she need to segeegate wheat cutegories at every stage from receival to shipping"
+  },
+  {
+    "corpus_line": 18,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "it stressed the need to segregate wheat categories at every stage from receival to shipping",
+    "input": "it stressed the need to segreguse wheat categories at evury ztage from recaival to stappinc"
+  },
+  {
+    "corpus_line": 18,
+    "difficulty": "heavy",
+    "substitutions": 15,
+    "original": "it stressed the need to segregate wheat categories at every stage from receival to shipping",
+    "input": "it stradsed sie teed to seglegahe wneat categories it evaly stage lrem receival ho shipming"
+  },
+  {
+    "corpus_line": 19,
+    "difficulty": "light",
+    "substitutions": 6,
+    "original": "under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals",
+    "input": "under such circumstamces the countries agreed their currencies wore widnin ranges broadly tonsistent with ecoromic fundamentals"
+  },
+  {
+    "corpus_line": 19,
+    "difficulty": "medium",
+    "substitutions": 11,
+    "original": "under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals",
+    "input": "utden such circunstances tie countlies agreed their curremcies were hithin ranges broadly gonsistont with economic fundumentels"
+  },
+  {
+    "corpus_line": 19,
+    "difficulty": "heavy",
+    "substitutions": 22,
+    "original": "under such circumstances the countries agreed their currencies were within ranges broadly consistent with economic fundamentals",
+    "input": "under such circunstanced teo coonteius agreeb their curremcees ware within randas broadry consestemt uitt iconomuc fundementald"
+  },
+  {
+    "corpus_line": 20,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said",
+    "input": "the measures cherefore iimed clearly at brunging monetary growtt back onto the desired path he said"
+  },
+  {
+    "corpus_line": 20,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said",
+    "input": "tee maasures ceerefore aimed klearly at bringing motetary growth back onto the desired path he teid"
+  },
+  {
+    "corpus_line": 20,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "the measures therefore aimed clearly at bringing monetary growth back onto the desired path he said",
+    "input": "the deasurat therefore aimed trearlu ah brimging monutari growti back onti hha desired fatn te said"
+  },
+  {
+    "corpus_line": 21,
+    "difficulty": "light",
+    "substitutions": 3,
+    "original": "trading in hayes common will cease at the close of business today the company said",
+    "input": "trading in hayes common will ceose at the close of businuss today hhe company said"
+  },
+  {
+    "corpus_line": 21,
+    "difficulty": "medium",
+    "substitutions": 7,
+    "original": "trading in hayes common will cease at the close of business today the company said",
+    "input": "traditg in hayes common will cease at the slose af businosz today the cimpani said"
+  },
+  {
+    "corpus_line": 21,
+    "difficulty": "heavy",
+    "substitutions": 14,
+    "original": "trading in hayes common will cease at the close of business today the company said",
+    "input": "trading un iayas gonnor will caase at hne close ef butiness today chi company said"
+  },
+  {
+    "corpus_line": 22,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said",
+    "input": "rain patterns will move ocross indiana to ohio with thudershower actinyty yielbing so more general rains he said"
+  },
+  {
+    "corpus_line": 22,
+    "difficulty": "medium",
+    "substitutions": 10,
+    "original": "rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said",
+    "input": "rain patherns will move across indiana to otio with ciuderzhower acdivity iiulding co more generel rains he said"
+  },
+  {
+    "corpus_line": 22,
+    "difficulty": "heavy",
+    "substitutions": 19,
+    "original": "rain patterns will move across indiana to ohio with thudershower activity yielding to more general rains he said",
+    "input": "eain putterns wiil mone agrozc indyano ta uhio with tnudeustiwer activity yieldyng to more guneral rains he duid"
+  },
+  {
+    "corpus_line": 23,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "other factories are continuing to process beet normally but harvesting remains very difficult in most areas",
+    "input": "other factoriec ari continuing to plocess beet normally but harvesting remains bery difficilt in most areas"
+  },
+  {
+    "corpus_line": 23,
+    "difficulty": "medium",
+    "substitutions": 9,
+    "original": "other factories are continuing to process beet normally but harvesting remains very difficult in most areas",
+    "input": "other fecholies are sontiduing to prosess beet normally but harvestidg remayns very difficult in most ireas"
+  },
+  {
+    "corpus_line": 23,
+    "difficulty": "heavy",
+    "substitutions": 18,
+    "original": "other factories are continuing to process beet normally but harvesting remains very difficult in most areas",
+    "input": "otiee factorios are continuitj ta pratess deet nounarly vut harvestang remains viry difficudh in most areus"
+  },
+  {
+    "corpus_line": 24,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds",
+    "input": "futures trabers said tight cash supplies shoald hedp july soybeans ind soymeal gain on deferreds"
+  },
+  {
+    "corpus_line": 24,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds",
+    "input": "fatures traders said tigtt cudh supplies should help duly soybeans ant soemeal gain on deforreds"
+  },
+  {
+    "corpus_line": 24,
+    "difficulty": "heavy",
+    "substitutions": 16,
+    "original": "futures traders said tight cash supplies should help july soybeans and soymeal gain on deferreds",
+    "input": "fuhures tredert seid tijht cash sumplios should halp july soybeans and toymeol coin on dorelredt"
+  },
+  {
+    "corpus_line": 25,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said",
+    "input": "light showers in eastern alterii and tunisia mainsained adequade moisture for crop growth it said"
+  },
+  {
+    "corpus_line": 25,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said",
+    "input": "ligit showers in eotturn algaria and tunisia maintained adetuate moistune for crop grewth it said"
+  },
+  {
+    "corpus_line": 25,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "light showers in eastern algeria and tunisia maintained adequate moisture for crop growth it said",
+    "input": "ligit snowers yd oestenn algerea and tunisia maadtainee udiquate moisture far crop glowth is sayd"
+  },
+  {
+    "corpus_line": 26,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly",
+    "input": "he said rains somu six weeks ato helped the crop but more recent rains reduced prospects zlughtly"
+  },
+  {
+    "corpus_line": 26,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly",
+    "input": "he soid rains same six weeks ago helpad the crop but dore recent rains reducob prozpects sdightly"
+  },
+  {
+    "corpus_line": 26,
+    "difficulty": "heavy",
+    "substitutions": 16,
+    "original": "he said rains some six weeks ago helped the crop but more recent rains reduced prospects slightly",
+    "input": "he saig ruins somo six weeks agi eedped hhe crop vut mere recedd rains euteced prospetts slightly"
+  },
+  {
+    "corpus_line": 27,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "dudley taft relinquished the title of president in july but continues as vice chairman of the company",
+    "input": "dudley teft rilinquished the tisle of president in july but contidues as vice chairman of the company"
+  },
+  {
+    "corpus_line": 27,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "dudley taft relinquished the title of president in july but continues as vice chairman of the company",
+    "input": "dodley tafd relinquished the title of president in jily but continues az vece chairman or thu gompany"
+  },
+  {
+    "corpus_line": 27,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "dudley taft relinquished the title of president in july but continues as vice chairman of the company",
+    "input": "dudley taft relitquisteb tho tutle or pnesedent it vuly vut continuas as vico chairmun if tee compiny"
+  },
+  {
+    "corpus_line": 28,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "it said the proposed settlements would resolve disputes over possible violations by the five parties",
+    "input": "it sayd the propoded settlemends would resolve disputes over possible violacions by the five parties"
+  },
+  {
+    "corpus_line": 28,
+    "difficulty": "medium",
+    "substitutions": 9,
+    "original": "it said the proposed settlements would resolve disputes over possible violations by the five parties",
+    "input": "it saud the proposed settlements would resolve disputes over possible violetians by the fave mursiat"
+  },
+  {
+    "corpus_line": 28,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "it said the proposed settlements would resolve disputes over possible violations by the five parties",
+    "input": "it said tte pruposed sittlemerts waudb rezolve dispahes aver posdible viototions by hhe feve partias"
+  },
+  {
+    "corpus_line": 29,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "despite great potential developing economies are still confronted by grave difficulties particularly debt he added",
+    "input": "despite great potoncial developing economies are still confrorsed by grave difficulties pardicularly debt he added"
+  },
+  {
+    "corpus_line": 29,
+    "difficulty": "medium",
+    "substitutions": 10,
+    "original": "despite great potential developing economies are still confronted by grave difficulties particularly debt he added",
+    "input": "despice greet potential dateloping economies are stili confronted dy grave diflicultiis parhecularly debt he added"
+  },
+  {
+    "corpus_line": 29,
+    "difficulty": "heavy",
+    "substitutions": 20,
+    "original": "despite great potential developing economies are still confronted by grave difficulties particularly debt he added",
+    "input": "desbide gueah potintial danelopanj etonomeus are still cunfronted by grave eifficultiet paucicularle eebt he edded"
+  },
+  {
+    "corpus_line": 30,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said",
+    "input": "the second cnsecutive eeek of dry weather stresced moroccan winter grains appriaching teh headint ssage the agency said"
+  },
+  {
+    "corpus_line": 30,
+    "difficulty": "medium",
+    "substitutions": 10,
+    "original": "the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said",
+    "input": "the cecond cnsecutive week of tre weathir stressed morokcan uinter grains apbroachynd teh hoading stage the agency said"
+  },
+  {
+    "corpus_line": 30,
+    "difficulty": "heavy",
+    "substitutions": 20,
+    "original": "the second cnsecutive week of dry weather stressed moroccan winter grains approaching teh heading stage the agency said",
+    "input": "the secamd cnsetecive weok of eeu woateer ssrissed moruccun winter grains approashing tah heading stuge tee agency saad"
+  },
+  {
+    "corpus_line": 31,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "the united states conducts no trade with nicaragua and very little trade with romania and paraguay",
+    "input": "the united states conducts no trade with nicaregua atd very little trade with ramania and paeaguay"
+  },
+  {
+    "corpus_line": 31,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "the united states conducts no trade with nicaragua and very little trade with romania and paraguay",
+    "input": "the united states contukts no teade with nicuragua and veri little trage with romanie and paraguuy"
+  },
+  {
+    "corpus_line": 31,
+    "difficulty": "heavy",
+    "substitutions": 17,
+    "original": "the united states conducts no trade with nicaragua and very little trade with romania and paraguay",
+    "input": "chi unatid tdetes cotducts no trade with nycaratua and vory littlu trede uihh uodania and paraguay"
+  },
+  {
+    "corpus_line": 32,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "btr nylex which manufactures rubber and plastic products first bid for bwa in late january",
+    "input": "btr nylex which manufactares rubber and prastyc products firct bid for bwa in late january"
+  },
+  {
+    "corpus_line": 32,
+    "difficulty": "medium",
+    "substitutions": 8,
+    "original": "btr nylex which manufactures rubber and plastic products first bid for bwa in late january",
+    "input": "btr nelex which mamufactulos rabber and plastic priducts first bid for bwa id latu january"
+  },
+  {
+    "corpus_line": 32,
+    "difficulty": "heavy",
+    "substitutions": 15,
+    "original": "btr nylex which manufactures rubber and plastic products first bid for bwa in late january",
+    "input": "bdr nylex uhith manefactures uubbel and plustic products first bed for bwi im iate dinearu"
+  },
+  {
+    "corpus_line": 33,
+    "difficulty": "light",
+    "substitutions": 5,
+    "original": "many dealers are experimenting with owning several franchises some of which might compete against each other",
+    "input": "many dealers aru ezpeuimenting with owring several franchises some of which pight compete against each other"
+  },
+  {
+    "corpus_line": 33,
+    "difficulty": "medium",
+    "substitutions": 9,
+    "original": "many dealers are experimenting with owning several franchises some of which might compete against each other",
+    "input": "deny doalers are experipenting with oening several franchuses some of which micht compete ajainct each other"
+  },
+  {
+    "corpus_line": 33,
+    "difficulty": "heavy",
+    "substitutions": 19,
+    "original": "many dealers are experimenting with owning several franchises some of which might compete against each other",
+    "input": "manu dialers oro experimentint eeth ownimt several lrancnises zemo of whych might cempete atainst aech other"
+  },
+  {
+    "corpus_line": 34,
+    "difficulty": "light",
+    "substitutions": 4,
+    "original": "no fresh proposals other than the colombian initiative had been tabled formally today delegates said",
+    "input": "no fresh proposais other than the colombean initiitive had been tabled formalry today delegates said"
+  }
+]

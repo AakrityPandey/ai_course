@@ -1,0 +1,4 @@
+Input before greedy: in addutaon john dennun currens chairpod and ghief esucutene officir will remaid as sheurmon he toppano saat the price is cuoted leb herculaneut mo ord fob poss mo hith freight allowed fir carload qeonhities wetliam siedenburg af smitt barney tarlys umham and co siid phelts tas lowerid cosss anb streamlynad mining eperatyans
+Output after greedy: in addutaon john dennun current chairpod and chief esucutene officer will remain at sheurmon he toppano seat the price it quoted feb herculaneum mo old feb boss mo with freight allowed for carload qeonhities wetliam siedenburg of smith barney tarlys upham and co said phelps has lowered costs and streamlynad mining eperatyans
+Cost after greedy: 298.3452598676223
+

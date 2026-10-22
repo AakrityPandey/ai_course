@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "level": "clean",
+    "sentences": 1,
+    "corpus_lines": [
+      143
+    ],
+    "clean": "the men were accused of conspiring to bribe government officials and defaud the social security administration",
+    "input": "the men were accused of conspiring to bribe government officials and defaud the social security administration",
+    "substitutions": 0
+  },
+  {
+    "id": 2,
+    "level": "light",
+    "sentences": 1,
+    "corpus_lines": [
+      143
+    ],
+    "clean": "the men were accused of conspiring to bribe government officials and defaud the social security administration",
+    "input": "the men were iccused of conspiritg to bribe governmers officyals and defaud the social security administration",
+    "substitutions": 5
+  },
+  {
+    "id": 3,
+    "level": "medium",
+    "sentences": 1,
+    "corpus_lines": [
+      143
+    ],
+    "clean": "the men were accused of conspiring to bribe government officials and defaud the social security administration",
+    "input": "the men here agcused of conspiring te brabe governdint offuciald and defeud the sociul security administration",
+    "substitutions": 10
+  },
+  {
+    "id": 4,
+    "level": "heavy",
+    "sentences": 1,
+    "corpus_lines": [
+      143
+    ],
+    "clean": "the men were accused of conspiring to bribe government officials and defaud the social security administration",
+    "input": "hhi men rere acsoseg of gonspiring te bribi governmont ufvicials int degaud the social securidy adpenistratian",
+    "substitutions": 19
+  },
+  {
+    "id": 5,
+    "level": "clean",
+    "sentences": 1,
+    "corpus_lines": [
+      159
+    ],
+    "clean": "house and senate negotiators are ironing out differences in trade bills passed by both chambers",
+    "input": "house and senate negotiators are ironing out differences in trade bills passed by both chambers",
+    "substitutions": 0
+  },
+  {
+    "id": 6,
+    "level": "light",
+    "sentences": 1,
+    "corpus_lines": [
+      159
+    ],
+    "clean": "house and senate negotiators are ironing out differences in trade bills passed by both chambers",
+    "input": "house and senate negotiators are ironing out bifferences an srade bills passed by both chambars",
+    "substitutions": 4
+  },
+  {
+    "id": 7,
+    "level": "medium",
+    "sentences": 1,
+    "corpus_lines": [
+      159
+    ],
+    "clean": "house and senate negotiators are ironing out differences in trade bills passed by both chambers",
+    "input": "house and senate negatiatorz are ironing oat tyfferences in trade pillc passed by bosh chambers",
+    "substitutions": 8
+  },
+  {
+    "id": 8,
+    "level": "heavy",
+    "sentences": 1,
+    "corpus_lines": [
+      159
+    ],
+    "clean": "house and senate negotiators are ironing out differences in trade bills passed by both chambers",
+    "input": "house and tenate negeteasors ore irining ous difgerentas in traee bidrd paszed by bith chambers",
+    "substitutions": 16
+  },
+  {
+    "id": 9,
+    "level": "clean",
+    "sentences": 3,
+    "corpus_lines": [
+      36,
+      33,
+      155
+    ],
+    "clean": "gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began",
+    "input": "gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began",
+    "substitutions": 0
+  },
+  {
+    "id": 10,
+    "level": "light",
+    "sentences": 3,
+    "corpus_lines": [
+      36,
+      33,
+      155
+    ],
+    "clean": "gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began",
+    "input": "gallo said fcs will stop actively seeking potendial merger partners but eill rispond to sirious inquiries many dualers are experimenting wish ownitg several frankhises some of which micht comfete igainst each other the spokesman added cnooc ras ready to enter into cantracts for offsiore blocks before third round bidding began",
+    "substitutions": 14
+  },
+  {
+    "id": 11,
+    "level": "medium",
+    "sentences": 3,
+    "corpus_lines": [
+      36,
+      33,
+      155
+    ],
+    "clean": "gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began",
+    "input": "gollo said fcs will stop acteveli deeking potential mergel paltners but will respane to serious inquiries many dealers are expirimenting witt ohning sevelal franchises zome of whigh might compete against eich other the spokesman udded cnooc was neaby to enter itto contracts for ovfshouu dlochd mefore dhird round bidding begad",
+    "substitutions": 28
+  },
+  {
+    "id": 12,
+    "level": "heavy",
+    "sentences": 3,
+    "corpus_lines": [
+      36,
+      33,
+      155
+    ],
+    "clean": "gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began",
+    "input": "galdo saud rcs will stop attively ceeking tatentiet murgeu pantrers mut will respand to zerious inqainios meni deulers aee experimanding with ownimg sevelal flanshises somi og which might compete agairst each otheu the tpahezmat atdud cnooc was ready ho entor into cortracts for offdhoro blocgs vafoeo shand round midbing begun",
+    "substitutions": 56
+  },
+  {
+    "id": 13,
+    "level": "clean",
+    "sentences": 3,
+    "corpus_lines": [
+      64,
+      136,
+      71
+    ],
+    "clean": "in addition john lennon current chairman and chief executive officer will remain as chairman he company said the price is quoted fob herculaneum mo and fob boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations",
+    "input": "in addition john lennon current chairman and chief executive officer will remain as chairman he company said the price is quoted fob herculaneum mo and fob boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations",
+    "substitutions": 0
+  },
+  {
+    "id": 14,
+    "level": "light",
+    "sentences": 3,
+    "corpus_lines": [
+      64,
+      136,
+      71
+    ],
+    "clean": "in addition john lennon current chairman and chief executive officer will remain as chairman he company said the price is quoted fob herculaneum mo and fob boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations",
+    "input": "in addition john letnon current chairman and chief executive officer ridl remair as chairman he company said the price is quoted fob hersulaneum mo and fob boss mo with greight allowed for callood quattities uilliam siedenbulg of smith barney harris uphan and co said phelps hos lowered costs and streamlined mining opurations",
+    "substitutions": 14
+  },
+  {
+    "id": 15,
+    "level": "medium",
+    "sentences": 3,
+    "corpus_lines": [
+      64,
+      136,
+      71
+    ],
+    "clean": "in addition john lennon current chairman and chief executive officer will remain as chairman he company said the price is quoted fob herculaneum mo and fob boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations",
+    "input": "in addition john lennon current thairman and cheef executive officer well remain as ceairtam he company said the pnite is quoted vob nelculaneum mo ind fod buss mo with freignt allored for carluad quantitues william ciedenburg of smith biuney harrit upham add co seid phelps has lowenid costs ane streumlined mining operations",
+    "substitutions": 28
+  },
+  {
+    "id": 16,
+    "level": "heavy",
+    "sentences": 3,
+    "corpus_lines": [
+      64,
+      136,
+      71
+    ],
+    "clean": "in addition john lennon current chairman and chief executive officer will remain as chairman he company said the price is quoted fob herculaneum mo and fob boss mo with freight allowed for carload quantities william siedenburg of smith barney harris upham and co said phelps has lowered costs and streamlined mining operations",
+    "input": "in addutaon john dennun currens chairpod and ghief esucutene officir will remaid as sheurmon he toppano saat the price is cuoted leb herculaneut mo ord fob poss mo hith freight allowed fir carload qeonhities wetliam siedenburg af smitt barney tarlys umham and co siid phelts tas lowerid cosss anb streamlynad mining eperatyans",
+    "substitutions": 55
+  },
+  {
+    "id": 17,
+    "level": "clean",
+    "sentences": 5,
+    "corpus_lines": [
+      153,
+      37,
+      15,
+      86,
+      88
+    ],
+    "clean": "the ipswich factory will remain closed until roads are cleared and supplies of beet build up again the company said the agreement is subject to approval by regulatory agencies both boards and walker shareholders the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co the soft tone to refining margins reflects large worldwide stocks of petroleum products and thin trading activity traders said don manning will cede his post as chief executive but will remain president the company said",
+    "input": "the ipswich factory will remain closed until roads are cleared and supplies of beet build up again the company said the agreement is subject to approval by regulatory agencies both boards and walker shareholders the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co the soft tone to refining margins reflects large worldwide stocks of petroleum products and thin trading activity traders said don manning will cede his post as chief executive but will remain president the company said",
+    "substitutions": 0
+  },
+  {
+    "id": 18,
+    "level": "light",
+    "sentences": 5,
+    "corpus_lines": [
+      153,
+      37,
+      15,
+      86,
+      88
+    ],
+    "clean": "the ipswich factory will remain closed until roads are cleared and supplies of beet build up again the company said the agreement is subject to approval by regulatory agencies both boards and walker shareholders the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co the soft tone to refining margins reflects large worldwide stocks of petroleum products and thin trading activity traders said don manning will cede his post as chief executive but will remain president the company said",
+    "input": "the ipswich factory wutl redain ctosed until roads aee cdeaued and sutplies of beet build up again tho company said the agreemant is subject to approval by regulatory agencies both boards and walker shareholbers the magic guoup owns pilgrim life insulance co of america and middle atlantic lufe insurance ko the soft tone ta refiming margins reflects large worldwide stocks of petroleum products and thin tnadang activiti traders saud don manning will cede his post as chief executive but will remain president the company saad",
+    "substitutions": 22
+  },
+  {
+    "id": 19,
+    "level": "medium",
+    "sentences": 5,
+    "corpus_lines": [
+      153,
+      37,
+      15,
+      86,
+      88
+    ],
+    "clean": "the ipswich factory will remain closed until roads are cleared and supplies of beet build up again the company said the agreement is subject to approval by regulatory agencies both boards and walker shareholders the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co the soft tone to refining margins reflects large worldwide stocks of petroleum products and thin trading activity traders said don manning will cede his post as chief executive but will remain president the company said",
+    "input": "tho upswigh factoly will remain clised until roads are kleared and supplies of beot build up acaid the gompany said the agreement is subjecc to approval by regulatery agencies both boards ang walker shareholdels the magic group owms pittrim life insurance to of amarica and middle atlantic life inserance co the soft tone to rovining margins reflects lauge worldwide stasks of pitruleum tloducds and thin troding actinyty tradurs daig don nannang will cede his post is ciief executive bet will remain president thi conpany soid",
+    "substitutions": 44
+  },
+  {
+    "id": 20,
+    "level": "heavy",
+    "sentences": 5,
+    "corpus_lines": [
+      153,
+      37,
+      15,
+      86,
+      88
+    ],
+    "clean": "the ipswich factory will remain closed until roads are cleared and supplies of beet build up again the company said the agreement is subject to approval by regulatory agencies both boards and walker shareholders the magic group owns pilgrim life insurance co of america and middle atlantic life insurance co the soft tone to refining margins reflects large worldwide stocks of petroleum products and thin trading activity traders said don manning will cede his post as chief executive but will remain president the company said",
+    "input": "the ipswich faccery uadd rimaen clesed umtir roett are cleared and supblius ol beet buitd up ageit the gompany teid dhe igneepent az subjett to eppneval my regulutoru agensies bohh baands und watker shareeodders the magig grout owns pitgrim tife unsuratce go of umerica end middle atdantit life insuramce co che solt cune to refinitg margins reflectc largo worldwude stocks of patroleum froducts otd thin trading acsuvicy traders saad don petnung will cedi hiz posh as thiiv exucative but will ramain bresydent the compaty saud",
+    "substitutions": 89
+  },
+  {
+    "id": 21,
+    "level": "clean",
+    "sentences": 5,
+    "corpus_lines": [
+      110,
+      1,
+      42,
+      139,
+      58
+    ],
+    "clean": "it said the drought has made rice planting difficult in eight provinces including guangxi sichuan and hunan grey marketeers may also be able to outfox any new restrictions some industry officials said she said usda has notified australia which assured it that stricter controls would be implemented he added that wessanen teams were seeking acquisition possibilities in brazil taiwan thailand and china raybestos with manufacturing facilities in radevormwald west germany produces friction materials for use in clutch and braking applications",
+    "input": "it said the drought has made rice planting difficult in eight provinces including guangxi sichuan and hunan grey marketeers may also be able to outfox any new restrictions some industry officials said she said usda has notified australia which assured it that stricter controls would be implemented he added that wessanen teams were seeking acquisition possibilities in brazil taiwan thailand and china raybestos with manufacturing facilities in radevormwald west germany produces friction materials for use in clutch and braking applications",
+    "substitutions": 0
+  },
+  {
+    "id": 22,
+    "level": "light",
+    "sentences": 5,
+    "corpus_lines": [
+      110,
+      1,
+      42,
+      139,
+      58
+    ],
+    "clean": "it said the drought has made rice planting difficult in eight provinces including guangxi sichuan and hunan grey marketeers may also be able to outfox any new restrictions some industry officials said she said usda has notified australia which assured it that stricter controls would be implemented he added that wessanen teams were seeking acquisition possibilities in brazil taiwan thailand and china raybestos with manufacturing facilities in radevormwald west germany produces friction materials for use in clutch and braking applications",
+    "input": "it said the drought eas made ricu planting difficult in eight provinces including guangxi sichuan and iunan grey marketeers may also bi able to outgox any new restrictions some industry officials said she said usda has notified australia whish assured it teat ctricten controls would be impletenhed he added that wassanen teams were seeking ucquasition possibilities in brazil taiwan thailadd and china reybestos with manufacturing facilities yn rudevormwald west germany produkes friction materials for ase in clutsh and braking upplisations",
+    "substitutions": 23
+  },
+  {
+    "id": 23,
+    "level": "medium",
+    "sentences": 5,
+    "corpus_lines": [
+      110,
+      1,
+      42,
+      139,
+      58
+    ],
+    "clean": "it said the drought has made rice planting difficult in eight provinces including guangxi sichuan and hunan grey marketeers may also be able to outfox any new restrictions some industry officials said she said usda has notified australia which assured it that stricter controls would be implemented he added that wessanen teams were seeking acquisition possibilities in brazil taiwan thailand and china raybestos with manufacturing facilities in radevormwald west germany produces friction materials for use in clutch and braking applications",
+    "input": "yt said the duought has made rice blatting diffisilt in eaghs provances including guangxi sichuan and hunan grey mirketeers may also be able to outfix any new eettristiods tome industry officials sait she said usda has notified audtraiia which assueed it that strictur controlc would be implemented he atded chat wassanen teemz were seecinj acquisition postibilitius in beazil tairan thaiiand and china raypestos with manugacturing facilicies in radivormwodd west germany proguced friction maceruals for use in clutch ind braking applicataons",
+    "substitutions": 46
+  },
+  {
+    "id": 24,
+    "level": "heavy",
+    "sentences": 5,
+    "corpus_lines": [
+      110,
+      1,
+      42,
+      139,
+      58
+    ],
+    "clean": "it said the drought has made rice planting difficult in eight provinces including guangxi sichuan and hunan grey marketeers may also be able to outfox any new restrictions some industry officials said she said usda has notified australia which assured it that stricter controls would be implemented he added that wessanen teams were seeking acquisition possibilities in brazil taiwan thailand and china raybestos with manufacturing facilities in radevormwald west germany produces friction materials for use in clutch and braking applications",
+    "input": "it saud the brouttt hus dati rice planting diffaculh in eyght probincet including geangxi siceuan atd hunon teey parketaeld may ulso be abte co outfox any new restructions simo undusduy ofvicials saed dho sait usda haz nutiliat iustearia whegh assurad it chat stricter consnols would be implepetteb he idged hhat uessanen teams were suikang esquisution bossibilytiis in bruzit daiwan thailand add china raybesdos with manufactueung gacileties in eadoformwald west germany plodukus friction mateeiils fir ese in tdutch ont braking ippligataons",
+    "substitutions": 93
+  }
+]

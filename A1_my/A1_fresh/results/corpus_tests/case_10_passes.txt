@@ -1,0 +1,816 @@
+Input before greedy: gallo said fcs will stop actively seeking potendial merger partners but eill rispond to sirious inquiries many dualers are experimenting wish ownitg several frankhises some of which micht comfete igainst each other the spokesman added cnooc ras ready to enter into cantracts for offsiore blocks before third round bidding began
+Output after greedy: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after greedy: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
+Input before beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Output after beam search: gallo said fcs will stop actively seeking potential merger partners but will respond to serious inquiries many dealers are experimenting with owning several franchises some of which might compete against each other the spokesman added cnooc was ready to enter into contracts for offshore blocks before third round bidding began
+Cost after beam search: 32.39569315856273
+
