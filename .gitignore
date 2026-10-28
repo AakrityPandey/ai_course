@@ -1,0 +1,11 @@
+.venv/
+.setup-tmp/
+__pycache__/
+.ipynb_checkpoints/
+chess/lichess-bot/
+chess/.env
+chess/*.token
+chess/game_records/
+chess/lichess_bot.log
+chess/offline_engines/
+chess/offline_results/

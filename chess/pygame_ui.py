@@ -2,6 +2,8 @@
 
 from chess_engine import apply_move, game_status, legal_moves_for_piece
 from chess_engine.rules import is_in_check
+from chess_engine.worker import choose_move_in_process
+import multiprocessing
 
 
 class PygameChessUI:
@@ -30,6 +32,10 @@ class PygameChessUI:
         self.legal_targets = []
         self.last_ui_move = None
         self._last_ai_move_time = 0
+        self._ai_process = None
+        self._ai_connection = None
+        self._ai_error = None
+        self._piece_icons = {}
 
     def run(self):
         try:
@@ -56,11 +62,14 @@ class PygameChessUI:
                     elif event.type == pygame.MOUSEBUTTONUP and event.button == 1:
                         self._handle_click(event.pos, pygame)
 
+                if not running:
+                    break
                 self._play_automatic_turn(pygame)
                 self._draw(screen, pygame, label_font, status_font)
                 pygame.display.flip()
                 clock.tick(30)
         finally:
+            self._stop_ai()
             pygame.quit()
 
         return self.state
@@ -109,6 +118,33 @@ class PygameChessUI:
         self.legal_targets = []
 
     def _play_automatic_turn(self, pygame):
+        if self._ai_connection is not None:
+            if self._ai_connection.poll():
+                try:
+                    success, result = self._ai_connection.recv()
+                except EOFError:
+                    success, result = False, "AI process exited without a move."
+                if success == "branch":
+                    print("  {}  immediate={:+g}  minimax(depth {})={:+g}".format(
+                        self._move_label(result["move"]), result["immediate"],
+                        result["depth"], result["score"]), flush=True)
+                    return
+                self._stop_ai()
+                if success:
+                    if result is not None:
+                        print("Selected: {}\n".format(self._move_label(result)), flush=True)
+                        self._apply(result)
+                    self._last_ai_move_time = pygame.time.get_ticks()
+                else:
+                    self._ai_error = str(result)
+                    print("AI search failed:", result)
+            elif not self._ai_process.is_alive():
+                self._stop_ai()
+                self._ai_error = "AI process exited unexpectedly."
+            return
+
+        if self._ai_error:
+            return
         if game_status(self.state) != "playing":
             return
 
@@ -120,10 +156,40 @@ class PygameChessUI:
         if now - self._last_ai_move_time < 350:
             return
 
-        move = player.choose_move(self.state)
-        if move is not None:
-            self._apply(move)
-        self._last_ai_move_time = now
+        context = multiprocessing.get_context("spawn")
+        receiver, sender = context.Pipe(duplex=False)
+        process = context.Process(
+            target=choose_move_in_process,
+            args=(sender, self.state.copy(), player.mode, player.depth),
+            daemon=True,
+        )
+        try:
+            process.start()
+        except Exception:
+            receiver.close()
+            sender.close()
+            raise
+        sender.close()
+        self._ai_connection = receiver
+        self._ai_process = process
+
+    @staticmethod
+    def _move_label(move):
+        row, col, target_row, target_col = move
+        return "{}{} -> {}{}".format(
+            "abcdefgh"[col], row + 1, "abcdefgh"[target_col], target_row + 1)
+
+    def _stop_ai(self):
+        if self._ai_process is not None:
+            self._ai_process.join(timeout=0.05)
+            if self._ai_process.is_alive():
+                self._ai_process.terminate()
+                self._ai_process.join()
+            self._ai_process.close()
+            self._ai_process = None
+        if self._ai_connection is not None:
+            self._ai_connection.close()
+            self._ai_connection = None
 
     def _draw(self, screen, pygame, label_font, status_font):
         screen.fill(self.BACKGROUND)
@@ -174,56 +240,16 @@ class PygameChessUI:
         screen.blit(status_surface, (self.BOARD_LEFT, self.BOARD_TOP + self.BOARD_SIZE + 20))
 
     def _draw_piece(self, screen, pygame, rect, piece):
-        white_piece = piece > 0
-        fill = self.WHITE_PIECE if white_piece else self.BLACK_PIECE
-        outline = self.BLACK_PIECE if white_piece else self.WHITE_PIECE
-        x, y = rect.center
-        piece_type = abs(piece)
+        from piece_icons import make_piece_icon
 
-        def polygon(points):
-            points = [(x + dx, y + dy) for dx, dy in points]
-            pygame.draw.polygon(screen, fill, points)
-            pygame.draw.polygon(screen, outline, points, width=2)
-
-        # Shared foot gives every silhouette a stable chess-piece shape.
-        pygame.draw.ellipse(screen, fill, (x - 22, y + 17, 44, 10))
-        pygame.draw.ellipse(screen, outline, (x - 22, y + 17, 44, 10), width=2)
-        polygon([(-17, 15), (17, 15), (12, 8), (-12, 8)])
-
-        if piece_type == 1:  # pawn
-            polygon([(-4, 4), (4, 4), (11, 11), (-11, 11)])
-            pygame.draw.circle(screen, fill, (x, y - 10), 9)
-            pygame.draw.circle(screen, outline, (x, y - 10), 9, width=2)
-        elif piece_type == 2:  # knight
-            polygon([
-                (-15, 10), (-13, -4), (-6, -17), (1, -23), (13, -20),
-                (8, -12), (16, -5), (15, 10),
-            ])
-            pygame.draw.circle(screen, outline, (x + 5, y - 15), 2)
-        elif piece_type == 3:  # bishop
-            polygon([(-12, 10), (-8, -3), (-3, -11), (-7, -17), (0, -24),
-                     (7, -17), (3, -11), (8, -3), (12, 10)])
-            pygame.draw.line(screen, outline, (x - 4, y - 17), (x + 4, y - 9), 2)
-        elif piece_type == 4:  # rook
-            pygame.draw.rect(screen, fill, (x - 14, y - 16, 28, 29))
-            pygame.draw.rect(screen, outline, (x - 14, y - 16, 28, 29), width=2)
-            for dx in (-14, -4, 6):
-                pygame.draw.rect(screen, fill, (x + dx, y - 24, 8, 9))
-                pygame.draw.rect(screen, outline, (x + dx, y - 24, 8, 9), width=2)
-        elif piece_type == 5:  # queen
-            polygon([(-15, 9), (-11, -8), (-6, 1), (0, -15), (6, 1),
-                     (12, -8), (15, 9)])
-            for dx, dy in ((-11, -9), (0, -17), (12, -9)):
-                pygame.draw.circle(screen, fill, (x + dx, y + dy), 4)
-                pygame.draw.circle(screen, outline, (x + dx, y + dy), 4, width=2)
-        else:  # king
-            polygon([(-12, 10), (-8, -5), (-4, -12), (4, -12), (8, -5), (12, 10)])
-            pygame.draw.rect(screen, fill, (x - 3, y - 28, 6, 19))
-            pygame.draw.rect(screen, outline, (x - 3, y - 28, 6, 19), width=1)
-            pygame.draw.rect(screen, fill, (x - 10, y - 23, 20, 6))
-            pygame.draw.rect(screen, outline, (x - 10, y - 23, 20, 6), width=1)
+        key = (int(piece), rect.width)
+        if key not in self._piece_icons:
+            self._piece_icons[key] = make_piece_icon(pygame, *key)
+        screen.blit(self._piece_icons[key], rect)
 
     def _status_text(self):
+        if self._ai_error:
+            return "AI error — see notebook output"
         status = game_status(self.state)
         if status == "checkmate":
             winner = "Black" if self.state.turn == 1 else "White"
@@ -234,6 +260,8 @@ class PygameChessUI:
         player_name, player = self.players[self.state.turn]
         color = "White" if self.state.turn == 1 else "Black"
         message = "{} to move — {} ({})".format(color, player_name, player.mode)
+        if self._ai_process is not None:
+            message += " — thinking..."
         if is_in_check(self.state, self.state.turn):
             message += " — check"
         return message

@@ -53,7 +53,7 @@ def _minimax(state, depth, alpha, beta):
     return best_score
 
 
-def calculate_best_move(state, depth=3):
+def calculate_best_move(state, depth=3, on_branch=None):
     """Return the minimax move found within depth plies, or None if game is over."""
     if depth < 1:
         raise ValueError("depth must be at least 1")
@@ -67,7 +67,13 @@ def calculate_best_move(state, depth=3):
     for move in moves:
         child = state.copy()
         apply_move(child, move, validate=False)
-        score = _minimax(child, depth - 1, alpha, beta)
+        # A full window gives an exact value for each reported root branch.
+        # Sharing root bounds is faster but can return only a bound for losers.
+        low, high = (float("-inf"), float("inf")) if on_branch else (alpha, beta)
+        score = _minimax(child, depth - 1, low, high)
+        if on_branch is not None:
+            on_branch({"move": move, "immediate": evaluate_position(child),
+                       "score": score, "depth": depth})
         if ((state.turn == 1 and score > best_score)
                 or (state.turn == -1 and score < best_score)):
             best_score, best_moves = score, [move]

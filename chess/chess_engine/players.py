@@ -14,7 +14,7 @@ class Player:
         self.depth = depth
         self.manual_move_provider = manual_move_provider
 
-    def choose_move(self, state):
+    def choose_move(self, state, on_branch=None):
         if self.mode == "manual":
             if self.manual_move_provider is None:
                 raise ValueError("Manual mode needs a move provider from the UI.")
@@ -26,4 +26,4 @@ class Player:
             return move
         if self.mode == "random":
             return random_move(state)
-        return calculate_best_move(state, depth=self.depth)
+        return calculate_best_move(state, depth=self.depth, on_branch=on_branch)
