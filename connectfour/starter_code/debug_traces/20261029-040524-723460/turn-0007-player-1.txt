@@ -1,0 +1,21 @@
+TURN_START at=67846.590368 limit=2s
+AI_FILE=/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py
+AI_SNAPSHOT=/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/debug_traces/20261029-040524-723460/turn-0007-player-1.ai.py
+If no WORKER_ENTERED follows, startup ended before the worker installed its stack handler.
+WORKER_ENTERED pid=82014 at=67847.460312
+Current thread 0x00000002003eec40 (most recent call first):
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 103 in _expected_line_score
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 80 in evaluate
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 195 in expectimax
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 219 in expectimax
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 206 in expectimax
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 219 in expectimax
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py", line 168 in get_expectimax_move
+  File "/Users/aakritypandey/Documents/trying/ai_course/connectfour/debug_tools/ConnectFour_debug.py", line 75 in turn_worker
+  File "/opt/homebrew/anaconda3/lib/python3.14/multiprocessing/process.py", line 108 in run
+  File "/opt/homebrew/anaconda3/lib/python3.14/multiprocessing/process.py", line 320 in _bootstrap
+  File "/opt/homebrew/anaconda3/lib/python3.14/multiprocessing/spawn.py", line 135 in _main
+  File "/opt/homebrew/anaconda3/lib/python3.14/multiprocessing/spawn.py", line 122 in spawn_main
+  File "<string>", line 1 in <module>
+PARENT_RESULT phase=INSIDE_AI exitcode=-15 elapsed=2.105077s
+STARTUP_SECONDS=0.869944

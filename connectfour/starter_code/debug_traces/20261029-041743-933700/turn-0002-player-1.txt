@@ -1,0 +1,4 @@
+TURN_START at=68575.533267 limit=2s
+AI_FILE=/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py
+AI_SNAPSHOT=/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/debug_traces/20261029-041743-933700/turn-0002-player-1.ai.py
+If no WORKER_ENTERED follows, startup ended before the worker installed its stack handler.

@@ -1,0 +1,12 @@
+TURN_START at=67866.730891 limit=2s
+AI_FILE=/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/connect4/players/ai.py
+AI_SNAPSHOT=/Users/aakritypandey/Documents/trying/ai_course/connectfour/starter_code/debug_traces/20261029-040524-723460/turn-0017-player-1.ai.py
+If no WORKER_ENTERED follows, startup ended before the worker installed its stack handler.
+WORKER_ENTERED pid=83122 at=67867.329609
+AI_RETURNED action=(0, False) at=67867.341263
+ACTION_SENT at=67867.341420
+WORKER_FUNCTION_EXITING
+PARENT_RESULT phase=ACTION_SENT exitcode=0 elapsed=0.992876s
+STARTUP_SECONDS=0.598718
+AI_SECONDS=0.011654
+SEND_SECONDS=0.000158
