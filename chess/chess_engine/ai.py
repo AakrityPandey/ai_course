@@ -2,7 +2,7 @@ import random
 
 from .rules import all_legal_moves, apply_move, game_status, is_in_check
 
-HEURISTICS = ["total material score"]
+HEURISTICS = ["total material score", "on each piece - number of defenders"]
 VALUE_OF_EACH_PIECE = {1: 1, 2: 3, 3: 3, 4: 5, 5: 9, 6: 0}
 MATE_SCORE = 100_000
 

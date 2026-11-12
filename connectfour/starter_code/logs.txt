@@ -1,19 +1,4 @@
-4 8
-0 0 0 0 0 0 0 0 
-0 0 0 0 0 0 0 0 
-0 0 0 0 0 0 0 0 
-0 0 0 0 0 0 0 0 
-6
-{"player": 1, "move": 3, "is_pop": false}
-{"player": 2, "move": 3, "is_pop": false}
-{"player": 1, "move": 3, "is_pop": false}
-{"player": 2, "move": 3, "is_pop": false}
-{"player": 1, "move": 4, "is_pop": false}
-{"player": 2, "move": 4, "is_pop": false}
-{"player": 1, "move": 4, "is_pop": false}
-{"player": 2, "move": 4, "is_pop": false}
-{"player": 1, "move": 5, "is_pop": false}
-{"player": 2, "move": 5, "is_pop": false}
-{"player": 1, "move": 5, "is_pop": false}
-{"player": 2, "move": 5, "is_pop": false}
-{"player": 1, "move": "TLE", "is_pop": "TLE"}
+Game Over
+Player 1 Score: 24
+Player 2 Score: 32
+Margin difference: 33.33333333333333

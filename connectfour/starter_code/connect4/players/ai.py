@@ -7,7 +7,7 @@ This is intentionally a starter, not a completed solution.  Replace the
 TODO sections with your own expectimax and adversarial-search code.
 """
 
-from math import inf
+from math import inf, log2
 from itertools import chain
 from multiprocessing import Array, Value
 import random
@@ -37,6 +37,11 @@ class AIPlayer:
         self.player_number = player_number
         self.opponent = 3 - player_number
         self.time_limit = float(time)
+        search_budget = max(0.1, self.time_limit - 3)
+        # Six moves at two seconds; add one move per doubling of the budget.
+        self.endgame_moves = max(
+            0, min(10, 6 + int(log2(search_budget / 2) // 1))
+        )
         self.type = "ai"
         self.player_string = "Player {}:ai".format(player_number)
         self.start_time = 0.0
@@ -203,8 +208,11 @@ class AIPlayer:
         actions = get_valid_actions(player, state)
         return self._ordered_actions(actions, state[0].shape[1])
 
-    def _root_move_preference(self, board, action):
-        """Small preference for my current move; never applied in minimax."""
+    def _root_move_preference(self, state, action):
+        """Prefer selected current moves while either player has a PopOut."""
+        board, popouts = state
+        if not any(count.get_int() > 0 for count in popouts.values()):
+            return 0.0
         column, is_popout = action
         if not is_popout:
             preferred_player = self.opponent if self.player_number == 1 else self.player_number
@@ -352,7 +360,7 @@ class AIPlayer:
             log_file.write(header + "\n" + divider + "\n")
         endgame_now = np.count_nonzero(state[0] == 0) + 2 * sum(
             count.get_int() for count in state[1].values()
-        ) <= 8
+        ) <= self.endgame_moves
 
         best_action = random.choice(actions)
 
@@ -367,7 +375,7 @@ class AIPlayer:
             beta = inf
             for action in actions:
                 new_state = self.apply_action(state, self.player_number, action)
-                preference = self._root_move_preference(state[0], action)
+                preference = self._root_move_preference(state, action)
                 search_alpha = alpha
                 try:
                     child_value = self.minimax(
@@ -414,10 +422,10 @@ class AIPlayer:
         remaining_moves = np.count_nonzero(state[0] == 0) + 2 * sum(
             count.get_int() for count in state[1].values()
         )
-        if depth <= 0 and remaining_moves > 6:
+        if depth <= 0 and remaining_moves > self.endgame_moves:
             return self.evaluate_move(state[0], last_move, last_player)
 
-        # At six or fewer possible remaining moves, ignore the depth cutoff.
+        # Within the time-based endgame threshold, ignore the depth cutoff.
         # A placement removes one empty cell; a popout consumes one allowance
         # and creates one empty cell, so remaining_moves falls by one either way.
 
