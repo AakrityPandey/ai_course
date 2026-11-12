@@ -1,0 +1,39 @@
+[
+  {
+    "board": "small_congested",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 3,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      8.15,
+      12.05
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 15.65,
+    "error": null,
+    "compute_seconds": 0.7975
+  },
+  {
+    "board": "small_congested",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 3,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      5.4,
+      9.75,
+      13.75
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 14.65,
+    "error": null,
+    "compute_seconds": 3.6109
+  }
+]

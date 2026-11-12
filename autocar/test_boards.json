@@ -1,0 +1,492 @@
+{
+  "small_local": {
+    "world": "m_test_small_local",
+    "base": "small",
+    "transform": "original",
+    "checkpoints": [
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        10
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      5,
+      5,
+      5
+    ],
+    "default_cars": 1
+  },
+  "small_tour": {
+    "world": "m_test_small_tour",
+    "base": "small",
+    "transform": "original",
+    "checkpoints": [
+      [
+        5,
+        14
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        14
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        14
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      21,
+      20,
+      19,
+      20,
+      19,
+      20
+    ],
+    "default_cars": 1
+  },
+  "small_mixed": {
+    "world": "m_test_small_mixed",
+    "base": "small",
+    "transform": "original",
+    "checkpoints": [
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      3,
+      10,
+      3,
+      4,
+      10
+    ],
+    "default_cars": 1
+  },
+  "small_mirror_x": {
+    "world": "m_test_small_mirror_x",
+    "base": "small",
+    "transform": "mirror_x",
+    "checkpoints": [
+      [
+        10,
+        9
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        2,
+        14
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      10,
+      9,
+      18,
+      11
+    ],
+    "default_cars": 1
+  },
+  "small_mirror_y": {
+    "world": "m_test_small_mirror_y",
+    "base": "small",
+    "transform": "mirror_y",
+    "checkpoints": [
+      [
+        7,
+        12
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      18,
+      15,
+      17,
+      3,
+      16
+    ],
+    "default_cars": 1
+  },
+  "small_rotated": {
+    "world": "m_test_small_rotated",
+    "base": "small",
+    "transform": "rotate_180",
+    "checkpoints": [
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        14
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        14
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        14
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      21,
+      20,
+      19,
+      18,
+      20,
+      19
+    ],
+    "default_cars": 1
+  },
+  "small_congested": {
+    "world": "m_test_small_congested",
+    "base": "small",
+    "transform": "original",
+    "checkpoints": [
+      [
+        5,
+        13
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        13
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        13
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      20,
+      18,
+      17,
+      18,
+      17,
+      18
+    ],
+    "default_cars": 3
+  },
+  "lombard_local": {
+    "world": "m_test_lombard_local",
+    "base": "lombard",
+    "transform": "original",
+    "checkpoints": [
+      [
+        19,
+        2
+      ],
+      [
+        16,
+        4
+      ],
+      [
+        16,
+        9
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      5,
+      5,
+      5
+    ],
+    "default_cars": 1
+  },
+  "lombard_tour": {
+    "world": "m_test_lombard_tour",
+    "base": "lombard",
+    "transform": "original",
+    "checkpoints": [
+      [
+        1,
+        4
+      ],
+      [
+        22,
+        10
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        22,
+        9
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        22,
+        1
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      43,
+      43,
+      42,
+      41,
+      41,
+      41
+    ],
+    "default_cars": 1
+  },
+  "lombard_mixed": {
+    "world": "m_test_lombard_mixed",
+    "base": "lombard",
+    "transform": "original",
+    "checkpoints": [
+      [
+        9,
+        4
+      ],
+      [
+        22,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        8,
+        5
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      27,
+      24,
+      39,
+      8,
+      7
+    ],
+    "default_cars": 1
+  },
+  "lombard_mirror_x": {
+    "world": "m_test_lombard_mirror_x",
+    "base": "lombard",
+    "transform": "mirror_x",
+    "checkpoints": [
+      [
+        22,
+        1
+      ],
+      [
+        20,
+        6
+      ],
+      [
+        15,
+        2
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      11,
+      7,
+      9,
+      15
+    ],
+    "default_cars": 1
+  },
+  "lombard_mirror_y": {
+    "world": "m_test_lombard_mirror_y",
+    "base": "lombard",
+    "transform": "mirror_y",
+    "checkpoints": [
+      [
+        12,
+        5
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        18,
+        10
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        20,
+        10
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      23,
+      10,
+      21,
+      27,
+      29
+    ],
+    "default_cars": 1
+  },
+  "lombard_rotated": {
+    "world": "m_test_lombard_rotated",
+    "base": "lombard",
+    "transform": "rotate_180",
+    "checkpoints": [
+      [
+        22,
+        7
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        22,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        21,
+        7
+      ],
+      [
+        1,
+        10
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      43,
+      43,
+      42,
+      41,
+      41,
+      41
+    ],
+    "default_cars": 1
+  },
+  "lombard_congested": {
+    "world": "m_test_lombard_congested",
+    "base": "lombard",
+    "transform": "original",
+    "checkpoints": [
+      [
+        3,
+        10
+      ],
+      [
+        22,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        22,
+        8
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "shortest_steps_per_leg": [
+      37,
+      36,
+      36,
+      35,
+      34,
+      34
+    ],
+    "default_cars": 3
+  }
+}

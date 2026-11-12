@@ -1,0 +1,10 @@
+{
+  "board": "small_local",
+  "driver": "rival_driver",
+  "seed": 1,
+  "status": "collision",
+  "checkpoints_reached": 0,
+  "checkpoints_total": 3,
+  "checkpoint_times": [],
+  "completion_seconds": null
+}

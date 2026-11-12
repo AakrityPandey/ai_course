@@ -1,0 +1,17 @@
+{
+  "board": "small_rotated",
+  "driver": "intelligentDriver",
+  "seed": 1,
+  "status": "completed",
+  "checkpoints_reached": 6,
+  "checkpoints_total": 6,
+  "checkpoint_times": [
+    8.229,
+    13.203,
+    17.574,
+    21.776,
+    26.119,
+    31.956
+  ],
+  "completion_seconds": 31.956
+}

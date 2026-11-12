@@ -1,0 +1,14 @@
+{
+  "board": "small_local",
+  "driver": "intelligentDriver",
+  "seed": 1,
+  "status": "completed",
+  "checkpoints_reached": 3,
+  "checkpoints_total": 3,
+  "checkpoint_times": [
+    1.666,
+    2.741,
+    3.979
+  ],
+  "completion_seconds": 3.979
+}
