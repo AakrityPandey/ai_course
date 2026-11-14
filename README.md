@@ -53,49 +53,70 @@ Both searches use **iterative deepening**. They examine placements from the cent
 
 ### Mathematical heuristic
 
-Let $B$ be the board and let $\mathcal L(B)$ contain all rows, columns, and diagonals. For player $p$, I split each line at the opponent’s pieces. Inside each remaining segment, a cell already occupied by $p$ has probability 1 of belonging to $p$, and an empty cell has probability $1/2$.
+I scan every row, column, and diagonal. A board edge or the other player’s token acts as a break, giving patterns such as
 
-For each possible completion of the segment, I calculate its score using $g(k)$. Let $E_p(\ell)$ be player $p$'s expected score on line $\ell$. The basic board heuristic is
+$$11100011.$$
 
-$$V(B)=\sum_{\ell\in\mathcal L(B)}\left(E_{AI}(\ell)-E_{OPP}(\ell)\right).$$
+Here, $1$ is my token and $0$ is an empty cell. Each empty cell is treated independently as
 
-A positive value favors my AI, while a negative value favors the opponent. This estimate treats empty cells independently. The search applies gravity, legal turns, and PopOut rules when it generates moves.
+$$P(0\rightarrow 1)=\frac12,
+\qquad
+P(0\rightarrow 2)=\frac12,$$
 
-At a minimax depth limit, I also use information about the last move. Define:
+where $2$ is the opponent’s token. If the line has $z$ empty cells, it has $2^z$ possible completed patterns. For $11100011$, $z=3$, so I evaluate 8 patterns.
 
-- $\rho=$ occupied cells divided by total board cells;
-- $O=$ number of cells visible from the new piece along the horizontal, vertical, and two diagonal axes, stopping at the board edge or an opponent piece;
-- $s=1$ when my AI made the last move and $s=-1$ when the opponent made it;
-- $\Delta_p=$ points gained by the player who placed the piece;
-- $\Delta_{\bar p}=$ points the other player would gain by placing in the same cell.
+Let $\Omega_\ell$ be the set of all completed patterns for line $\ell$. For a completed pattern $x$, define
 
-For a placement, the code uses
+$$D(x)=\operatorname{Score}_{AI}(x)-\operatorname{Score}_{OPP}(x).$$
 
-$$H(B)=\rho V(B)+s(1-\rho)O+\Delta_p-\Delta_{\bar p}.$$
+Since every empty cell has probability $1/2$ of becoming either player’s token, a completed pattern with $z$ original empty cells has probability
 
-For a PopOut, no new piece is placed, so it uses
+$$P(x)=\left(\frac12\right)^z.$$
 
-$$H(B)=\rho V(B).$$
+The heuristic value of line $\ell$ is its expected score difference:
 
-Early in the game, $1-\rho$ is large, so open lines around the new piece have more weight. As the board fills, $\rho$ increases, so the expected board score has more weight. I precompute the expected score for every binary segment pattern up to length 12 and reuse these values during search.
+$$h(\ell)=\sum_{x\in\Omega_\ell}P(x)D(x)
+=\sum_{x\in\Omega_\ell}left(\frac12\right)^z
+\left(\operatorname{Score}_{AI}(x)-\operatorname{Score}_{OPP}(x)\right).$$
 
-At the root of minimax, I add a small move preference $P(a)$:
+I repeat this calculation for every pattern, such as $11100011$ and $222000222$, in every row, column, and diagonal. I then sum all their expected score differences. The complete heuristic is the double sum
 
-$$P(a)=
+$$H(B)=
+\sum_{\ell\in\mathcal L(B)}
+\sum_{x\in\Omega_\ell}
+P(x)
+\left(
+\operatorname{Score}_{AI}(x)-
+\operatorname{Score}_{OPP}(x)
+\right),$$
+
+where $\mathcal L(B)$ is the set of all row, column, and diagonal patterns. The inner sum combines every possible completion of one pattern. The outer sum combines all patterns on the board. A larger $H(B)$ means the board is better for my AI.
+
+Directly enumerating these completions at every node of the game tree would be expensive. The maximum row, column, or diagonal length is 12, so the largest single pattern has only $2^{12}=4096$ completions. On the first move, I precompute the expected score for every binary pattern of lengths 1 through 12. The total number of nonempty patterns is
+
+$$\sum_{k=1}^{12}2^k=8190.$$
+
+This one-time computation is manageable. I store the results in lookup tables indexed by pattern length and binary value. Later expectimax and minimax calls read the stored score instead of repeating the exponential calculation. The tables are shared across turn workers, so later moves can reuse them as well.
+
+### PopOut strategy
+
+The code uses zero-based column indices. Player 1 can PopOut from columns $0,2,4,\ldots$, while Player 2 can PopOut from columns $1,3,5,\ldots$. Both players receive a small preference for placing in columns $1,3,5,\ldots$ while either player still has a PopOut.
+
+For Player 1, these are Player 2's PopOut columns. Suppose Player 1 places a piece there and Player 2 later pops it out. Player 1 can place a piece back in the same column on the next move. Player 2 has spent one PopOut, while Player 1 can restore the removed piece. If Player 1 instead builds mainly in columns $0,2,4,\ldots$, Player 1 may later be forced to pop out their own pieces. Player 2 can then keep adding pieces, increasing Player 2's number of pieces on the board and disturbing Player 1's scoring patterns.
+
+Player 2 also prefers columns $1,3,5,\ldots$. By occupying Player 2's own PopOut columns, Player 2 reduces Player 1's chance to create the repeated remove-and-replace situation described above.
+
+On an initially empty $6\times8$ board, Player 2 places the 48th piece and Player 1 moves next. If the board is full and PopOuts are the only legal moves, Player 1 must PopOut first. Player 1 therefore prefers to spend a remaining PopOut on a column containing only Player 2's pieces. This uses one PopOut without removing Player 1's own piece. The heuristic gives this move a bonus of 2. Player 2 receives a penalty of 2 for using a PopOut while more than two cells are empty, encouraging Player 2 to save it for the endgame.
+
+The placement preference is
+
+$$P_{place}(j)=
 \begin{cases}
-0.5, & \text{for a placement in an odd-indexed column while a PopOut remains},\\
-2, & \text{when Player 1 pops a column containing only opponent pieces},\\
--2, & \text{when Player 2 uses a PopOut while more than 2 cells are empty},\\
-0, & \text{otherwise}.
+0.5, & j\bmod 2=1 \text{ and at least one PopOut remains},\\
+0, & \text{otherwise},
 \end{cases}$$
 
-The root value of action $a$ is therefore
-
-$$Q(a)=\operatorname{Minimax}(B_a)+P(a).$$
-
-Expectimax uses $V(B)$ at its depth limit. Minimax uses $H(B)$ at its depth limit. At a terminal state, minimax uses
-
-$$T(B)=10000\left(\operatorname{Score}_{AI}(B)-\operatorname{Score}_{OPP}(B)\right).$$
+where $j$ is the zero-based column index.
 
 ### When the AI searches to the end
 
