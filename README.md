@@ -1,6 +1,6 @@
 # AI course projects
 
-The three projects explore autonomous driving, [Connect Four and PopOut](connectfour/), and sentence correction.
+The three projects explore autonomous driving, Connect Four, and sentence correction.
 
 ## Autonomous driving
 
