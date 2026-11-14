@@ -1,4 +1,0 @@
-Game Over
-Player 1 Score: 24
-Player 2 Score: 32
-Margin difference: 33.33333333333333

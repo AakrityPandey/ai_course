@@ -1,0 +1,984 @@
+[
+  {
+    "board": "small_local",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 3,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      2.8,
+      3.85,
+      4.9
+    ],
+    "completion_seconds": 4.9,
+    "status": "completed",
+    "elapsed_seconds": 4.9,
+    "error": null,
+    "compute_seconds": 0.9917
+  },
+  {
+    "board": "small_local",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 3,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      2.35,
+      3.4,
+      4.45
+    ],
+    "completion_seconds": 4.45,
+    "status": "completed",
+    "elapsed_seconds": 4.45,
+    "error": null,
+    "compute_seconds": 3.7486
+  },
+  {
+    "board": "small_tour",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 6,
+    "checkpoint_times": [
+      5.25,
+      9.55,
+      13.25,
+      17.3,
+      21.0,
+      24.5
+    ],
+    "completion_seconds": 24.5,
+    "status": "completed",
+    "elapsed_seconds": 24.5,
+    "error": null,
+    "compute_seconds": 1.0099
+  },
+  {
+    "board": "small_tour",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      5.55,
+      9.5
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 9.95,
+    "error": null,
+    "compute_seconds": 2.3684
+  },
+  {
+    "board": "small_mixed",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 5,
+    "checkpoint_times": [
+      2.35,
+      4.7,
+      5.3,
+      6.35,
+      8.3
+    ],
+    "completion_seconds": 8.3,
+    "status": "completed",
+    "elapsed_seconds": 8.3,
+    "error": null,
+    "compute_seconds": 0.0993
+  },
+  {
+    "board": "small_mixed",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 5,
+    "checkpoint_times": [
+      1.85,
+      4.05,
+      4.65,
+      6.4,
+      8.65
+    ],
+    "completion_seconds": 8.65,
+    "status": "completed",
+    "elapsed_seconds": 8.65,
+    "error": null,
+    "compute_seconds": 7.0681
+  },
+  {
+    "board": "small_mirror_x",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 4,
+    "checkpoints_reached": 4,
+    "checkpoint_times": [
+      3.4,
+      5.05,
+      8.85,
+      11.0
+    ],
+    "completion_seconds": 11.0,
+    "status": "completed",
+    "elapsed_seconds": 11.0,
+    "error": null,
+    "compute_seconds": 1.8543
+  },
+  {
+    "board": "small_mirror_x",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 4,
+    "checkpoints_reached": 4,
+    "checkpoint_times": [
+      3.1,
+      4.9,
+      8.7,
+      11.55
+    ],
+    "completion_seconds": 11.55,
+    "status": "completed",
+    "elapsed_seconds": 11.55,
+    "error": null,
+    "compute_seconds": 5.7395
+  },
+  {
+    "board": "small_mirror_y",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 5,
+    "checkpoint_times": [
+      5.15,
+      8.5,
+      11.85,
+      12.65,
+      15.4
+    ],
+    "completion_seconds": 15.4,
+    "status": "completed",
+    "elapsed_seconds": 15.4,
+    "error": null,
+    "compute_seconds": 0.4266
+  },
+  {
+    "board": "small_mirror_y",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 5,
+    "checkpoint_times": [
+      5.0,
+      10.5,
+      14.4,
+      15.05,
+      18.95
+    ],
+    "completion_seconds": 18.95,
+    "status": "completed",
+    "elapsed_seconds": 18.95,
+    "error": null,
+    "compute_seconds": 6.5635
+  },
+  {
+    "board": "small_rotated",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      5.95,
+      9.4
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 10.7,
+    "error": null,
+    "collision_beliefs": [
+      {
+        "car": 1,
+        "belief": [
+          {
+            "cell": [
+              3,
+              9
+            ],
+            "p": 0.6442
+          },
+          {
+            "cell": [
+              3,
+              10
+            ],
+            "p": 0.3548
+          }
+        ],
+        "next_belief": [
+          {
+            "cell": [
+              3,
+              9
+            ],
+            "p": 0.5161
+          },
+          {
+            "cell": [
+              3,
+              10
+            ],
+            "p": 0.3409
+          },
+          {
+            "cell": [
+              4,
+              10
+            ],
+            "p": 0.1425
+          }
+        ]
+      }
+    ],
+    "compute_seconds": 0.1522
+  },
+  {
+    "board": "small_rotated",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 6,
+    "checkpoint_times": [
+      5.75,
+      9.9,
+      13.55,
+      17.05,
+      21.2,
+      24.9
+    ],
+    "completion_seconds": 24.9,
+    "status": "completed",
+    "elapsed_seconds": 24.9,
+    "error": null,
+    "compute_seconds": 8.1775
+  },
+  {
+    "board": "small_congested",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 3,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 6,
+    "checkpoint_times": [
+      5.5,
+      9.2,
+      12.6,
+      16.2,
+      19.65,
+      23.25
+    ],
+    "completion_seconds": 23.25,
+    "status": "completed",
+    "elapsed_seconds": 23.25,
+    "error": null,
+    "compute_seconds": 0.7144
+  },
+  {
+    "board": "small_congested",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 3,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      5.4,
+      9.75,
+      13.75
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 14.65,
+    "error": null,
+    "compute_seconds": 3.5738
+  },
+  {
+    "board": "lombard_local",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 3,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      2.4,
+      3.6,
+      4.65
+    ],
+    "completion_seconds": 4.65,
+    "status": "completed",
+    "elapsed_seconds": 4.65,
+    "error": null,
+    "compute_seconds": 0.0901
+  },
+  {
+    "board": "lombard_local",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 3,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      2.35,
+      3.3,
+      4.4
+    ],
+    "completion_seconds": 4.4,
+    "status": "completed",
+    "elapsed_seconds": 4.4,
+    "error": null,
+    "compute_seconds": 1.8219
+  },
+  {
+    "board": "lombard_tour",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 4,
+    "checkpoint_times": [
+      9.1,
+      16.85,
+      24.45,
+      31.85
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 37.1,
+    "error": null,
+    "collision_beliefs": [
+      {
+        "car": 1,
+        "belief": [
+          {
+            "cell": [
+              5,
+              7
+            ],
+            "p": 0.3621
+          },
+          {
+            "cell": [
+              5,
+              8
+            ],
+            "p": 0.4073
+          },
+          {
+            "cell": [
+              6,
+              7
+            ],
+            "p": 0.2212
+          }
+        ],
+        "next_belief": [
+          {
+            "cell": [
+              5,
+              8
+            ],
+            "p": 0.2609
+          },
+          {
+            "cell": [
+              6,
+              6
+            ],
+            "p": 0.0564
+          },
+          {
+            "cell": [
+              6,
+              7
+            ],
+            "p": 0.596
+          },
+          {
+            "cell": [
+              6,
+              8
+            ],
+            "p": 0.0639
+          }
+        ]
+      }
+    ],
+    "compute_seconds": 0.627
+  },
+  {
+    "board": "lombard_tour",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      10.2,
+      23.8
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 28.4,
+    "error": null,
+    "compute_seconds": 16.2427
+  },
+  {
+    "board": "lombard_mixed",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      6.55,
+      10.9
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 16.05,
+    "error": null,
+    "collision_beliefs": [
+      {
+        "car": 1,
+        "belief": [
+          {
+            "cell": [
+              18,
+              4
+            ],
+            "p": 0.6166
+          },
+          {
+            "cell": [
+              18,
+              5
+            ],
+            "p": 0.2788
+          },
+          {
+            "cell": [
+              18,
+              6
+            ],
+            "p": 0.0908
+          }
+        ],
+        "next_belief": [
+          {
+            "cell": [
+              18,
+              4
+            ],
+            "p": 0.545
+          },
+          {
+            "cell": [
+              18,
+              5
+            ],
+            "p": 0.067
+          },
+          {
+            "cell": [
+              18,
+              6
+            ],
+            "p": 0.0739
+          },
+          {
+            "cell": [
+              19,
+              4
+            ],
+            "p": 0.2745
+          }
+        ]
+      }
+    ],
+    "compute_seconds": 0.2974
+  },
+  {
+    "board": "lombard_mixed",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      6.5,
+      11.25
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 13.9,
+    "error": null,
+    "compute_seconds": 7.5626
+  },
+  {
+    "board": "lombard_mirror_x",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 4,
+    "checkpoints_reached": 4,
+    "checkpoint_times": [
+      3.7,
+      5.0,
+      6.75,
+      9.25
+    ],
+    "completion_seconds": 9.25,
+    "status": "completed",
+    "elapsed_seconds": 9.25,
+    "error": null,
+    "compute_seconds": 0.1216
+  },
+  {
+    "board": "lombard_mirror_x",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 4,
+    "checkpoints_reached": 4,
+    "checkpoint_times": [
+      3.45,
+      5.0,
+      6.8,
+      9.7
+    ],
+    "completion_seconds": 9.7,
+    "status": "completed",
+    "elapsed_seconds": 9.7,
+    "error": null,
+    "compute_seconds": 4.9493
+  },
+  {
+    "board": "lombard_mirror_y",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 5,
+    "checkpoint_times": [
+      5.9,
+      7.7,
+      11.55,
+      17.4,
+      21.9
+    ],
+    "completion_seconds": 21.9,
+    "status": "completed",
+    "elapsed_seconds": 21.9,
+    "error": null,
+    "compute_seconds": 0.2674
+  },
+  {
+    "board": "lombard_mirror_y",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 5,
+    "checkpoints_reached": 2,
+    "checkpoint_times": [
+      5.9,
+      7.9
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 10.4,
+    "error": null,
+    "compute_seconds": 5.4327
+  },
+  {
+    "board": "lombard_rotated",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 6,
+    "checkpoint_times": [
+      9.1,
+      17.1,
+      24.75,
+      31.5,
+      39.5,
+      49.0
+    ],
+    "completion_seconds": 49.0,
+    "status": "completed",
+    "elapsed_seconds": 49.0,
+    "error": null,
+    "compute_seconds": 1.0409
+  },
+  {
+    "board": "lombard_rotated",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 1,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 3,
+    "checkpoint_times": [
+      9.7,
+      20.7,
+      29.75
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 32.6,
+    "error": null,
+    "compute_seconds": 34.7878
+  },
+  {
+    "board": "lombard_congested",
+    "driver": "Your driver",
+    "seed": 1,
+    "cars": 3,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 1,
+    "checkpoint_times": [
+      9.35
+    ],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 11.05,
+    "error": null,
+    "collision_beliefs": [
+      {
+        "car": 1,
+        "belief": [
+          {
+            "cell": [
+              11,
+              5
+            ],
+            "p": 0.1896
+          },
+          {
+            "cell": [
+              11,
+              6
+            ],
+            "p": 0.1079
+          },
+          {
+            "cell": [
+              12,
+              6
+            ],
+            "p": 0.2819
+          },
+          {
+            "cell": [
+              12,
+              7
+            ],
+            "p": 0.3966
+          }
+        ],
+        "next_belief": [
+          {
+            "cell": [
+              10,
+              6
+            ],
+            "p": 0.0265
+          },
+          {
+            "cell": [
+              11,
+              5
+            ],
+            "p": 0.084
+          },
+          {
+            "cell": [
+              11,
+              6
+            ],
+            "p": 0.0906
+          },
+          {
+            "cell": [
+              12,
+              6
+            ],
+            "p": 0.2467
+          },
+          {
+            "cell": [
+              12,
+              7
+            ],
+            "p": 0.4191
+          },
+          {
+            "cell": [
+              12,
+              8
+            ],
+            "p": 0.0268
+          },
+          {
+            "cell": [
+              13,
+              8
+            ],
+            "p": 0.0787
+          }
+        ]
+      },
+      {
+        "car": 2,
+        "belief": [
+          {
+            "cell": [
+              8,
+              4
+            ],
+            "p": 0.0224
+          },
+          {
+            "cell": [
+              9,
+              4
+            ],
+            "p": 0.1957
+          },
+          {
+            "cell": [
+              10,
+              4
+            ],
+            "p": 0.2979
+          },
+          {
+            "cell": [
+              11,
+              5
+            ],
+            "p": 0.4226
+          },
+          {
+            "cell": [
+              12,
+              6
+            ],
+            "p": 0.0389
+          }
+        ],
+        "next_belief": [
+          {
+            "cell": [
+              9,
+              4
+            ],
+            "p": 0.1484
+          },
+          {
+            "cell": [
+              10,
+              4
+            ],
+            "p": 0.1844
+          },
+          {
+            "cell": [
+              10,
+              5
+            ],
+            "p": 0.1482
+          },
+          {
+            "cell": [
+              11,
+              5
+            ],
+            "p": 0.2177
+          },
+          {
+            "cell": [
+              11,
+              6
+            ],
+            "p": 0.1521
+          },
+          {
+            "cell": [
+              12,
+              6
+            ],
+            "p": 0.1129
+          }
+        ]
+      },
+      {
+        "car": 3,
+        "belief": [
+          {
+            "cell": [
+              7,
+              5
+            ],
+            "p": 0.3245
+          },
+          {
+            "cell": [
+              8,
+              4
+            ],
+            "p": 0.1944
+          },
+          {
+            "cell": [
+              8,
+              5
+            ],
+            "p": 0.1587
+          },
+          {
+            "cell": [
+              9,
+              4
+            ],
+            "p": 0.0717
+          },
+          {
+            "cell": [
+              9,
+              5
+            ],
+            "p": 0.1967
+          },
+          {
+            "cell": [
+              10,
+              5
+            ],
+            "p": 0.0329
+          }
+        ],
+        "next_belief": [
+          {
+            "cell": [
+              7,
+              5
+            ],
+            "p": 0.1623
+          },
+          {
+            "cell": [
+              8,
+              4
+            ],
+            "p": 0.2579
+          },
+          {
+            "cell": [
+              8,
+              5
+            ],
+            "p": 0.1579
+          },
+          {
+            "cell": [
+              8,
+              6
+            ],
+            "p": 0.0575
+          },
+          {
+            "cell": [
+              9,
+              4
+            ],
+            "p": 0.1407
+          },
+          {
+            "cell": [
+              9,
+              5
+            ],
+            "p": 0.1265
+          },
+          {
+            "cell": [
+              9,
+              6
+            ],
+            "p": 0.0397
+          },
+          {
+            "cell": [
+              10,
+              4
+            ],
+            "p": 0.0209
+          }
+        ]
+      }
+    ],
+    "compute_seconds": 0.4878
+  },
+  {
+    "board": "lombard_congested",
+    "driver": "Rival",
+    "seed": 1,
+    "cars": 3,
+    "parked": false,
+    "checkpoints_total": 6,
+    "checkpoints_reached": 0,
+    "checkpoint_times": [],
+    "completion_seconds": null,
+    "status": "collision",
+    "elapsed_seconds": 7.0,
+    "error": null,
+    "compute_seconds": 3.6657
+  }
+]
