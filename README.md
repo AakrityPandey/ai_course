@@ -65,9 +65,9 @@ P(0\rightarrow 2)=\frac12,$$
 
 where $2$ is the opponent’s token. If the line has $z$ empty cells, it has $2^z$ possible completed patterns. For $11100011$, $z=3$, so I evaluate 8 patterns.
 
-Let $\Omega_\ell$ be the set of all completed patterns for line $\ell$. For a completed pattern $x$, define
+Let $\Omega_\ell$ be the set of all completed patterns for line $\ell$. Let $S_{AI}(x)$ and $S_{OPP}(x)$ be the two players' scores in completed pattern $x$. Define
 
-$$D(x)=\operatorname{Score}_{AI}(x)-\operatorname{Score}_{OPP}(x).$$
+$$D(x)=S_{AI}(x)-S_{OPP}(x).$$
 
 Since every empty cell has probability $1/2$ of becoming either player’s token, a completed pattern with $z$ original empty cells has probability
 
@@ -76,8 +76,8 @@ $$P(x)=\left(\frac12\right)^z.$$
 The heuristic value of line $\ell$ is its expected score difference:
 
 $$h(\ell)=\sum_{x\in\Omega_\ell}P(x)D(x)
-=\sum_{x\in\Omega_\ell}left(\frac12\right)^z
-\left(\operatorname{Score}_{AI}(x)-\operatorname{Score}_{OPP}(x)\right).$$
+=\sum_{x\in\Omega_\ell}\left(\frac12\right)^z
+\left(S_{AI}(x)-S_{OPP}(x)\right).$$
 
 I repeat this calculation for every pattern, such as $11100011$ and $222000222$, in every row, column, and diagonal. I then sum all their expected score differences. The complete heuristic is the double sum
 
@@ -86,8 +86,7 @@ $$H(B)=
 \sum_{x\in\Omega_\ell}
 P(x)
 \left(
-\operatorname{Score}_{AI}(x)-
-\operatorname{Score}_{OPP}(x)
+S_{AI}(x)-S_{OPP}(x)
 \right),$$
 
 where $\mathcal L(B)$ is the set of all row, column, and diagonal patterns. The inner sum combines every possible completion of one pattern. The outer sum combines all patterns on the board. A larger $H(B)$ means the board is better for my AI.
