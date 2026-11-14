@@ -19,15 +19,7 @@ To write each prediction followed by its language-model cost, use the scored run
 python run_with_scores.py -src data/input.txt -tar predictions_scored.txt -tm 2
 ```
 
-## How the solver chooses a correction
-
-1. **Generate plausible edits.** The solver reverses the [confusion matrix](data/conf_matrix.json) to look up possible original characters for each observed character. An edit replaces one character at one position. Word lengths and whitespace within the solver input stay fixed.
-2. **Make a greedy pass.** Working left to right, the solver tries single-character edits to each word and adopts a candidate only when it reduces the language-model cost. It scores the word with up to five words on either side. Later words therefore see corrections already made to their left.
-3. **Search for multi-character corrections.** Subsequent passes use beam search. For each word, the solver explores up to four substitutions in sequence and retains up to 100 candidates per depth for further expansion. A temporarily worse spelling can lead to a better one on the next edit. A visited set avoids rescoring the same spelling within that word search.
-4. **Stop an unpromising word search early.** If at least seven of the first ten distinct alternatives score strictly worse than the unchanged word in context, the solver moves on. Equal costs do not count toward the seven. This saves scoring work but can skip improvements that require deeper edits.
-5. **Keep a usable answer throughout.** After each word, the solver updates `best_state`. It checks the whole-sentence cost every 50 word updates and at pass boundaries. With the defaults, completed passes append their input, output, and cost to `results/greedy_results.txt` or `results/beam_results.txt`. Random tie-breaking can change the correction between runs.
-
-The [language model](language_model.py) scores word sequences using n-gram counts. This distinction matters in evaluation: a lower-cost correction can still disagree with the original sentence.
+For the search algorithm and design decisions, see [Sentence correction in the AI course README](../README.md#sentence-correction).
 
 ## Evaluate against clean text
 
