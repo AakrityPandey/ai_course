@@ -9,3 +9,5 @@ chess/game_records/
 chess/lichess_bot.log
 chess/offline_engines/
 chess/offline_results/
+
+/backup/
